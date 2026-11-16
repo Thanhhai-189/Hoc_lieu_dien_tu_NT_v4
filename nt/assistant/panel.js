@@ -197,7 +197,6 @@
       panel.hidden = false;
       launch.setAttribute('aria-expanded', 'true');
       launch.setAttribute('aria-label', 'Thu gọn Trợ lý tra cứu');
-      top.setAttribute('aria-expanded', 'true');
       setModalState();
       showAnswer([...history.querySelectorAll('.nt-chat-answer')].at(-1));
       prepareSearch().then(() => {
@@ -212,7 +211,7 @@
     panel.hidden = true;
     launch.setAttribute('aria-expanded', 'false');
     launch.setAttribute('aria-label', 'Mở Trợ lý tra cứu');
-    top.setAttribute('aria-expanded', 'false');
+    // top.setAttribute('aria-expanded', 'false');
     clearSuggestions();
     setModalState();
     if (returnFocus) (lastFocus?.isConnected ? lastFocus : launch).focus({preventScroll: true});
