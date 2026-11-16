@@ -1,0 +1,336 @@
+[
+  {
+    "key": "abs", "lesson": "10.3.5", "title": "Hệ thống chống bó cứng bánh xe (ABS)",
+    "keywords": ["ABS", "chống bó cứng bánh xe", "chống hãm cứng bánh xe", "chống khóa bánh", "anti lock braking system"],
+    "text": "Cảm biến cung cấp tín hiệu tốc độ quay bánh xe. ECU nhận biết xu hướng bó cứng và điều khiển bộ chấp hành thay đổi áp suất phanh ở bánh xe. Việc điều chỉnh giúp bánh xe còn khả năng truyền lực ngang, hỗ trợ giữ ổn định hướng và khả năng lái khi phanh. Quãng đường phanh và vùng trượt làm việc phụ thuộc điều kiện bám giữa lốp và mặt đường.",
+    "pages": [92, 93], "figureNumber": "10.58", "more": ["abs-oil", "abs-air", "abs-slip"]
+  },
+  {
+    "key": "abs-oil", "lesson": "10.3.5", "title": "Ba chế độ áp suất của ABS thủy lực",
+    "keywords": ["ABS thủy lực", "tăng áp giữ áp giảm áp", "3 chế độ áp suất", "điều khiển áp suất dầu", "van nạp van xả", "bộ chấp hành abs", "xả dầu phanh"],
+    "text": "Với sơ đồ ABS thủy lực hai van trong học liệu, tăng áp mở van nạp và đóng van xả. Giữ áp đóng cả hai van để cô lập mạch tại cơ cấu phanh bánh xe. Giảm áp đóng van nạp và mở van xả để dầu về bình tích áp. ECU chọn chế độ theo tín hiệu và trạng thái bánh xe. Sơ đồ minh họa hoạt động của từng van trong kết cấu đang xét.",
+    "phases": {
+      "tang_ap": "Trong sơ đồ ABS thủy lực hai van, van nạp mở và van xả đóng. Dầu được cấp tới cơ cấu phanh bánh xe để tăng áp suất.",
+      "giu_ap": "Trong sơ đồ ABS thủy lực hai van, cả van nạp và van xả đều đóng. Đường dầu ở cơ cấu phanh bánh xe được cô lập để duy trì áp suất.",
+      "giam_ap": "Trong sơ đồ ABS thủy lực hai van, van nạp đóng và van xả mở. Dầu từ cơ cấu phanh bánh xe có đường về bình tích áp, làm giảm áp suất tại bánh."
+    },
+    "pages": [93, 94], "figureNumber": "10.60", "more": ["abs-air", "abs-slip"]
+  },
+  {
+    "key": "abs-air", "lesson": "10.3.5", "title": "Ba chế độ của ABS khí nén",
+    "keywords": ["ABS khí nén", "ABS phanh hơi", "bộ điều biến khí nén", "bầu phanh ABS", "cửa A B C", "Hình 10.72", "Hình 10.73"],
+    "text": "Trong sơ đồ ABS khí nén ở Tập 2, cửa A nối nguồn khí qua van phân phối, cửa B nối bầu phanh và cửa C thông khí trời. Tăng áp thông A với B để cấp khí. Giữ áp cô lập B bằng cách đóng đường cấp và đường xả. Giảm áp ngắt đường cấp và thông B với C để xả khí khỏi bầu phanh.",
+    "phases": {
+      "tang_ap": "Bộ điều biến thông cửa A với cửa B để cấp khí vào bầu phanh và đóng đường xả C. Áp suất trong bầu phanh tăng.",
+      "giu_ap": "Bộ điều biến đóng cả đường cấp từ A và đường xả ra C. Cửa B nối với bầu phanh được cô lập để duy trì áp suất.",
+      "giam_ap": "Bộ điều biến đóng đường cấp từ A và thông B với C. Khí từ bầu phanh thoát ra khí trời, làm giảm áp suất trong bầu."
+    },
+    "pages": [100, 101], "figureNumber": "10.72", "more": ["abs-oil", "air-brake"]
+  },
+  {
+    "key": "abs-slip", "lesson": "10.3.5", "title": "Hệ số trượt và khả năng bám khi phanh",
+    "keywords": ["hệ số trượt", "độ trượt ABS", "đặc tính trượt", "15 20 phần trăm", "15 20 lần giây", "tần số ABS", "quãng đường phanh ABS"],
+    "text": "Đường đặc tính ở Hình 10.57 cho thấy lực bám dọc tăng đến cực đại rồi có xu hướng giảm khi bánh tiến gần trạng thái bó cứng. Hệ số trượt ở cực đại thay đổi theo lốp, tải trọng, tốc độ và mặt đường. Tài liệu dùng vùng trượt thích hợp để giải thích nguyên lý ABS. Muốn xác định tần số điều áp hoặc giá trị đặt cụ thể cần dữ liệu của hệ thống đang xét.",
+    "pages": [92, 93], "figureNumber": "10.57", "more": ["abs", "abs-oil"]
+  },
+  {
+    "key": "wheel-sensor", "lesson": "10.3.5", "title": "Cảm biến tốc độ bánh xe của ABS",
+    "keywords": ["cảm biến tốc độ bánh xe", "cảm biến ABS", "wheel speed sensor", "tín hiệu tốc độ bánh", "vòng răng cảm biến"],
+    "text": "Cảm biến tốc độ bánh xe cung cấp tín hiệu về trạng thái quay của bánh. ECU phân tích tín hiệu từ các cảm biến để đánh giá mức trượt và điều khiển bộ chấp hành. Hình 10.58 chỉ vị trí cảm biến trước và sau trong sơ đồ ABS thủy lực.",
+    "pages": [92, 93, 96], "figureNumber": "10.58", "more": ["abs", "abs-oil"]
+  },
+  {
+    "key": "ebd", "lesson": "10.3.5", "title": "Phân phối lực phanh điện tử (EBD)",
+    "keywords": ["EBD", "phân phối lực phanh điện tử", "phân bố lực phanh", "lực phanh cầu trước cầu sau"],
+    "text": "EBD điều chỉnh phân bố lực phanh theo tải trọng và tình trạng bám, giúp hạn chế nguy cơ bánh sau bó cứng sớm và giữ ổn định hướng khi phanh. EBD phối hợp với ABS và dùng các tín hiệu liên quan đến tốc độ bánh xe. ABS tập trung phát hiện và điều chỉnh áp suất khi bánh có xu hướng bó cứng.",
+    "pages": [102, 103], "figureNumber": "10.74", "more": ["abs", "aeb"]
+  },
+  {
+    "key": "aeb", "lesson": "10.3.5", "title": "Cảnh báo va chạm phía trước (FCW) và phanh khẩn cấp tự động (AEB)",
+    "keywords": ["FCW", "AEB", "cảnh báo va chạm", "phanh khẩn cấp tự động", "phanh tự động", "automatic emergency braking"],
+    "text": "FCW phát cảnh báo cho người lái khi phát hiện nguy cơ va chạm phía trước. AEB có thể yêu cầu hệ thống phanh tự động giảm tốc khi nguy cơ va chạm đáp ứng điều kiện can thiệp. Hiệu quả và mức can thiệp phụ thuộc thiết kế hệ thống và tình huống thực tế.",
+    "pages": [104, 105], "more": ["ebd", "abs"]
+  },
+  {
+    "key": "epb", "lesson": "10.3.5", "title": "Phanh đỗ điện tử (EPB)",
+    "keywords": ["EPB", "phanh tay điện tử", "phanh đỗ điện tử", "auto hold"],
+    "text": "EPB dùng bộ điều khiển và cơ cấu chấp hành điện để thực hiện chức năng phanh đỗ. Ở ví dụ trong Tập 2, cơ cấu chấp hành tạo lực ép má phanh vào đĩa phanh. ECU xử lý tín hiệu từ công tắc EPB và các cảm biến liên quan.",
+    "pages": [106, 107, 109], "figureNumber": "10.77", "more": ["abs", "ebd"]
+  },
+  {
+    "key": "air-brake", "lesson": "10.3.3", "title": "Nguyên lý dẫn động phanh khí nén",
+    "keywords": ["phanh khí nén", "phanh hơi", "van phanh tổng", "bầu phanh", "máy nén khí", "dẫn động khí nén"],
+    "text": "Máy nén nạp khí vào bình chứa. Khi đạp phanh, van phanh tổng điều khiển khí nén tới bầu phanh. Màng hoặc pít-tông của bầu phanh biến áp suất khí thành lực tác dụng lên cơ cấu phanh. Khi thôi phanh, đường khí tới bầu được xả và cơ cấu hồi vị theo sơ đồ trong bài.",
+    "pages": [82, 83, 84], "figureNumber": "10.46", "more": ["hydraulic-brake", "abs-air"]
+  },
+  {
+    "key": "hydraulic-brake", "lesson": "10.3.2", "title": "Nguyên lý dẫn động phanh thủy lực",
+    "keywords": ["phanh dầu", "dẫn động phanh thủy lực", "dẫn động phanh bằng thủy lực", "dẫn động phanh dầu", "xi lanh chính truyền áp", "hydraulic brake"],
+    "text": "Khi đạp phanh, xi lanh chính tạo áp suất trong mạch dầu. Áp suất truyền qua đường ống tới xi lanh công tác hoặc pít-tông cùm phanh. Lực tại cơ cấu phanh ép guốc hoặc má phanh để tạo mô men phanh. Khi nhả bàn đạp, áp suất giảm và các chi tiết hồi về theo kết cấu của cơ cấu.",
+    "pages": [72, 73, 74], "figureNumber": "10.34", "more": ["air-brake", "vacuum-booster", "abs-oil"]
+  },
+  {
+    "key": "clutch", "lesson": "2.2.1", "title": "Đóng và ngắt ly hợp ma sát một đĩa",
+    "keywords": ["ly hợp", "li hợp", "bộ côn", "côn xe", "đạp côn", "nhả côn", "ly hợp ma sát một đĩa", "ly hợp 1 đĩa", "bạc mở", "lò xo màng"],
+    "text": "Khi nhả bàn đạp, lò xo ép kẹp đĩa ma sát giữa bánh đà và đĩa ép, đưa mô men tới trục sơ cấp hộp số. Khi đạp hết hành trình ngắt, dẫn động điều khiển tác động qua bạc mở để giải phóng lực kẹp và cắt đường truyền mô men. Khi nhả bàn đạp dần, lực kẹp tăng trở lại và đĩa ma sát có thể trượt trong giai đoạn tiếp nối.",
+    "figureNumber": "2.1", "more": ["dct", "synchro"]
+  },
+  {
+    "key": "three-shaft", "lesson": "3.2.2", "title": "Đường truyền trong hộp số ba trục",
+    "keywords": ["hộp số ba trục", "hộp số 3 trục", "trục sơ cấp trung gian thứ cấp", "số truyền thẳng", "số tiến gián tiếp"],
+    "text": "Ở một số tiến gián tiếp của hộp số ba trục, mô men đi từ trục sơ cấp qua trục trung gian và cặp bánh răng được chọn tới trục thứ cấp. Ở số truyền thẳng của kết cấu minh họa, khớp gài nối trục sơ cấp với trục thứ cấp để hai trục quay cùng tốc độ. Trục thứ cấp đưa mô men ra khỏi hộp số.",
+    "more": ["two-shaft", "synchro"]
+  },
+  {
+    "key": "two-shaft", "lesson": "3.2.3", "title": "Đường truyền trong hộp số hai trục",
+    "keywords": ["hộp số hai trục", "hộp số 2 trục", "hộp số hai trục vận hành", "transaxle", "M5CF1"],
+    "text": "Trục sơ cấp nhận mô men từ ly hợp. Khi gài số, cơ cấu gài cố định bánh răng của cấp số đã chọn với trục. Mô men đi qua cặp bánh răng tương ứng tới trục thứ cấp. Ở dạng transaxle trong bài, hộp số và truyền lực chính được bố trí chung cụm.",
+    "figureNumber": "3.26", "more": ["synchro", "final-drive"]
+  },
+  {
+    "key": "final-drive", "lesson": "7.2.1", "title": "Công dụng và đường truyền của truyền lực chính",
+    "keywords": ["truyền lực chính", "bộ truyền lực chính", "bánh răng côn chủ động", "bánh răng côn bị động", "final drive"],
+    "text": "Truyền lực chính giảm tốc độ quay và tăng mô men đưa tới cầu chủ động. Trong sơ đồ bánh răng côn của bài, bánh răng chủ động truyền tới bánh răng bị động và đổi hướng đường truyền. Bánh răng bị động gắn với vỏ vi sai để truyền mô men tới các bán trục.",
+    "figureNumber": "7.2", "more": ["differential", "halfshaft"]
+  },
+  {
+    "key": "halfshaft", "lesson": "7.2.3", "title": "Công dụng của bán trục và vỏ cầu",
+    "keywords": ["bán trục", "vỏ cầu", "bán trục giảm tải", "tải uốn bán trục", "half shaft"],
+    "text": "Bán trục truyền mô men từ bộ vi sai tới bánh xe chủ động. Mức tải uốn mà bán trục phải chịu phụ thuộc cách bố trí ổ đỡ ở đầu ngoài. Vỏ cầu làm giá đỡ và bao che các bộ phận của cầu. Có thể xem riêng đường truyền mô men và đường chịu tải trên sơ đồ của bài.",
+    "more": ["differential", "final-drive"]
+  },
+  {
+    "key": "synchro", "lesson": "3.3.2", "title": "Cơ cấu đồng tốc và gài số",
+    "keywords": ["cơ cấu đồng tốc", "bộ đồng tốc", "synchronizer", "gài số", "vành đồng tốc", "ống trượt", "mặt côn ma sát"],
+    "text": "Khi thao tác gài số, ống trượt và vành ma sát dịch chuyển. Mặt côn của vành ma sát tỳ vào mặt côn bánh răng, tạo mô men ma sát để giảm chênh lệch tốc độ. Khi tốc độ đã được đồng đều, răng gài ăn khớp và ống trượt nối bánh răng đã chọn với trục.",
+    "more": ["clutch", "dct"]
+  },
+  {
+    "key": "dct", "lesson": "4.2.2", "title": "Chuyển số ở hộp số ly hợp kép (DCT)",
+    "keywords": ["DCT", "DSG", "hộp số ly hợp kép", "hộp số hai ly hợp", "chuyển số 2 sang 3", "chọn trước số"],
+    "text": "Ở ví dụ chuyển từ số 2 sang số 3, ly hợp 2 đang truyền mô men qua nhánh số chẵn. Cơ cấu điều khiển chọn trước số 3 trên nhánh còn lại trong khi ly hợp 1 đang ngắt. Hệ thống giảm tác động ly hợp 2 và tăng tác động ly hợp 1 để chuyển mô men sang nhánh số lẻ.",
+    "figureNumber": "4.1", "more": ["cvt", "converter"]
+  },
+  {
+    "key": "converter", "lesson": "4.3.1", "title": "Biến mô thủy lực và ly hợp khóa biến mô",
+    "keywords": ["biến mô", "bộ biến mô", "biến mô thủy lực", "bánh bơm", "tua bin", "stato", "torque converter", "lock up", "hộp số AT"],
+    "text": "Động cơ dẫn động bánh bơm. Dòng dầu mang năng lượng tới bánh tua-bin để truyền mô men tới hộp số. Stato đổi hướng dòng dầu hồi và có thể được khớp một chiều giữ ở chế độ biến mô. Mức khuếch đại mô men phụ thuộc trạng thái làm việc và độ trượt. Khi ly hợp khóa biến mô đóng, đường truyền gần cơ khí trực tiếp.",
+    "figureNumber": "4.3", "more": ["dct", "cvt"]
+  },
+  {
+    "key": "cvt", "lesson": "4.4.2", "title": "Thay đổi tỷ số truyền của CVT dùng đai và puli",
+    "keywords": ["CVT", "hộp số vô cấp", "tỷ số truyền vô cấp", "puli sơ cấp", "puly thứ cấp", "bán kính puli", "dây đai CVT"],
+    "text": "Khi hai mặt côn sơ cấp tiến gần nhau, bán kính làm việc phía sơ cấp tăng. Puli thứ cấp phối hợp giảm bán kính làm việc. Hai bán kính thay đổi đồng thời theo ràng buộc của đai. Khi bỏ qua trượt, tỷ số truyền i = n sơ cấp / n thứ cấp = r thứ cấp / r sơ cấp. Tỷ số truyền biến thiên liên tục trong dải thiết kế của hộp số.",
+    "figureNumber": "4.57", "more": ["converter", "dct"]
+  },
+  {
+    "key": "transfer", "lesson": "5.2.2", "title": "Gài cầu và số thấp ở hộp phân phối hai cấp",
+    "keywords": ["hộp số phân phối", "hộp phân phối", "cài cầu", "gài cầu", "gài số thấp", "cơ cấu khóa hãm", "số chậm"],
+    "text": "Trong kết cấu Hình 5.2, cơ cấu khóa hãm cho phép gài số truyền thấp sau khi đã nối cầu trước. Khi trở lại số truyền thẳng, nhả số thấp trước khi tách cầu trước. Trình tự này giải thích cơ cấu khóa hãm của mẫu hộp phân phối trong bài.",
+    "figureNumber": "5.2", "more": ["cardan", "differential"]
+  },
+  {
+    "key": "cardan", "lesson": "6.1.1", "title": "Công dụng của truyền động các đăng",
+    "keywords": ["các đăng", "trục các đăng", "truyền động các đăng", "cardan", "công dụng các đăng", "bù chiều dài", "khớp trượt", "then hoa"],
+    "text": "Truyền động các đăng truyền mô men giữa các trục có đường tâm lệch nhau và có vị trí tương đối thay đổi. Khớp các đăng cho phép truyền mô men khi góc giữa các trục thay đổi. Liên kết then hoa trượt cho phép cụm trục thay đổi chiều dài làm việc trong giới hạn kết cấu.",
+    "figureNumber": "6.8", "more": ["cross-joint", "constant-velocity"]
+  },
+  {
+    "key": "cross-joint", "lesson": "6.2.2", "title": "Cấu tạo khớp các đăng kiểu chữ thập",
+    "keywords": ["khớp chữ thập", "trục chữ thập", "khớp các đăng chữ thập", "cấu tạo các đăng", "nạng chủ động", "nắp vòng bi", "ổ bi kim", "vòng chặn", "chạc đầu trục"],
+    "text": "Trục chữ thập liên kết hai nạng của khớp. Các chốt chữ thập làm việc trong ổ bi kim đặt ở lỗ trên nạng. Nắp và vòng hãm giữ ổ bi ở vị trí làm việc. Khi cần bù dịch chuyển dọc trục, thân trục dùng liên kết then hoa trượt.",
+    "figureNumber": "6.8", "more": ["cardan", "constant-velocity"]
+  },
+  {
+    "key": "constant-velocity", "lesson": "6.2.1", "title": "Điều kiện đồng tốc của hai khớp chữ thập",
+    "keywords": ["khớp khác tốc", "các đăng đồng tốc", "đồng tốc chữ thập kép", "lắp nạng đúng pha", "góc làm việc bằng nhau", "hai khớp chữ thập", "hai khop cardan"],
+    "text": "Một khớp chữ thập làm việc với góc lệch tạo biến thiên tốc độ góc đầu ra trong một vòng quay. Hai khớp có thể bù biến thiên tốc độ khi bố trí đúng hình học, hai góc làm việc bằng nhau và lắp nạng đúng pha theo sơ đồ. Cơ cấu chữ thập kép cần duy trì điều kiện góc bằng nhau trong khi làm việc.",
+    "more": ["cross-joint", "cardan"]
+  },
+  {
+    "key": "differential", "lesson": "7.2.2", "title": "Vi sai đối xứng khi xe đi thẳng và quay vòng",
+    "keywords": ["vi sai", "bộ vi sai", "vi sai đối xứng", "differential", "bánh trong bánh ngoài", "tốc độ hai bánh", "mô men hai bán trục", "hai bánh quay khác tốc độ khi rẽ"],
+    "text": "Khi đi thẳng với điều kiện hai bên như nhau, hai bán trục quay cùng tốc độ. Khi quay vòng, bánh ngoài đi quãng đường dài hơn và cần quay nhanh hơn. Bánh răng vi sai tự quay để cho phép chênh lệch tốc độ. Với vi sai đối xứng lý tưởng, tổng tốc độ hai bán trục bằng hai lần tốc độ vỏ vi sai. Mô men hai đầu ra xấp xỉ bằng nhau khi bỏ qua ma sát nội.",
+    "figureNumber": "7.11", "more": ["cardan", "transfer"]
+  },
+  {
+    "key": "wheel-balance", "lesson": "8.2.3", "title": "Cân bằng bánh xe và cân chỉnh góc đặt bánh xe",
+    "keywords": ["cân bằng bánh xe", "cân bằng động", "mất cân bằng bánh", "cân chỉnh thước lái", "rung bánh xe", "đối trọng"],
+    "text": "Cân bằng bánh xe xử lý phân bố khối lượng không đều của cụm lốp và vành, qua đó giảm lực hoặc mô men mất cân bằng khi quay. Cân chỉnh góc đặt xử lý hình học dẫn hướng, chẳng hạn camber, caster và độ chụm. Khi đánh giá rung hoặc mòn lốp, cần xác định nguyên nhân tương ứng với từng nhóm kiểm tra.",
+    "more": ["alignment", "tire-pressure"]
+  },
+  {
+    "key": "alignment", "lesson": "9.3.3", "title": "Góc camber, góc caster và độ chụm",
+    "keywords": ["camber", "caster", "toe", "độ chụm", "góc đặt bánh xe", "góc nghiêng bánh xe", "góc đặt bánh dẫn hướng"],
+    "text": "Camber là góc giữa mặt phẳng bánh xe và phương thẳng đứng khi nhìn từ trước. Caster là góc nghiêng dọc của trục quay lái so với phương thẳng đứng khi nhìn từ bên. Độ chụm xét tương quan hai bánh khi nhìn từ trên. Theo quy ước đo khoảng cách của bài, độ chụm dương ứng với khoảng cách phía trước nhỏ hơn phía sau khi đo cùng độ cao.",
+    "pages": [29, 30, 31, 32, 33, 34], "figureNumber": "9.23", "more": ["wheel-balance", "eps"]
+  },
+  {
+    "key": "eps", "lesson": "9.4.2", "title": "Nguyên lý trợ lực lái điện (EPS)",
+    "keywords": ["EPS", "trợ lực lái điện", "lái trợ lực điện", "mô tơ trợ lực", "cảm biến mô men lái", "electric power steering"],
+    "text": "Cảm biến ghi nhận mô men tác động của người lái. ECU dùng tín hiệu này cùng tốc độ xe để tính mức trợ lực. Mô tơ điện tạo mô men hỗ trợ, truyền tới cơ cấu lái theo cách bố trí của hệ thống. Sơ đồ EPS trong bài có đường truyền cơ khí từ vành tay lái tới bánh xe.",
+    "pages": [42, 43, 44, 45], "figureNumber": "9.37", "more": ["sbw", "alignment"]
+  },
+  {
+    "key": "sbw", "lesson": "9.4.3", "title": "Hệ thống lái không trục lái (Steer-by-Wire)",
+    "keywords": ["SBW", "steer by wire", "lái không trục lái", "lái bằng tín hiệu điện", "hai vòng điều khiển lái", "lái điện tử"],
+    "text": "Trong sơ đồ Tập 2, ECU nhận yêu cầu đánh lái từ tín hiệu ở vành tay lái và điều khiển bộ chấp hành tạo góc quay bánh xe. Vòng phản hồi góc thực hỗ trợ bám yêu cầu điều khiển. Một vòng riêng tạo phản hồi cảm giác cho người lái. Cách bố trí dự phòng phụ thuộc thiết kế của từng hệ thống.",
+    "pages": [50, 51, 52, 53], "figureNumber": "9.47", "more": ["eps", "alignment"]
+  },
+  {
+    "key": "monotube", "lesson": "11.4.1", "title": "Giảm chấn thủy lực kiểu ống đơn",
+    "keywords": ["giảm chấn ống đơn", "giảm xóc ống đơn", "monotube", "pít tông khí", "khoang khí giảm chấn"],
+    "text": "Ở Hình 11.39, khi nén, dầu đi từ khoang II sang khoang I qua van nén. Khi trả, dầu đi từ I về II qua đường van trả. Pít-tông ngăn khí dịch chuyển để bù thể tích do cần chiếm chỗ. Chiều chuyển động trên hình gắn với tư thế lắp đang minh họa.",
+    "pages": [135, 136], "figureNumber": "11.39", "more": ["twintube", "cdc"]
+  },
+  {
+    "key": "twintube", "lesson": "11.4.2", "title": "Giảm chấn thủy lực kiểu ống kép",
+    "keywords": ["giảm chấn ống kép", "giảm xóc ống kép", "giảm chấn 2 ống", "twin tube", "khoang bù", "khoang III", "đế van giảm chấn"],
+    "text": "Kết cấu ống kép có khoang bù III giữa vỏ trong và vỏ ngoài, thông qua đế van. Trong hành trình nén và trả, dầu lưu thông qua van trên pít-tông và đế van để vừa tạo lực cản, vừa bù phần thể tích do cần pít-tông đi vào hoặc đi ra. Lực cản giúp tiêu tán năng lượng dao động.",
+    "pages": [136, 137, 138], "figureNumber": "11.40", "more": ["monotube", "cdc"]
+  },
+  {
+    "key": "cdc", "lesson": "11.5.2", "title": "Điều chỉnh lực giảm chấn điện tử (CDC)",
+    "keywords": ["CDC", "continuous damping control", "giảm chấn điện tử", "giảm chấn bán chủ động", "điều chỉnh lực giảm chấn", "van tỷ lệ"],
+    "text": "Bộ điều khiển nhận tín hiệu cảm biến dao động và lựa chọn mức cản. Trong ví dụ của bài, van tỷ lệ thay đổi điều kiện dòng dầu qua giảm chấn, qua đó thay đổi lực cản. CDC thuộc nhóm điều khiển giảm chấn bán chủ động. Các chế độ cản được chọn theo trạng thái xe và mục tiêu êm dịu hoặc ổn định.",
+    "pages": [143, 144], "figureNumber": "11.48", "more": ["monotube", "twintube"]
+  },
+  {
+    "key": "tire-pressure", "lesson": "12.2.1", "title": "Điều chỉnh áp suất lốp trung tâm",
+    "keywords": ["CTIS", "áp suất lốp trung tâm", "điều chỉnh áp suất hơi lốp", "bơm lốp tập trung", "bơm giữ xả lốp", "van bảo vệ nguồn khí"],
+    "text": "Ở chế độ bơm, van điều khiển thông nguồn khí với lốp. Ở chế độ giữ, đường cấp và đường xả được đóng. Ở chế độ xả, đường khí từ lốp thông ra ngoài. Trong sơ đồ dùng chung nguồn khí, van bảo vệ ưu tiên cấp khí cho hệ thống phanh khi áp suất nguồn thấp.",
+    "pages": [163, 164, 165], "figureNumber": "12.28", "more": ["air-brake", "wheel-balance"]
+  },
+  {
+    "key": "tipper", "lesson": "12.2.2", "title": "Nâng, giữ và hạ thùng xe KamAZ 65115",
+    "keywords": ["nâng hạ thùng xe", "nâng thùng", "hạ thùng", "thùng ben", "xe ben", "Kamaz 65115", "xi lanh nâng thùng", "van nâng giữ hạ"],
+    "text": "Hộp trích công suất dẫn động bơm dầu. Khi nâng, van điều khiển đưa dầu đến xi-lanh để nâng thùng. Khi giữ, van khóa đường dầu của xi-lanh trong sơ đồ. Khi hạ, dầu từ xi-lanh có đường hồi về thùng. Áp suất phát sinh theo tải và sức cản mạch. Các trạng thái này mô tả chức năng của sơ đồ nâng hạ.",
+    "pages": [176, 177, 178], "figureNumber": "12.41", "more": ["winch", "tire-pressure"]
+  },
+  {
+    "key": "winch", "lesson": "12.2.2", "title": "Đường truyền mô men của tời cơ khí",
+    "keywords": ["tời", "tời cơ khí", "trống tời", "cáp tời", "hộp giảm tốc tời", "đường truyền tời"],
+    "text": "Công suất được lấy qua hộp số chính và hộp trích công suất. Trục các đăng truyền mô men tới hộp giảm tốc tời. Hộp giảm tốc truyền mô men tới trống để cuốn hoặc nhả cáp theo chế độ điều khiển.",
+    "pages": [169, 170, 171], "figureNumber": "12.35", "more": ["tipper", "cardan"]
+  },
+  {
+    "key": "passenger-car-types", "lesson": "1.1.2", "title": "Phân loại ô tô du lịch theo kiểu thân xe",
+    "keywords": ["phân loại ô tô du lịch", "các kiểu thân xe du lịch", "kiểu thân xe ô tô con", "sedan hatchback coupe mpv"],
+    "text": "Bài 1.1.2 giới thiệu các kiểu thân xe như sedan, hatchback, coupé, MPV, SUV và crossover. Có thể nhận diện dựa trên cách bố trí khoang hành lý, hình dáng đuôi xe và mục đích sử dụng. Sedan thường có khoang hành lý tách riêng. Hatchback có cửa hậu mở cùng kính sau và thông với khoang hành khách.",
+    "anchor": "block-1781142944871-i9l9zw09r", "more": ["wheel-formula", "engine-purpose"]
+  },
+  {
+    "key": "wheel-formula", "lesson": "1.1.3", "title": "Đọc công thức bánh xe A×B",
+    "keywords": ["công thức bánh xe", "công thức bánh xe axb", "ý nghĩa 6x4", "công thức 6x4", "công thức 6x6", "công thức 4x2", "công thức 4x4"],
+    "text": "A là tổng số vị trí bánh xe và B là số vị trí bánh xe chủ động. Mỗi cặp bánh kép ở một đầu cầu được tính là một vị trí. Ví dụ, công thức 6×4 biểu thị sáu vị trí bánh xe, trong đó bốn vị trí nhận mô men dẫn động.",
+    "anchor": "block-1781143377242-pl37oi9wd", "more": ["passenger-car-types", "differential"]
+  },
+  {
+    "key": "engine-purpose", "lesson": "1.2.1", "title": "Công dụng của động cơ trên ô tô",
+    "keywords": ["động cơ là gì", "công dụng động cơ", "nhiệm vụ động cơ", "chức năng động cơ ô tô", "nguồn động lực ô tô"],
+    "text": "Động cơ là nguồn động lực của ô tô. Nguồn động lực tạo mô men để hệ thống truyền lực đưa tới bánh xe chủ động. Động cơ đốt trong chuyển năng lượng của nhiên liệu thành công cơ học và có thể dẫn động một số thiết bị phụ. Ô tô điện dùng mô-tơ để chuyển điện năng thành công cơ học.",
+    "anchor": "block-1781143684121-gzmtzujgy", "more": ["clutch", "final-drive"]
+  },
+  {
+    "key": "dual-mass-flywheel", "lesson": "2.2.1", "title": "Bánh đà kép và giảm dao động xoắn",
+    "keywords": ["bánh đà kép", "dual mass flywheel", "dmf", "hai khối bánh đà"],
+    "text": "Bánh đà kép có khối sơ cấp và khối thứ cấp liên kết với nhau qua phần tử đàn hồi. Khối sơ cấp nhận mô men từ động cơ. Liên kết đàn hồi cho phép hai khối dịch chuyển góc tương đối để giảm dao động xoắn truyền tới ly hợp và hộp số.",
+    "anchor": "block-1781145200514-484d8n5yt", "figureNumber": "2.5", "more": ["clutch", "three-shaft"]
+  },
+  {
+    "key": "range-gearbox", "lesson": "3.2.2", "title": "Tăng số cấp bằng hộp số phụ",
+    "keywords": ["hộp số nhiều cấp", "hộp số 10 cấp", "hộp chia số", "hộp số phụ", "bộ chia số", "splitter", "hộp số chính và hộp số phụ"],
+    "text": "Một số hộp số xe tải kết hợp hộp số chính với hộp số phụ để tăng số cấp truyền. Trong ví dụ ở bài 3.2.2, hộp chính có năm số tiến và hộp phụ có hai cấp, kết hợp thành mười số tiến. Vị trí lắp và cách sử dụng từng cấp phụ thuộc sơ đồ hộp số.",
+    "anchor": "block-1781147139469-ph4xu9lrv", "more": ["three-shaft", "synchro"]
+  },
+  {
+    "key": "gear-interlock", "lesson": "3.3.2", "title": "Cơ cấu khóa hãm gài số",
+    "keywords": ["cơ cấu khóa hãm hộp số chính", "gài hai số cùng lúc", "chống gài 2 số", "khóa hãm gài số", "tấm khóa càng chuyển số"],
+    "text": "Cơ cấu khóa hãm ngăn gài đồng thời hai cấp số. Trong kết cấu minh họa, tấm khóa hạn chế chuyển động của các càng chưa được chọn, để chỉ càng của cấp số đang chọn dịch chuyển theo hướng gài.",
+    "anchor": "block-1781147738699-ludmub8ee", "more": ["synchro", "three-shaft"]
+  },
+  {
+    "key": "driveline-windup", "lesson": "5.2.2", "title": "Tuần hoàn công suất khi nối cứng hai cầu",
+    "keywords": ["tuần hoàn công suất", "gài hai cầu trên đường tốt", "dẫn động hai cầu nối cứng", "driveline windup"],
+    "text": "Khi hai cầu được nối cứng, tốc độ quy đổi của hai trục ra bị ràng buộc. Quãng đường lăn hoặc bán kính lăn khác nhau có thể gây tải xoắn tích lũy trong hệ truyền lực, nhất là trên mặt đường có độ bám cao. Bài 5.2.2 minh họa hộp phân phối đơn giản có thể tách cầu trước khi đi đường tốt.",
+    "anchor": "block-1781161916808-3i03hre7s", "more": ["transfer", "differential"]
+  },
+  {
+    "key": "cardan-spline", "lesson": "6.2.2", "title": "Then hoa trượt và vú mỡ trên trục các đăng",
+    "keywords": ["mối ghép then hoa di trượt", "vú mỡ bôi trơn khớp các đăng", "vú mỡ trên trục các đăng", "bôi trơn then hoa các đăng", "dấu lắp ráp trên then hoa", "bù chiều dài các đăng"],
+    "text": "Mối ghép then hoa trượt truyền mô men đồng thời cho phép thay đổi chiều dài làm việc của cụm trục. Ở kết cấu có vú mỡ trong bài, mỡ được cấp tới mối ghép then hoa qua vú mỡ. Dấu lắp ráp trên hai nửa trục giúp đặt đúng tương quan góc giữa các nạng.",
+    "anchor": "block-1781162713680-510vlyslf", "figureNumber": "6.6", "more": ["cardan", "cross-joint", "constant-velocity"]
+  },
+  {
+    "key": "tire-markings", "lesson": "8.1.1", "title": "Đọc thông số trên thành lốp",
+    "keywords": ["chỉ số tải trọng lốp", "chỉ số tốc độ lốp", "ký hiệu lốp 195 55 r16 87v", "195/55 R16 87V", "đọc ký hiệu lốp", "thông số lốp xe"],
+    "text": "Trong ví dụ 195/55 R16 87V, 195 là chiều rộng danh nghĩa tính bằng milimét, 55 là tỷ lệ chiều cao tiết diện trên chiều rộng tính theo phần trăm, R chỉ kết cấu bố hướng kính và 16 là đường kính vành tính bằng inch. Mã 87 là chỉ số tải trọng và V là ký hiệu cấp tốc độ, cần tra theo bảng tương ứng.",
+    "anchor": "block-1781164047048-hgjz2k8uc", "more": ["wheel-balance", "tire-pressure"]
+  },
+  {
+    "key": "vacuum-booster", "lesson": "10.3.2", "title": "Công dụng và nguyên lý trợ lực phanh chân không",
+    "keywords": ["bộ trợ lực chân không", "bầu trợ lực chân không", "trợ lực phanh chân không", "trợ lực chân không phanh", "brake booster"],
+    "text": "Bầu trợ lực dùng chênh lệch áp suất giữa hai khoang để tăng lực tác dụng lên pít-tông xi lanh chính. Trong sơ đồ Tập 2, khi đạp phanh, cửa nối chân không đóng và cửa khí quyển mở ở một khoang. Chênh lệch áp suất tác dụng lên màng, hỗ trợ lực đạp của người lái.",
+    "pages": [77, 78], "figureNumber": "10.42", "more": ["abs", "air-brake"]
+  },
+  {
+    "key": "unibody", "lesson": "12.1.3", "title": "Khung rời và thân vỏ chịu lực",
+    "keywords": ["khung rời", "thân vỏ rời", "khung liền vỏ", "thân vỏ liền khối", "unibody", "monocoque", "body on frame", "so sánh khung rời và khung liền"],
+    "text": "Trong kết cấu thân vỏ rời, khung là bộ phận chịu tải chính và thân xe được lắp trên khung. Ở dạng thân vỏ chịu tải hoàn toàn, hệ sàn, dầm và các phần thân vỏ cùng tham gia chịu tải. Tập 2 còn minh họa dạng trung gian là thân vỏ chịu tải một phần.",
+    "pages": [159, 160], "figureNumber": "12.23", "more": ["tire-pressure", "tipper"]
+  },
+  {
+    "key": "gearbox-purpose", "lesson": "3.1.1", "title": "Chức năng của hộp số chính",
+    "keywords": ["chức năng của hộp số ô tô", "công dụng hộp số", "nhiệm vụ của hộp số", "hộp số dùng để làm gì"],
+    "text": "Hộp số chính thay đổi tỷ số truyền để điều chỉnh mô men và tốc độ quay đưa tới bánh xe chủ động. Nhờ đó lực kéo và vận tốc phù hợp hơn với điều kiện chuyển động. Số lùi tạo chiều chuyển động lùi. Ở số trung gian, dòng truyền mô men qua hộp số được ngắt.",
+    "anchor": "block-1781146415111-szni1qjv5", "more": ["manual-types", "reverse-gear", "three-shaft"]
+  },
+  {
+    "key": "manual-types", "lesson": "3.1.2", "title": "Phân loại hộp số cơ khí",
+    "keywords": ["phân loại hộp số cơ khí", "các loại hộp số cơ khí", "phân loại theo số trục hộp số", "phân loại theo số cấp số truyền"],
+    "text": "Có thể phân loại hộp số theo trạng thái trục, theo số trục chính, theo số cấp truyền và theo phương pháp điều khiển. Hộp số hai trục có trục vào và trục ra. Hộp số ba trục có thêm trục trung gian. Cần xét riêng số trục và số cấp truyền khi đọc sơ đồ.",
+    "anchor": "block-1781146472253-ozt17qsh4", "more": ["two-shaft", "three-shaft", "range-gearbox"]
+  },
+  {
+    "key": "reverse-gear", "lesson": "3.2.2", "title": "Đường truyền khi gài số lùi",
+    "keywords": ["nguyên tắc tạo số lùi", "số lùi trong hộp số", "bánh răng trung gian số lùi", "số lùi đảo chiều", "đường truyền số lùi", "vì sao xe chạy lùi"],
+    "text": "Trong sơ đồ hộp số cơ khí ở bài 3.2.2, bánh răng trung gian số lùi tham gia đường truyền khi gài số lùi. Số lần ăn khớp thay đổi làm trục thứ cấp quay theo chiều ngược với trường hợp gài số tiến, nhờ đó xe có thể chuyển động lùi.",
+    "anchor": "block-1781147139469-ph4xu9lrv", "more": ["three-shaft", "gearbox-purpose"]
+  },
+  {
+    "key": "overdrive", "lesson": "3.2.2", "title": "Số truyền tăng trong hộp số cơ khí",
+    "keywords": ["số truyền tăng", "nguyên lý tạo số truyền tăng", "số 5 truyền tăng", "overdrive hộp số cơ khí"],
+    "text": "Với quy ước i = tốc độ trục vào chia cho tốc độ trục ra, số truyền tăng có i nhỏ hơn 1. Trong ví dụ hộp số ba trục ở bài 3.2.2, số 5 là số truyền tăng. Việc cấp số nào có tỷ số nhỏ hơn 1 phụ thuộc thiết kế từng hộp số.",
+    "anchor": "block-1781147139469-ph4xu9lrv", "more": ["three-shaft", "range-gearbox"]
+  },
+  {
+    "key": "automatic-purpose", "lesson": "4.1.1", "title": "Chức năng của hộp số tự động",
+    "keywords": ["công dụng của hộp số tự động", "chức năng hộp số tự động", "hộp số tự động dùng để làm gì", "tự chọn tỷ số truyền"],
+    "text": "Hộp số tự động lựa chọn tỷ số truyền phù hợp với điều kiện vận hành. Bộ điều khiển nhận thông tin về trạng thái xe và yêu cầu công suất, sau đó điều khiển các phần tử chấp hành để thay đổi đường truyền hoặc tỷ số truyền. Cách chuyển số phụ thuộc kiểu hộp số.",
+    "anchor": "block-1781160086335-cirbkek25", "more": ["automatic-types", "dct", "cvt"]
+  },
+  {
+    "key": "automatic-types", "lesson": "4.1.2", "title": "Các dạng hộp số tự động trong học liệu",
+    "keywords": ["phân loại các dạng hộp số tự động", "hộp số tự động có những loại nào", "các loại hộp số tự động", "phân loại hộp số tự động"],
+    "text": "Chương 4 trình bày hộp số cơ khí được tự động hóa, hộp số tự động có cấp dùng biến mô thủy lực và hộp số tự động vô cấp. Khi nhận diện, hãy xem cơ cấu truyền chính, cách thay đổi tỷ số truyền và cách điều khiển phần tử chấp hành.",
+    "anchor": "block-1781160105309-xtr72k2z1", "more": ["dct", "converter", "cvt"]
+  },
+  {
+    "key": "drive-axle-purpose", "lesson": "7.1.1", "title": "Chức năng của cầu chủ động",
+    "keywords": ["chức năng của cầu chủ động", "công dụng cầu chủ động", "các cụm chi tiết chính trong cầu chủ động", "cầu chủ động gồm những gì"],
+    "text": "Cầu chủ động nhận mô men từ hệ thống truyền lực và đưa tới các bánh xe chủ động. Trong sơ đồ của bài, truyền lực chính giảm tốc độ và tăng mô men, vi sai cho phép hai bánh quay khác tốc độ khi quay vòng, còn bán trục truyền mô men tới bánh xe.",
+    "anchor": "block-1781163137301-wj2wcrxg2", "more": ["final-drive", "differential", "halfshaft"]
+  },
+  {
+    "key": "diff-lock", "lesson": "7.2.2", "title": "Khóa vi sai giữa hai bánh xe",
+    "keywords": ["khóa vi sai", "gài khóa vi sai", "differential lock", "khóa cứng vi sai", "vi sai khóa khi nào"],
+    "text": "Trong sơ đồ khóa vi sai bằng khớp gài, khớp nối một bán trục với vỏ vi sai. Khi khóa, cơ cấu buộc hai bán trục quay cùng tốc độ và hạn chế sự chênh lệch tốc độ giữa hai bánh. Bài 7.2.2 trình bày riêng khóa giữa các bánh và khóa giữa các cầu.",
+    "anchor": "block-1781163690877-vk7c69gbg", "more": ["differential", "drive-axle-purpose"]
+  },
+  {
+    "key": "wheel-assembly", "lesson": "8.2.1", "title": "Công dụng của cụm bánh xe",
+    "keywords": ["công dụng của cụm bánh xe", "cấu tạo tổng quát của cụm bánh xe", "chức năng của cụm bánh xe", "cụm bánh xe gồm những gì"],
+    "text": "Vành giữ lốp và liên kết cụm bánh với moay-ơ. Lốp đỡ tải, tiếp xúc mặt đường để truyền lực kéo, lực phanh và lực ngang, đồng thời góp phần giảm chấn động. Cần đối chiếu kích thước vành với quy cách lắp lốp.",
+    "anchor": "block-1781164522875-oo488p6ij", "more": ["tire-markings", "wheel-balance"]
+  }
+]

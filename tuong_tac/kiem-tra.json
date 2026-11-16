@@ -1,0 +1,21 @@
+{
+  "version": "2026-10-14-full-v3",
+  "counts": {
+    "lessons": 102,
+    "chapters": 12,
+    "figures": 107,
+    "simulations": 105,
+    "activities": 408
+  },
+  "browser": "Chromium",
+  "offline": true,
+  "canonicalLessonsPassed": 102,
+  "activitiesPassedCorrectAndIncorrect": 408,
+  "integratedPagesCovered": 202,
+  "mobileSampleLessons": 8,
+  "updatedLessonsRechecked": 10,
+  "updatedActivitiesRechecked": 40,
+  "convertedResourcesDecoded": 32,
+  "sourceBankSha256": "8f61be8c31640095b7749d667b0ee4d985777f8c055d3be797ef81e6d66c1e5d",
+  "localLinksValid": true
+}

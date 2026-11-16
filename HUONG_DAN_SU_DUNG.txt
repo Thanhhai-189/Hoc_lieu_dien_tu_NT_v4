@@ -1,0 +1,18 @@
+HỌC LIỆU ĐIỆN TỬ TƯƠNG TÁC NT — PHIÊN BẢN 4.3
+
+1. Giải nén toàn bộ ZIP. Mở BAT_DAU.html bằng Chrome hoặc Edge.
+2. Chọn chương và bài tại mục lục bên trái. Thanh chức năng ở phía trên.
+3. Trong bài: Khám phá hình / Tự nhận diện → Nguyên lý từng bước → Thực hành.
+4. Tiến độ phân biệt bài đã mở, đã kiểm tra và đúng đủ 4 hoạt động.
+5. Dùng Đánh dấu, Ghi chú và A−/A+ để quản lý bài học, điều chỉnh cỡ chữ.
+6. Sao lưu dữ liệu ở Tiến độ; Khôi phục khi đổi máy hoặc đổi trình duyệt.
+7. Sao lưu bản 3 có thể nhập vào bản 4. Hoạt động có thay nội dung hoặc hình yêu cầu làm lại.
+8. Ôn tập 411 câu có điểm riêng. Xuất CSV / In báo cáo ở trang Tiến độ.
+9. Đối chiếu mở Tập 2/2026 và các hình nguồn. Số trang là số thứ tự trang PDF.
+10. Đọc Phản biện kỹ thuật để biết phần hiệu chỉnh, giả thiết mô hình và giới hạn.
+11. Bấm Trợ lý trên thanh trên cùng hoặc biểu tượng AI_VKB ở góc dưới. Nhập câu hỏi, mã bài, số hiệu hình hoặc thuật ngữ Việt–Anh. Khi hiện gợi ý, dùng ↑ / ↓ và Enter để chọn.
+12. Trợ lý tra cứu chạy bằng JavaScript trong trình duyệt, kể cả khi máy ngắt mạng. Hướng dẫn chi tiết nằm ở nt/assistant/huong-dan.html.
+13. Tự đổi biểu tượng bằng cách thay tệp nt/assistant/AI_VKB.png bằng ảnh PNG nền trong suốt cùng tên. Mở lại học liệu hoặc nhấn Ctrl + F5.
+
+Mở BAT_DAU.html để học và tra cứu ngoại tuyến. Kết quả lưu trong trình duyệt trên máy đang dùng.
+Dùng Tiến độ → Sao lưu kết quả trong bản cũ trước khi đổi thư mục, trình duyệt hoặc nâng cấp. Vào Tiến độ → Khôi phục từ tệp trong bản mới để tiếp tục, kể cả khi bản cũ mở qua máy chủ cục bộ.

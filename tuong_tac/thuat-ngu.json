@@ -1,0 +1,1882 @@
+[
+  {
+    "term": "4×2",
+    "definition": "Có bốn vị trí bánh xe, hai vị trí chủ động.",
+    "source": "1.1.3"
+  },
+  {
+    "term": "6×4",
+    "definition": "Có sáu vị trí bánh xe, bốn vị trí chủ động.",
+    "source": "1.1.3"
+  },
+  {
+    "term": "A",
+    "definition": "Số bánh xe theo quy ước: mỗi cụm bánh kép được tính như một bánh.",
+    "source": "1.1.3"
+  },
+  {
+    "term": "ABS",
+    "definition": "Hệ thống điều khiển hỗ trợ duy trì khả năng điều khiển khi phanh.",
+    "source": "10.1.1"
+  },
+  {
+    "term": "B",
+    "definition": "Số bánh xe nhận mô men dẫn động, cũng tính bánh kép theo quy ước.",
+    "source": "1.1.3"
+  },
+  {
+    "term": "Bàn đạp",
+    "definition": "Truyền lực người lái tới cần đẩy pít-tông.",
+    "source": "10.3.2"
+  },
+  {
+    "term": "Bàn đạp ly hợp",
+    "definition": "Nhận lực chân người lái và làm quay đòn dẫn động.",
+    "source": "2.3.1"
+  },
+  {
+    "term": "Bàn đạp ly hợp",
+    "definition": "Truyền lực qua cần đẩy tới piston xi lanh chính.",
+    "source": "2.3.2"
+  },
+  {
+    "term": "Bàn đạp ly hợp",
+    "definition": "Điều khiển dẫn động cơ khí và van phân phối.",
+    "source": "2.3.3"
+  },
+  {
+    "term": "Bàn đạp phanh",
+    "definition": "Nhận lực điều khiển từ người lái.",
+    "source": "10.3.1"
+  },
+  {
+    "term": "Bánh bơm",
+    "definition": "Nhận chuyển động từ động cơ và đưa năng lượng vào dòng dầu.",
+    "source": "4.3.1"
+  },
+  {
+    "term": "Bánh đà",
+    "definition": "Gắn với trục khuỷu; tạo một bề mặt ma sát và truyền mômen từ động cơ vào bộ ly hợp.",
+    "source": "2.2.1"
+  },
+  {
+    "term": "Bánh đà",
+    "definition": "Bộ phận chủ động gắn với trục khuỷu; tạo mặt ma sát phía trong.",
+    "source": "2.2.2"
+  },
+  {
+    "term": "Bánh răng",
+    "definition": "Nhận chuyển động quay từ trục lái.",
+    "source": "9.2.3"
+  },
+  {
+    "term": "Bánh răng bao",
+    "definition": "Phần tử ngoài ăn khớp các bánh răng hành tinh.",
+    "source": "4.3.2"
+  },
+  {
+    "term": "Bánh răng bị động",
+    "definition": "Truyền mô men tới các trục ra.",
+    "source": "5.2.1"
+  },
+  {
+    "term": "Bánh răng chủ động",
+    "definition": "Nhận mô men từ trục vào hộp phân phối.",
+    "source": "5.2.1"
+  },
+  {
+    "term": "Bánh răng côn bị động",
+    "definition": "Giảm tốc, tăng mô men và truyền tới vỏ vi sai.",
+    "source": "7.2.1"
+  },
+  {
+    "term": "Bánh răng côn chủ động",
+    "definition": "Nhận mô men từ đường truyền vào.",
+    "source": "7.2.1"
+  },
+  {
+    "term": "Bánh răng gài cầu trước",
+    "definition": "Nối đường truyền tới cầu trước.",
+    "source": "5.2.1"
+  },
+  {
+    "term": "Bánh răng gài số",
+    "definition": "Dịch chuyển để chọn số truyền thẳng hoặc số truyền thấp.",
+    "source": "5.2.1"
+  },
+  {
+    "term": "Bánh răng gài số lùi",
+    "definition": "Tham gia đường truyền đảo chiều quay của trục thứ cấp.",
+    "source": "3.2.2"
+  },
+  {
+    "term": "Bánh răng hành tinh",
+    "definition": "Có thể quay quanh trục của mình và chuyển động quanh bánh răng mặt trời.",
+    "source": "4.3.2"
+  },
+  {
+    "term": "Bánh răng hành tinh (vi sai)",
+    "definition": "Tự quay khi cần tạo chênh lệch tốc độ giữa các bán trục.",
+    "source": "7.2.2"
+  },
+  {
+    "term": "Bánh răng (hình rẽ quạt)",
+    "definition": "Nhận tác động từ đai ốc để quay trục đòn quay đứng.",
+    "source": "9.2.4"
+  },
+  {
+    "term": "Bánh răng lắp cố định với trục",
+    "definition": "Bánh răng quay cùng trục, không trượt dọc trục.",
+    "source": "3.2.1"
+  },
+  {
+    "term": "Bánh răng mặt trời",
+    "definition": "Một trong ba phần tử cơ bản quyết định trạng thái truyền động.",
+    "source": "4.3.2"
+  },
+  {
+    "term": "Bánh răng mặt trời",
+    "definition": "Là phần tử của bộ bánh răng hành tinh đổi chiều quay.",
+    "source": "4.4.1"
+  },
+  {
+    "term": "Bánh răng mặt trời (bán trục)",
+    "definition": "Ăn khớp bánh răng vi sai và truyền mô men tới bán trục.",
+    "source": "7.2.2"
+  },
+  {
+    "term": "Bánh răng quay trơn",
+    "definition": "Chưa bị cố định với trục nếu cơ cấu gài chưa nối.",
+    "source": "3.2.1"
+  },
+  {
+    "term": "Bánh răng ra cầu sau",
+    "definition": "Truyền mô men tới trục ra cầu sau.",
+    "source": "5.2.1"
+  },
+  {
+    "term": "Bánh răng ra cầu trước",
+    "definition": "Truyền mô men tới trục ra cầu trước.",
+    "source": "5.2.1"
+  },
+  {
+    "term": "Bánh răng số thấp",
+    "definition": "Tạo tỷ số truyền lớn hơn ở cấp số truyền thấp.",
+    "source": "5.2.1"
+  },
+  {
+    "term": "Bánh răng trung gian",
+    "definition": "Truyền giữa bánh răng chủ động và bị động, bảo đảm chiều quay trong sơ đồ.",
+    "source": "5.2.1"
+  },
+  {
+    "term": "Bánh răng trượt dọc trên trục",
+    "definition": "Liên kết bằng then hoa cho phép dịch chuyển theo đường trục.",
+    "source": "3.2.1"
+  },
+  {
+    "term": "Bánh răng trụ răng nghiêng",
+    "definition": "Hoạt động êm hơn và phát sinh lực dọc trục.",
+    "source": "3.2.4"
+  },
+  {
+    "term": "Bánh răng trụ răng thẳng",
+    "definition": "Bánh răng răng thẳng được dùng ở bộ phận gài số lùi được mô tả.",
+    "source": "3.2.4"
+  },
+  {
+    "term": "Bánh tua-bin",
+    "definition": "Nhận năng lượng dòng dầu và truyền mô men tới trục sơ cấp hộp số.",
+    "source": "4.3.1"
+  },
+  {
+    "term": "Bánh vít",
+    "definition": "Nhận chuyển động qua ăn khớp với trục vít.",
+    "source": "9.2.1"
+  },
+  {
+    "term": "Bán kính quay vòng tối thiểu",
+    "definition": "Được xác định khi đánh lái hết cỡ, đo tới bánh xe ngoài cùng theo bài.",
+    "source": "1.3.1"
+  },
+  {
+    "term": "Bán trục giảm tải hoàn toàn",
+    "definition": "Phân loại bán trục theo mức chịu tải nhờ bố trí ổ đỡ.",
+    "source": "7.1.2"
+  },
+  {
+    "term": "Bán trục giảm tải hoàn toàn",
+    "definition": "Moay ơ được đỡ trên vỏ bán trục nên giảm tải uốn cho bán trục.",
+    "source": "7.2.3"
+  },
+  {
+    "term": "Bán trục giảm tải một nửa",
+    "definition": "Ổ đỡ phía ngoài lắp trực tiếp trên bán trục theo sơ đồ.",
+    "source": "7.2.3"
+  },
+  {
+    "term": "Bầu phanh",
+    "definition": "Biến áp suất khí thành lực cơ khí tác động phanh.",
+    "source": "10.3.3"
+  },
+  {
+    "term": "Bi giữa định tâm",
+    "definition": "Viên bi thứ năm đặt tại tâm khớp để định tâm.",
+    "source": "6.3.4"
+  },
+  {
+    "term": "Bình khí",
+    "definition": "Tích trữ năng lượng khí nén.",
+    "source": "10.3.3"
+  },
+  {
+    "term": "Bình khí",
+    "definition": "Tích trữ khí nén.",
+    "source": "10.3.4"
+  },
+  {
+    "term": "Bi truyền lực",
+    "definition": "Bốn bi ngoài đảm nhận truyền mô men giữa hai nạng.",
+    "source": "6.3.4"
+  },
+  {
+    "term": "Bi truyền lực",
+    "definition": "Truyền mô men trong các rãnh của hai phần khớp.",
+    "source": "6.3.5"
+  },
+  {
+    "term": "Bộ chấp hành thủy lực",
+    "definition": "Thực hiện tăng, giữ hoặc giảm áp suất phanh theo lệnh.",
+    "source": "10.3.5"
+  },
+  {
+    "term": "Bộ điều khiển",
+    "definition": "Nhận tín hiệu để quyết định trạng thái của hệ thống.",
+    "source": "11.5.1"
+  },
+  {
+    "term": "Bộ điều khiển",
+    "definition": "Tính toán và phát lệnh điều chỉnh lực giảm chấn.",
+    "source": "11.5.2"
+  },
+  {
+    "term": "Bộ điều khiển điện tử trợ lực lái (ECU)",
+    "definition": "Tính lệnh điều chỉnh trợ lực dựa vào tín hiệu đầu vào.",
+    "source": "9.4.3"
+  },
+  {
+    "term": "Bộ điều khiển ly hợp",
+    "definition": "Xử lý tín hiệu đầu vào để tính toán trạng thái và hành trình đóng/ngắt ly hợp.",
+    "source": "2.4.1"
+  },
+  {
+    "term": "Bộ đồng tốc",
+    "definition": "Giúp cân bằng tốc độ và nối bánh răng được chọn với trục.",
+    "source": "3.2.1"
+  },
+  {
+    "term": "Bơm dầu",
+    "definition": "Được động cơ dẫn động để tạo áp suất cần cho hoạt động hộp số.",
+    "source": "4.3.3"
+  },
+  {
+    "term": "Bơm dầu",
+    "definition": "Cung cấp dầu có áp cho mạch trợ lực.",
+    "source": "9.4.1"
+  },
+  {
+    "term": "Bơm trợ lực",
+    "definition": "Có thể được điều khiển điện để thay đổi cấp nguồn theo kết cấu.",
+    "source": "9.4.3"
+  },
+  {
+    "term": "Bó nhíp",
+    "definition": "Vừa đàn hồi vừa dẫn hướng trong kết cấu minh họa.",
+    "source": "11.2.1"
+  },
+  {
+    "term": "Bộ phận dẫn khí nén vào bánh xe",
+    "definition": "Truyền khí tới lốp và làm kín khi bánh xe quay.",
+    "source": "12.2.1"
+  },
+  {
+    "term": "Bộ tích năng",
+    "definition": "Làm giảm chấn động khi áp suất tới ly hợp, phanh tăng dần.",
+    "source": "4.3.3"
+  },
+  {
+    "term": "Bố trí vành tay lái",
+    "definition": "Tiêu chí vị trí người điều khiển và vành tay lái.",
+    "source": "9.1.2"
+  },
+  {
+    "term": "Bộ truyền trục vít bánh vít",
+    "definition": "Truyền chuyển động từ động cơ điện tới cơ cấu tạo áp suất.",
+    "source": "2.4.1"
+  },
+  {
+    "term": "Bộ vi sai sau",
+    "definition": "Phân phối mô men tới các bánh chủ động của cầu sau.",
+    "source": "5.3.1"
+  },
+  {
+    "term": "Bộ vi sai trung tâm",
+    "definition": "Cho phép chênh lệch tốc độ giữa đường truyền tới cầu trước và cầu sau.",
+    "source": "5.3.1"
+  },
+  {
+    "term": "Bộ vi sai trước",
+    "definition": "Phân phối mô men tới các bánh chủ động của cầu trước.",
+    "source": "5.3.1"
+  },
+  {
+    "term": "Bu lông",
+    "definition": "Cùng ê cu tạo lực kẹp giữ bánh xe trên moay ơ.",
+    "source": "8.2.2"
+  },
+  {
+    "term": "Bu lông quang nhíp",
+    "definition": "Bắt chặt bó nhíp với cầu xe.",
+    "source": "11.2.1"
+  },
+  {
+    "term": "Buồng áp suất",
+    "definition": "Dầu có áp tác dụng lên piston để ép cụm đĩa.",
+    "source": "2.4.3"
+  },
+  {
+    "term": "Buồng cân bằng dầu",
+    "definition": "Bù tác động lực ly tâm của dầu, hạn chế ly hợp tự nối ở tốc độ cao.",
+    "source": "2.4.3"
+  },
+  {
+    "term": "Các cảm biến đo độ cao của xe",
+    "definition": "Cung cấp thông tin trạng thái dao động của xe.",
+    "source": "11.5.2"
+  },
+  {
+    "term": "Các đăng đồng tốc",
+    "definition": "Đảm bảo quan hệ đồng tốc trong phạm vi làm việc của kết cấu.",
+    "source": "6.1.2"
+  },
+  {
+    "term": "Các đăng khác tốc",
+    "definition": "Khớp đơn lệch góc có tốc độ đầu ra biến thiên khi đầu vào quay đều.",
+    "source": "6.1.2"
+  },
+  {
+    "term": "Các van thay đổi lực giảm chấn",
+    "definition": "Điều chỉnh đường dầu để thay đổi lực cản giảm chấn.",
+    "source": "11.5.2"
+  },
+  {
+    "term": "Cam",
+    "definition": "Bề mặt nửa hình trụ phối hợp với nạng và đĩa truyền lực.",
+    "source": "6.3.2"
+  },
+  {
+    "term": "Cảm biến đo độ cao",
+    "definition": "Cung cấp độ cao tương đối của khung gầm.",
+    "source": "11.5.1"
+  },
+  {
+    "term": "Cảm biến mô-men",
+    "definition": "Nhận biết tác động điều khiển của người lái trên trục lái.",
+    "source": "9.4.2"
+  },
+  {
+    "term": "Cảm biến tốc độ",
+    "definition": "Cung cấp thông tin tốc độ quay bánh xe.",
+    "source": "10.3.5"
+  },
+  {
+    "term": "Cam phanh",
+    "definition": "Đẩy guốc phanh ra theo sơ đồ dẫn động bằng cam.",
+    "source": "10.2.1"
+  },
+  {
+    "term": "Cam phanh",
+    "definition": "Đẩy các guốc phanh áp sát trống phanh.",
+    "source": "10.3.1"
+  },
+  {
+    "term": "Cam quay bánh xe",
+    "definition": "Liên kết bánh xe với bộ phận dẫn hướng.",
+    "source": "11.2.2"
+  },
+  {
+    "term": "Cân bằng động",
+    "definition": "Xét sự cân bằng của cụm bánh khi quay, gồm tác động gây mô men rung.",
+    "source": "8.2.3"
+  },
+  {
+    "term": "Cân bằng tĩnh",
+    "definition": "Xét sự cân bằng khối lượng khi cụm bánh đứng yên.",
+    "source": "8.2.3"
+  },
+  {
+    "term": "Cần dẫn",
+    "definition": "Phần tử mang các bánh răng hành tinh và có thể làm đầu vào hoặc đầu ra.",
+    "source": "4.3.2"
+  },
+  {
+    "term": "Cần đẩy piston",
+    "definition": "Nhận tác động của bàn đạp để đẩy piston.",
+    "source": "2.3.2"
+  },
+  {
+    "term": "Cần đẩy piston",
+    "definition": "Truyền lực phụ trợ tới cơ cấu mở ly hợp.",
+    "source": "2.3.3"
+  },
+  {
+    "term": "Càng đóng ly hợp C1",
+    "definition": "Nhận lực từ xi lanh con để tác động vào cơ cấu đóng C1.",
+    "source": "2.4.3"
+  },
+  {
+    "term": "Càng đóng ly hợp C2",
+    "definition": "Càng đóng ngắn tác động vào cơ cấu đóng C2.",
+    "source": "2.4.3"
+  },
+  {
+    "term": "Càng gài số",
+    "definition": "Đẩy ống gài hoặc bánh răng tới vị trí gài số.",
+    "source": "3.3.2"
+  },
+  {
+    "term": "Cần pit tông",
+    "definition": "Dẫn chuyển động dao động tới pit tông thủy lực.",
+    "source": "11.4.1"
+  },
+  {
+    "term": "Cần pit tông",
+    "definition": "Truyền chuyển động dao động tới pit tông.",
+    "source": "11.4.2"
+  },
+  {
+    "term": "Cần số",
+    "definition": "Nhận thao tác chọn và dịch chuyển cơ cấu gài số.",
+    "source": "3.3.2"
+  },
+  {
+    "term": "Cáp kéo",
+    "definition": "Truyền lực kéo từ bàn đạp tới đòn liên kết của cơ cấu mở.",
+    "source": "2.3.1"
+  },
+  {
+    "term": "Cầu xe",
+    "definition": "Nhận mô men từ hệ thống truyền lực để dẫn động bánh xe chủ động.",
+    "source": "1.2.2"
+  },
+  {
+    "term": "Cầu xe",
+    "definition": "Liên kết hai bánh xe trong hệ thống treo phụ thuộc.",
+    "source": "11.2.1"
+  },
+  {
+    "term": "Chạc ba",
+    "definition": "Mang ba con lăn của khớp.",
+    "source": "6.3.6"
+  },
+  {
+    "term": "Chiều dài cơ sở",
+    "definition": "Khoảng cách từ tâm bánh xe trước đến tâm bánh xe sau; xe nhiều cầu lấy hai cầu xa nhất.",
+    "source": "1.3.1"
+  },
+  {
+    "term": "Chiều rộng cơ sở",
+    "definition": "Khoảng cách từ tâm lốp bên trái đến tâm lốp bên phải.",
+    "source": "1.3.1"
+  },
+  {
+    "term": "Chiều rộng vành",
+    "definition": "Một thông số kích thước lắp của vành trong hình ký hiệu.",
+    "source": "8.2.1"
+  },
+  {
+    "term": "Chốt đẩy",
+    "definition": "Truyền lực từ piston xi lanh công tác tới càng ngắt.",
+    "source": "2.3.2"
+  },
+  {
+    "term": "Chốt đẩy",
+    "definition": "Đưa lực của piston tới đòn bẩy ly hợp.",
+    "source": "2.3.2"
+  },
+  {
+    "term": "Chốt hãm",
+    "definition": "Tham gia cơ cấu ngăn gài đồng thời hai số.",
+    "source": "3.3.2"
+  },
+  {
+    "term": "Cơ cấu định vị",
+    "definition": "Giữ trục trượt ở vị trí xác định, tránh tự ra hoặc vào số.",
+    "source": "3.3.2"
+  },
+  {
+    "term": "Cơ cấu lái",
+    "definition": "Biến đổi lực và chuyển động từ trục lái.",
+    "source": "9.3.1"
+  },
+  {
+    "term": "Cơ cấu lái",
+    "definition": "Biến đổi chuyển động cơ khí của người lái.",
+    "source": "9.4.1"
+  },
+  {
+    "term": "Cơ cấu lái",
+    "definition": "Đưa tác động tổng hợp tới bánh xe dẫn hướng.",
+    "source": "9.4.2"
+  },
+  {
+    "term": "Công suất",
+    "definition": "Thông số biểu đạt sức mạnh của động cơ theo bảng thông số trong bài.",
+    "source": "1.3.2"
+  },
+  {
+    "term": "Con lăn",
+    "definition": "Truyền lực trong rãnh và cho phép dịch chuyển dọc trục.",
+    "source": "6.3.6"
+  },
+  {
+    "term": "Con lăn",
+    "definition": "Ăn khớp với ren trục vít, thay tiếp xúc trượt bằng tiếp xúc lăn.",
+    "source": "9.2.2"
+  },
+  {
+    "term": "Coupe",
+    "definition": "Có thiết kế giống Sedan nhưng hai cửa và kiểu dáng thể thao theo bài học.",
+    "source": "1.1.2"
+  },
+  {
+    "term": "Cụm cung cấp và điều hòa khí nén",
+    "definition": "Bao gồm máy nén, bình chứa và phần điều hòa nguồn khí.",
+    "source": "12.2.1"
+  },
+  {
+    "term": "Cụm thủy lực",
+    "definition": "Cấp và điều khiển dòng dầu tới các phần tử đàn hồi.",
+    "source": "11.5.1"
+  },
+  {
+    "term": "Cụm xi-lanh kép",
+    "definition": "Biến tác động khí nén thành áp suất chất lỏng.",
+    "source": "10.3.4"
+  },
+  {
+    "term": "Đặc điểm phân chia mô men truyền",
+    "definition": "Tiêu chí phân phối mô men tới các cầu.",
+    "source": "5.1.2"
+  },
+  {
+    "term": "Đai ốc bi",
+    "definition": "Dịch chuyển dọc trục nhờ các bi lăn trong rãnh.",
+    "source": "9.2.4"
+  },
+  {
+    "term": "Đai truyền",
+    "definition": "Truyền mô men giữa hai cặp bề mặt ma sát hình côn.",
+    "source": "4.4.1"
+  },
+  {
+    "term": "Dầm dọc",
+    "definition": "Thành phần chịu lực chính chạy theo chiều dài khung.",
+    "source": "12.1.2"
+  },
+  {
+    "term": "Dầm ngang",
+    "definition": "Liên kết hai dầm dọc và gia cường độ cứng vững.",
+    "source": "12.1.2"
+  },
+  {
+    "term": "Dẫn động lái",
+    "definition": "Truyền tác động của cơ cấu lái tới bánh xe dẫn hướng.",
+    "source": "9.3.1"
+  },
+  {
+    "term": "Dạng mép của vành",
+    "definition": "Đặc trưng hình dạng mép cần phù hợp với lốp.",
+    "source": "8.2.1"
+  },
+  {
+    "term": "Đầu nối ống dầu",
+    "definition": "Nối xi lanh công tác với đường dầu từ xi lanh chính.",
+    "source": "2.3.2"
+  },
+  {
+    "term": "Đầu nối với xi lanh công tác",
+    "definition": "Nối đường dầu có áp tới xi lanh công tác.",
+    "source": "2.3.2"
+  },
+  {
+    "term": "Dây cáp",
+    "definition": "Truyền lực kéo từ trống tời tới điểm kéo.",
+    "source": "12.2.2"
+  },
+  {
+    "term": "Dây mép lốp",
+    "definition": "Giữ mép lốp chắc trên vành bánh xe.",
+    "source": "8.1.1"
+  },
+  {
+    "term": "Đế van",
+    "definition": "Mang đường van trao đổi dầu với khoang bù.",
+    "source": "11.4.2"
+  },
+  {
+    "term": "Đĩa",
+    "definition": "Nằm trong rãnh hai cam để liên kết truyền động.",
+    "source": "6.3.2"
+  },
+  {
+    "term": "Đĩa ép",
+    "definition": "Ép đĩa ma sát vào bánh đà khi ly hợp đóng; dịch ra để giải phóng lực ép khi ngắt.",
+    "source": "2.2.1"
+  },
+  {
+    "term": "Đĩa ép",
+    "definition": "Các đĩa chủ động xen kẽ với đĩa ma sát để tạo nhiều cặp tiếp xúc.",
+    "source": "2.2.2"
+  },
+  {
+    "term": "Đĩa ép C1",
+    "definition": "Ép đĩa ly hợp C1 khi càng đóng dài tác động.",
+    "source": "2.4.3"
+  },
+  {
+    "term": "Đĩa ép C2",
+    "definition": "Ép đĩa ly hợp C2 để nối mômen tới trục rỗng.",
+    "source": "2.4.3"
+  },
+  {
+    "term": "Đĩa ép trung gian",
+    "definition": "Nằm giữa hai đĩa ma sát và tạo thêm các bề mặt truyền mômen.",
+    "source": "2.2.2"
+  },
+  {
+    "term": "Đĩa ly hợp C1",
+    "definition": "Đĩa ma sát nối với trục đặc.",
+    "source": "2.4.3"
+  },
+  {
+    "term": "Đĩa ma sát",
+    "definition": "Nhận mômen qua các bề mặt ma sát rồi truyền tới moayơ và trục sơ cấp hộp số.",
+    "source": "2.2.1"
+  },
+  {
+    "term": "Đĩa ma sát",
+    "definition": "Các đĩa bị động ăn khớp với moayơ, xen kẽ với các đĩa chủ động.",
+    "source": "2.2.2"
+  },
+  {
+    "term": "Đĩa ma sát phía ngoài",
+    "definition": "Đĩa bị động thứ hai, ở phía cụm đĩa ép ngoài.",
+    "source": "2.2.2"
+  },
+  {
+    "term": "Đĩa ma sát phía trong",
+    "definition": "Đĩa bị động phía bánh đà, cùng đĩa phía ngoài truyền mômen tới trục bị động.",
+    "source": "2.2.2"
+  },
+  {
+    "term": "Đĩa phanh",
+    "definition": "Quay cùng bánh xe và tạo mặt ma sát với má phanh.",
+    "source": "10.2.2"
+  },
+  {
+    "term": "Điểm nặng",
+    "definition": "Khối lượng tập trung không đều gây lực ly tâm khi quay.",
+    "source": "8.2.3"
+  },
+  {
+    "term": "Độ chụm",
+    "definition": "Quan hệ khoảng cách hai bánh ở phía trước và phía sau khi nhìn từ trên.",
+    "source": "9.3.3"
+  },
+  {
+    "term": "Đòn bẩy",
+    "definition": "Truyền chuyển động của dẫn động điều khiển đến ổ bi bạc mở.",
+    "source": "2.2.1"
+  },
+  {
+    "term": "Đòn dẫn động",
+    "definition": "Truyền lực giữa các đòn quay.",
+    "source": "10.3.1"
+  },
+  {
+    "term": "Đòn dưới",
+    "definition": "Tham gia truyền lực và xác định quỹ đạo bánh xe.",
+    "source": "11.3.1"
+  },
+  {
+    "term": "Đòn dưới",
+    "definition": "Dẫn hướng và truyền lực giữa bánh xe với khung.",
+    "source": "11.2.2"
+  },
+  {
+    "term": "Động cơ điện",
+    "definition": "Được đề cập như một xu hướng nguồn động lực ô tô.",
+    "source": "1.2.1"
+  },
+  {
+    "term": "Động cơ điện",
+    "definition": "Nhận lệnh điều khiển và dẫn động bộ truyền trục vít – bánh vít.",
+    "source": "2.4.1"
+  },
+  {
+    "term": "Động cơ Diesel",
+    "definition": "Một loại nguồn động lực đốt trong được nêu trong bài.",
+    "source": "1.2.1"
+  },
+  {
+    "term": "Động cơ xăng",
+    "definition": "Một trong hai loại động cơ đốt trong thông dụng được nêu trong bài.",
+    "source": "1.2.1"
+  },
+  {
+    "term": "Đòn kéo",
+    "definition": "Truyền tác động từ thanh răng tới bánh xe dẫn hướng.",
+    "source": "9.2.3"
+  },
+  {
+    "term": "Đòn liên kết",
+    "definition": "Truyền chuyển động tới cơ cấu mở và ổ bi bạc mở.",
+    "source": "2.3.1"
+  },
+  {
+    "term": "Đòn trên",
+    "definition": "Tham gia cơ cấu dẫn hướng bánh xe.",
+    "source": "11.3.1"
+  },
+  {
+    "term": "Dung tích xi lanh",
+    "definition": "Thể tích xi lanh quét bởi pit-tông từ điểm chết trên đến điểm chết dưới.",
+    "source": "1.3.2"
+  },
+  {
+    "term": "Đường cấp dầu áp suất",
+    "definition": "Đưa dầu điều khiển tới buồng áp suất của ly hợp được chọn.",
+    "source": "2.4.3"
+  },
+  {
+    "term": "Đường dầu áp suất",
+    "definition": "Dẫn dầu có áp vào buồng tác động lên piston.",
+    "source": "2.2.2"
+  },
+  {
+    "term": "Đường kính lắp với lốp",
+    "definition": "Phải phù hợp với đường kính lắp của lốp.",
+    "source": "8.2.1"
+  },
+  {
+    "term": "Đường ống dẫn",
+    "definition": "Truyền áp suất chất lỏng tới cơ cấu phanh.",
+    "source": "10.3.2"
+  },
+  {
+    "term": "Đường ống dẫn chất lỏng",
+    "definition": "Truyền áp suất thủy lực tới cơ cấu phanh.",
+    "source": "10.3.4"
+  },
+  {
+    "term": "Đường ống dẫn dầu",
+    "definition": "Nối xi lanh chính với xi lanh công tác, truyền áp suất thủy lực.",
+    "source": "2.3.2"
+  },
+  {
+    "term": "ECU",
+    "definition": "Nhận tín hiệu và tính toán lệnh trợ lực điện.",
+    "source": "9.4.2"
+  },
+  {
+    "term": "ECU điều khiển",
+    "definition": "Xử lý trạng thái bánh xe và phát lệnh điều chỉnh.",
+    "source": "10.3.5"
+  },
+  {
+    "term": "Ê cu định tâm",
+    "definition": "Mối ghép phải được siết đúng mô men quy định.",
+    "source": "8.2.2"
+  },
+  {
+    "term": "Giá chạc kép",
+    "definition": "Liên kết hai khớp chữ thập đặt liền kề.",
+    "source": "6.3.1"
+  },
+  {
+    "term": "Giá đỡ",
+    "definition": "Tạo vị trí lắp và định vị các cụm tổng thành.",
+    "source": "12.1.2"
+  },
+  {
+    "term": "Giá đỡ xi-lanh",
+    "definition": "Chứa pít-tông và đỡ cụm tác động phanh.",
+    "source": "10.2.2"
+  },
+  {
+    "term": "Giảm chấn",
+    "definition": "Tiêu tán năng lượng dao động thành nhiệt.",
+    "source": "11.3.1"
+  },
+  {
+    "term": "Giảm chấn",
+    "definition": "Đồng thời là đòn đứng trong kết cấu MacPherson.",
+    "source": "11.2.2"
+  },
+  {
+    "term": "Góc camber",
+    "definition": "Góc nghiêng ngang của mặt phẳng bánh xe khi nhìn từ trước.",
+    "source": "9.3.3"
+  },
+  {
+    "term": "Góc caster",
+    "definition": "Góc nghiêng dọc của trục quay lái khi nhìn từ bên.",
+    "source": "9.3.3"
+  },
+  {
+    "term": "Góc nghiêng ngang trục lái đứng",
+    "definition": "Góc nghiêng của trục quay lái khi nhìn từ trước.",
+    "source": "9.3.3"
+  },
+  {
+    "term": "Guốc phanh",
+    "definition": "Mang má phanh áp sát mặt trong trống phanh khi phanh.",
+    "source": "10.2.1"
+  },
+  {
+    "term": "Guốc phanh",
+    "definition": "Tạo lực ma sát với mặt trong trống phanh.",
+    "source": "10.3.1"
+  },
+  {
+    "term": "Hatchback",
+    "definition": "Nắp cốp liền với kính sau và nối lên trần khoang hành khách.",
+    "source": "1.1.2"
+  },
+  {
+    "term": "Hệ thống chiếu ánh sáng và tín hiệu",
+    "definition": "Phục vụ chiếu sáng và phát tín hiệu của xe.",
+    "source": "1.2.7"
+  },
+  {
+    "term": "Hệ thống cung cấp điện",
+    "definition": "Cung cấp điện và điều chỉnh chế độ nạp.",
+    "source": "1.2.7"
+  },
+  {
+    "term": "Hệ thống đánh lửa",
+    "definition": "Tạo tác động đánh lửa theo mạch được nêu trong bài.",
+    "source": "1.2.7"
+  },
+  {
+    "term": "Hệ thống khởi động",
+    "definition": "Cung cấp tác động khởi động với các relay điều khiển và bảo vệ.",
+    "source": "1.2.7"
+  },
+  {
+    "term": "Hệ thống treo điều khiển điện tử",
+    "definition": "Điều khiển điện tử tham gia thay đổi đặc tính làm việc.",
+    "source": "11.1.2"
+  },
+  {
+    "term": "Hệ thống treo độc lập",
+    "definition": "Không có dầm cầu cứng nối hai bánh như dạng phụ thuộc.",
+    "source": "11.1.2"
+  },
+  {
+    "term": "Hệ thống treo phụ thuộc",
+    "definition": "Dao động một bánh ảnh hưởng bánh kia do liên kết bằng dầm cầu.",
+    "source": "11.1.2"
+  },
+  {
+    "term": "Hệ thống truyền lực",
+    "definition": "Nhóm thông số mô tả dạng dẫn động của xe.",
+    "source": "1.3.2"
+  },
+  {
+    "term": "Hoa lốp",
+    "definition": "Tiếp xúc với mặt đường, truyền lực kéo và lực phanh.",
+    "source": "8.1.1"
+  },
+  {
+    "term": "Hộp giảm tốc",
+    "definition": "Giảm tốc và tăng mô men tới trống tời.",
+    "source": "12.2.2"
+  },
+  {
+    "term": "Hộp số",
+    "definition": "Biến đổi mô men quay và tốc độ quay để phù hợp điều kiện chuyển động.",
+    "source": "1.2.2"
+  },
+  {
+    "term": "Hộp số ba trục",
+    "definition": "Có trục chủ động, trục bị động và trục trung gian.",
+    "source": "3.1.2"
+  },
+  {
+    "term": "Hộp số cơ khí được tự động hóa",
+    "definition": "Bộ điều khiển và chấp hành thực hiện đóng ngắt, gài số.",
+    "source": "4.1.2"
+  },
+  {
+    "term": "Hộp số hai trục",
+    "definition": "Có hai trục chính theo cách phân loại trong bài.",
+    "source": "3.1.2"
+  },
+  {
+    "term": "Hộp số tự động có cấp với biến mô thủy lực",
+    "definition": "Có các tỷ số truyền theo cấp, được trình bày ở mục 4.3.",
+    "source": "4.1.2"
+  },
+  {
+    "term": "Hộp số tự động vô cấp (CVT)",
+    "definition": "Dạng truyền động vô cấp được trình bày ở mục 4.4.",
+    "source": "4.1.2"
+  },
+  {
+    "term": "Hộp trích công suất",
+    "definition": "Nhận công suất từ hộp số chính để dẫn động thiết bị phụ.",
+    "source": "12.2.2"
+  },
+  {
+    "term": "Hộp trích công suất từ hộp số chính",
+    "definition": "Truyền công suất để dẫn động bơm dầu thủy lực.",
+    "source": "12.2.2"
+  },
+  {
+    "term": "HTTL cơ khí",
+    "definition": "Bao gồm ly hợp, hộp số, trục truyền các đăng và cầu chủ động.",
+    "source": "1.1.1"
+  },
+  {
+    "term": "Kết cấu cơ cấu lái",
+    "definition": "Tiêu chí kiểu bộ truyền của cơ cấu lái.",
+    "source": "9.1.2"
+  },
+  {
+    "term": "Khoang III",
+    "definition": "Chứa chất khí có thể nén để bù thể tích.",
+    "source": "11.4.1"
+  },
+  {
+    "term": "Khoảng sáng gầm",
+    "definition": "Khoảng cách từ mặt đất đến điểm thấp nhất của gầm xe.",
+    "source": "1.3.1"
+  },
+  {
+    "term": "Khớp các đăng đồng tốc",
+    "definition": "Đáp ứng truyền động ở cầu với hệ thống treo độc lập.",
+    "source": "7.2.3"
+  },
+  {
+    "term": "Khớp chữ thập",
+    "definition": "Liên kết chuyển động giữa các nạng của khớp.",
+    "source": "6.3.1"
+  },
+  {
+    "term": "Khớp chữ thập",
+    "definition": "Cho phép truyền mô men khi các đoạn trục không thẳng hàng.",
+    "source": "9.3.2"
+  },
+  {
+    "term": "Khớp đồng tốc gài số 3,4",
+    "definition": "Gài bánh răng số 3 hoặc nối trực tiếp trục sơ cấp với trục thứ cấp.",
+    "source": "3.2.2"
+  },
+  {
+    "term": "Khớp gài cầu trước",
+    "definition": "Nối hoặc tách trục ra cầu trước khỏi đường truyền mô men.",
+    "source": "5.2.1"
+  },
+  {
+    "term": "Khớp khóa vi sai",
+    "definition": "Hạn chế chuyển động quay tương đối khi khóa vi sai.",
+    "source": "7.2.2"
+  },
+  {
+    "term": "Khớp một chiều",
+    "definition": "Giữ hoặc giải phóng stato theo chiều tác động của dòng dầu.",
+    "source": "4.3.1"
+  },
+  {
+    "term": "Khớp thủy lực",
+    "definition": "Tham gia truyền mô men giữa các nhánh theo kết cấu được trình bày.",
+    "source": "5.3.1"
+  },
+  {
+    "term": "Khung dầm rời chịu lực toàn bộ",
+    "definition": "Khung dầm đỡ các tổng thành, thân vỏ tạo không gian bao ngoài.",
+    "source": "12.1.1"
+  },
+  {
+    "term": "Khung liền vỏ",
+    "definition": "Kết cấu khung, vỏ liên kết theo dạng được trình bày trong tài liệu.",
+    "source": "12.1.1"
+  },
+  {
+    "term": "Khung phụ",
+    "definition": "Dùng để lắp các tổng thành như động cơ, truyền lực hoặc treo theo bố trí.",
+    "source": "12.1.3"
+  },
+  {
+    "term": "Khung xe",
+    "definition": "Tiếp nhận tải trọng và liên kết với hai đầu nhíp.",
+    "source": "11.2.1"
+  },
+  {
+    "term": "Kiểu định hướng",
+    "definition": "Cần được lắp đúng chiều quay của lốp.",
+    "source": "8.1.2"
+  },
+  {
+    "term": "Kiểu sọc",
+    "definition": "Thường dùng trên đường lát phẳng và xe cao tốc theo bài.",
+    "source": "8.1.2"
+  },
+  {
+    "term": "Kiểu vành đối xứng",
+    "definition": "Được chỉ ra trong hình ký hiệu vành của bài.",
+    "source": "8.2.1"
+  },
+  {
+    "term": "Kiểu vấu",
+    "definition": "Ưu tiên lực kéo trên đường không lát.",
+    "source": "8.1.2"
+  },
+  {
+    "term": "Lốp có chiều quay xác định",
+    "definition": "Không đổi giữa bên phải và bên trái theo lưu ý trong tài liệu.",
+    "source": "8.2.4"
+  },
+  {
+    "term": "Lớp lót trong",
+    "definition": "Lớp phía trong của lốp, giữ kín khí ở lốp không săm.",
+    "source": "8.1.1"
+  },
+  {
+    "term": "Lớp sợi bố",
+    "definition": "Tạo kết cấu chịu tải của lốp.",
+    "source": "8.1.1"
+  },
+  {
+    "term": "Lốp trước và sau khác cỡ",
+    "definition": "Không đổi trước–sau nếu cỡ lốp không phù hợp.",
+    "source": "8.2.4"
+  },
+  {
+    "term": "Lò xo",
+    "definition": "Đảm nhận chức năng đàn hồi.",
+    "source": "11.2.2"
+  },
+  {
+    "term": "Lò xo hồi vị",
+    "definition": "Kéo guốc phanh về sau khi thôi tác động phanh.",
+    "source": "10.2.1"
+  },
+  {
+    "term": "Lò xo hồi vị bàn đạp",
+    "definition": "Đưa bàn đạp trở về vị trí ban đầu khi người lái thôi tác động.",
+    "source": "2.3.1"
+  },
+  {
+    "term": "Lò xo màng",
+    "definition": "Tạo lực ép và làm việc như đòn bẩy khi ổ bi bạc mở tác động vào đầu trong.",
+    "source": "2.2.1"
+  },
+  {
+    "term": "Lò xo màng",
+    "definition": "Tạo lực ép cho cả cụm và đổi trạng thái khi cơ cấu mở tác động.",
+    "source": "2.2.2"
+  },
+  {
+    "term": "Lò xo xoắn",
+    "definition": "Đàn hồi theo hành trình biến dạng, đỡ tải trọng thẳng đứng.",
+    "source": "11.3.1"
+  },
+  {
+    "term": "Ly hợp",
+    "definition": "Nối hoặc ngắt mô men truyền từ động cơ tới hộp số.",
+    "source": "1.2.2"
+  },
+  {
+    "term": "Ly hợp 1",
+    "definition": "Nối hoặc ngắt nhánh truyền lực tới các cấp số lẻ trong hình 4.1.",
+    "source": "4.2.1"
+  },
+  {
+    "term": "Ly hợp 2",
+    "definition": "Nối hoặc ngắt nhánh truyền lực tới các cấp số chẵn trong hình 4.1.",
+    "source": "4.2.1"
+  },
+  {
+    "term": "Ly hợp C1",
+    "definition": "Nối mômen tới trục đặc IS1, phụ trách các cấp số lẻ trong sơ đồ bài học.",
+    "source": "2.4.2"
+  },
+  {
+    "term": "Ly hợp C1",
+    "definition": "Cụm ly hợp ngoài; nối với trục đặc theo sơ đồ của bài.",
+    "source": "2.4.3"
+  },
+  {
+    "term": "Ly hợp C2",
+    "definition": "Nối mômen tới trục rỗng IS2, phụ trách các cấp số chẵn và số lùi trong sơ đồ.",
+    "source": "2.4.2"
+  },
+  {
+    "term": "Ly hợp C2",
+    "definition": "Cụm ly hợp trong; nối với trục rỗng theo sơ đồ của bài.",
+    "source": "2.4.3"
+  },
+  {
+    "term": "MacPherson",
+    "definition": "Giảm chấn làm đòn đứng, phối hợp đòn dưới và lò xo.",
+    "source": "11.1.2"
+  },
+  {
+    "term": "Mâm phanh",
+    "definition": "Giá cố định để lắp các chi tiết của cơ cấu phanh.",
+    "source": "10.2.1"
+  },
+  {
+    "term": "Màng cao su",
+    "definition": "Biến dạng để thay đổi thể tích khí trong phần tử đàn hồi.",
+    "source": "11.3.2"
+  },
+  {
+    "term": "Màng cao su piston",
+    "definition": "Nhận áp suất khí nén để tạo lực phụ trợ.",
+    "source": "2.3.3"
+  },
+  {
+    "term": "Má phanh",
+    "definition": "Tạo bề mặt ma sát với hai mặt đĩa phanh.",
+    "source": "10.2.2"
+  },
+  {
+    "term": "Mặt phẳng phân giác",
+    "definition": "Các điểm truyền lực phải được giữ trên mặt phẳng này để bảo đảm đồng tốc.",
+    "source": "6.3.3"
+  },
+  {
+    "term": "Máy nén khí",
+    "definition": "Tạo nguồn không khí nén cho hệ thống.",
+    "source": "10.3.3"
+  },
+  {
+    "term": "Máy nén khí",
+    "definition": "Cấp nguồn khí nén cho hệ thống.",
+    "source": "10.3.4"
+  },
+  {
+    "term": "Máy phát điện",
+    "definition": "Có thể được dẫn động bởi động cơ ô tô.",
+    "source": "1.2.1"
+  },
+  {
+    "term": "Moay ơ",
+    "definition": "Tiếp nhận và định tâm mâm vành bánh xe.",
+    "source": "8.2.2"
+  },
+  {
+    "term": "Mô men xoắn",
+    "definition": "Thông số tác động quay gắn với khả năng chịu tải theo bài học.",
+    "source": "1.3.2"
+  },
+  {
+    "term": "Mô-tơ điện",
+    "definition": "Sinh mô men hỗ trợ thông qua bộ truyền.",
+    "source": "9.4.2"
+  },
+  {
+    "term": "Nạng bị động",
+    "definition": "Đưa mô men tới trục bị động theo ký hiệu 2.",
+    "source": "6.2.1"
+  },
+  {
+    "term": "Nạng bị động",
+    "definition": "Nhận tác động từ cam và truyền tới trục bị động.",
+    "source": "6.3.2"
+  },
+  {
+    "term": "Nạng bị động",
+    "definition": "Nhận mô men qua các viên bi trong rãnh.",
+    "source": "6.3.4"
+  },
+  {
+    "term": "Nạng bị động",
+    "definition": "Phần khớp đối ứng theo ký hiệu 2, phối hợp với các rãnh bi.",
+    "source": "6.3.5"
+  },
+  {
+    "term": "Nạng bị động",
+    "definition": "Thân bao có ba rãnh dọc nhận tác động của các con lăn.",
+    "source": "6.3.6"
+  },
+  {
+    "term": "Nạng chủ động",
+    "definition": "Nhận mô men từ trục chủ động theo ký hiệu 1.",
+    "source": "6.2.1"
+  },
+  {
+    "term": "Nạng chủ động",
+    "definition": "Liên kết trục chủ động với cam thứ nhất.",
+    "source": "6.3.2"
+  },
+  {
+    "term": "Nạng chủ động",
+    "definition": "Nhận mô men đầu vào; có các rãnh chứa bi truyền lực.",
+    "source": "6.3.4"
+  },
+  {
+    "term": "Nạng chủ động",
+    "definition": "Phần khớp mang rãnh ngoài để truyền mô men qua bi theo ký hiệu 1.",
+    "source": "6.3.5"
+  },
+  {
+    "term": "Nạng chủ động",
+    "definition": "Phần đầu vào truyền mô men tới chạc ba.",
+    "source": "6.3.6"
+  },
+  {
+    "term": "Nắp vòng bi",
+    "definition": "Chứa ổ bi kim, được giữ trong lỗ trên nạng.",
+    "source": "6.2.2"
+  },
+  {
+    "term": "Nút chọn",
+    "definition": "Nhận lựa chọn chế độ chuyển động của người lái.",
+    "source": "11.5.2"
+  },
+  {
+    "term": "Ổ bi bạc mở",
+    "definition": "Tiếp nhận tác động của càng mở và truyền lực tới đầu trong lò xo màng.",
+    "source": "2.2.1"
+  },
+  {
+    "term": "Ổ bi bạc mở",
+    "definition": "Trượt trên bạc dẫn hướng và tác động vào cơ cấu tách.",
+    "source": "2.3.1"
+  },
+  {
+    "term": "Ổ bi bạc mở",
+    "definition": "Truyền lực tới cơ cấu tách để ngắt ly hợp.",
+    "source": "2.3.3"
+  },
+  {
+    "term": "Ổ đỡ cố định",
+    "definition": "Chịu lực hướng trục và không được di động theo hướng trục.",
+    "source": "3.2.4"
+  },
+  {
+    "term": "Ổ đỡ di động",
+    "definition": "Có một vòng được phép di động theo hướng trục để bù dung sai và giãn nở.",
+    "source": "3.2.4"
+  },
+  {
+    "term": "Ống dẫn khí nén",
+    "definition": "Đưa khí nén từ nguồn tới cụm phân phối và bộ trợ lực.",
+    "source": "2.3.3"
+  },
+  {
+    "term": "Ô tô du lịch",
+    "definition": "Có các khoang động cơ, chở người và hành lý.",
+    "source": "1.1.1"
+  },
+  {
+    "term": "Ô tô khách",
+    "definition": "Được thiết kế để chở người với số ghế theo nhóm xe.",
+    "source": "1.1.1"
+  },
+  {
+    "term": "Ô tô tải",
+    "definition": "Mục đích chính là vận tải hàng hóa.",
+    "source": "1.1.1"
+  },
+  {
+    "term": "Phanh chậm dần",
+    "definition": "Phối hợp giảm tải cho cơ cấu phanh khi xuống dốc dài.",
+    "source": "10.1.1"
+  },
+  {
+    "term": "Phanh chính",
+    "definition": "Đáp ứng yêu cầu điều khiển giảm tốc và dừng xe.",
+    "source": "10.1.1"
+  },
+  {
+    "term": "Phanh đỗ",
+    "definition": "Giữ xe khi đỗ trên đường bằng hoặc trên dốc.",
+    "source": "10.1.1"
+  },
+  {
+    "term": "Phương pháp dẫn động",
+    "definition": "Tiêu chí tổ chức dẫn động các cầu theo tài liệu.",
+    "source": "5.1.2"
+  },
+  {
+    "term": "Pick up",
+    "definition": "Ô tô bán tải, thuộc các tên gọi được trình bày trong bài.",
+    "source": "1.1.2"
+  },
+  {
+    "term": "Piston",
+    "definition": "Dịch chuyển dưới áp suất dầu để ép chặt chồng đĩa.",
+    "source": "2.2.2"
+  },
+  {
+    "term": "Piston",
+    "definition": "Dịch chuyển theo cần đẩy và làm tăng áp suất trong buồng công tác.",
+    "source": "2.3.2"
+  },
+  {
+    "term": "Piston",
+    "definition": "Nhận áp suất dầu để tạo chuyển động tịnh tiến.",
+    "source": "2.3.2"
+  },
+  {
+    "term": "Piston tác động",
+    "definition": "Biến áp suất dầu thành lực ép cụm đĩa.",
+    "source": "2.4.3"
+  },
+  {
+    "term": "Pit tông",
+    "definition": "Chia khoang I và II trong vỏ trong.",
+    "source": "11.4.2"
+  },
+  {
+    "term": "Pit tông khí",
+    "definition": "Dịch chuyển để bù thay đổi thể tích do cần pit tông chiếm chỗ.",
+    "source": "11.4.1"
+  },
+  {
+    "term": "Pit tông thủy lực",
+    "definition": "Chia khoang dầu và mang các đường van nén, trả.",
+    "source": "11.4.1"
+  },
+  {
+    "term": "Puli V sơ cấp",
+    "definition": "Nhận mô men đầu vào và tạo bán kính làm việc phía chủ động.",
+    "source": "4.4.1"
+  },
+  {
+    "term": "Puli V thứ cấp",
+    "definition": "Nhận mô men qua đai truyền và đưa tới trục đầu ra.",
+    "source": "4.4.1"
+  },
+  {
+    "term": "Quả cầu lò xo ở giữa",
+    "definition": "Bổ sung thể tích khí khi được nối vào mạch để tạo chế độ mềm.",
+    "source": "11.5.1"
+  },
+  {
+    "term": "Rô-tuyn",
+    "definition": "Truyền lực trong khi góc giữa đòn và thanh kéo thay đổi.",
+    "source": "9.3.2"
+  },
+  {
+    "term": "Sedan",
+    "definition": "Có khoang hành lý riêng, nắp ca pô và cốp thấp hơn nóc khoang hành khách.",
+    "source": "1.1.2"
+  },
+  {
+    "term": "Sọc kết hợp vấu",
+    "definition": "Kết hợp đặc điểm của hai dạng hoa lốp.",
+    "source": "8.1.2"
+  },
+  {
+    "term": "Sơ đồ đảo lốp",
+    "definition": "Chọn sơ đồ trong bài phù hợp dạng dẫn động và loại lốp.",
+    "source": "8.2.4"
+  },
+  {
+    "term": "Số lượng cấp số truyền",
+    "definition": "Tiêu chí số tỷ số truyền của hộp phân phối.",
+    "source": "5.1.2"
+  },
+  {
+    "term": "Số lượng trục ra",
+    "definition": "Tiêu chí số đầu ra truyền tới các cầu.",
+    "source": "5.1.2"
+  },
+  {
+    "term": "Stato",
+    "definition": "Đổi hướng dòng dầu từ bánh tua-bin trở về bánh bơm.",
+    "source": "4.3.1"
+  },
+  {
+    "term": "Tải trọng đặt lên lốp",
+    "definition": "Tải trọng khác nhau làm mức mòn lốp khác nhau.",
+    "source": "8.2.4"
+  },
+  {
+    "term": "Thanh răng",
+    "definition": "Dịch chuyển tịnh tiến khi bánh răng quay.",
+    "source": "9.2.3"
+  },
+  {
+    "term": "Thân vỏ chịu tải hoàn toàn",
+    "definition": "Hệ sàn và các phần thân tạo kết cấu chịu lực.",
+    "source": "12.1.3"
+  },
+  {
+    "term": "Thân vỏ chịu tải một phần",
+    "definition": "Cả khung và phần thân tham gia tiếp nhận tải theo dạng được mô tả.",
+    "source": "12.1.3"
+  },
+  {
+    "term": "Thân vỏ liền khối",
+    "definition": "Kết cấu thân vỏ là bộ phận của hệ chịu lực.",
+    "source": "12.1.1"
+  },
+  {
+    "term": "Thân vỏ rời",
+    "definition": "Thân lắp với khung dầm bằng mối ghép theo kết cấu.",
+    "source": "12.1.3"
+  },
+  {
+    "term": "Theo cơ cấu phanh",
+    "definition": "Tiêu chí kết cấu tạo mô men phanh.",
+    "source": "10.1.2"
+  },
+  {
+    "term": "Theo công dụng",
+    "definition": "Tiêu chí nhiệm vụ làm việc của hệ thống phanh.",
+    "source": "10.1.2"
+  },
+  {
+    "term": "Theo dẫn động",
+    "definition": "Tiêu chí phương pháp truyền tác động điều khiển.",
+    "source": "10.1.2"
+  },
+  {
+    "term": "Theo mức điều khiển",
+    "definition": "Tiêu chí sự tham gia của các hệ thống điều khiển.",
+    "source": "10.1.2"
+  },
+  {
+    "term": "Thùng dầu thủy lực",
+    "definition": "Chứa dầu cho hệ thống nâng hạ.",
+    "source": "12.2.2"
+  },
+  {
+    "term": "Tín hiệu đầu vào",
+    "definition": "Gồm tín hiệu sang số, tốc độ, vị trí ga và các thông tin CAN-bus theo sơ đồ.",
+    "source": "2.4.1"
+  },
+  {
+    "term": "Trợ lực điện",
+    "definition": "EPS sử dụng động cơ điện theo bài học.",
+    "source": "9.1.2"
+  },
+  {
+    "term": "Trợ lực thủy lực",
+    "definition": "Tiêu chí nguồn tạo lực trợ lái.",
+    "source": "9.1.2"
+  },
+  {
+    "term": "Trống phanh",
+    "definition": "Phần quay cùng bánh xe, tiếp xúc với má phanh.",
+    "source": "10.2.1"
+  },
+  {
+    "term": "Trống tời",
+    "definition": "Quấn hoặc nhả dây cáp để tạo tác động kéo.",
+    "source": "12.2.2"
+  },
+  {
+    "term": "Trục bánh răng vi sai",
+    "definition": "Mang và định vị các bánh răng vi sai.",
+    "source": "7.2.2"
+  },
+  {
+    "term": "Trục bị động",
+    "definition": "Nhận mô men từ khớp chữ thập kép.",
+    "source": "6.3.1"
+  },
+  {
+    "term": "Trục bị động",
+    "definition": "Nhận mô men qua các điểm truyền lực.",
+    "source": "6.3.3"
+  },
+  {
+    "term": "Trục các đăng",
+    "definition": "Truyền mô men giữa các cụm có đường tâm không nằm trên một đường thẳng.",
+    "source": "1.2.2"
+  },
+  {
+    "term": "Trục các đăng",
+    "definition": "Truyền mô men giữa hộp trích công suất và hộp giảm tốc.",
+    "source": "12.2.2"
+  },
+  {
+    "term": "Trục chủ động",
+    "definition": "Đưa mô men vào khớp chữ thập kép.",
+    "source": "6.3.1"
+  },
+  {
+    "term": "Trục chủ động",
+    "definition": "Truyền mô men tới các điểm tiếp xúc bi.",
+    "source": "6.3.3"
+  },
+  {
+    "term": "Trục chủ động 1",
+    "definition": "Nhận mô men từ ly hợp 1 theo nhánh màu đỏ.",
+    "source": "4.2.1"
+  },
+  {
+    "term": "Trục chủ động 2",
+    "definition": "Nhận mô men từ ly hợp 2 theo nhánh màu xanh.",
+    "source": "4.2.1"
+  },
+  {
+    "term": "Trục chữ thập",
+    "definition": "Liên kết hai nạng của khớp các đăng.",
+    "source": "6.2.2"
+  },
+  {
+    "term": "Trục chữ thập",
+    "definition": "Liên kết hai nạng và cho phép truyền động khi hai trục lệch góc.",
+    "source": "6.2.1"
+  },
+  {
+    "term": "Trục cố định",
+    "definition": "Một dạng phân loại theo đặc điểm bố trí trục hộp số.",
+    "source": "3.1.2"
+  },
+  {
+    "term": "Trục đặc IS1",
+    "definition": "Nhận mômen qua C1 và nối với nhóm số lẻ.",
+    "source": "2.4.2"
+  },
+  {
+    "term": "Trục di động",
+    "definition": "Các trục bánh răng hành tinh có thể di động theo cần dẫn.",
+    "source": "3.1.2"
+  },
+  {
+    "term": "Trục đòn quay đứng",
+    "definition": "Đưa tác động từ bánh vít tới dẫn động lái.",
+    "source": "9.2.1"
+  },
+  {
+    "term": "Trục đòn quay đứng",
+    "definition": "Nhận tác động từ giá con lăn và truyền ra dẫn động lái.",
+    "source": "9.2.2"
+  },
+  {
+    "term": "Trục lái",
+    "definition": "Nối vành tay lái với cơ cấu lái.",
+    "source": "9.3.1"
+  },
+  {
+    "term": "Trục lái",
+    "definition": "Truyền mô men và có thể có nhiều đoạn nối khớp.",
+    "source": "9.3.2"
+  },
+  {
+    "term": "Trục rỗng IS2",
+    "definition": "Nhận mômen qua C2 và nối với nhóm số chẵn.",
+    "source": "2.4.2"
+  },
+  {
+    "term": "Trục rỗng (Khớp nối trượt)",
+    "definition": "Bù thay đổi chiều dài trong quá trình các cụm chuyển động tương đối.",
+    "source": "6.2.2"
+  },
+  {
+    "term": "Trục sơ cấp",
+    "definition": "Nhận mô men từ ly hợp, mang bánh răng liền trục sơ cấp.",
+    "source": "3.2.2"
+  },
+  {
+    "term": "Trục sơ cấp",
+    "definition": "Nhận mô men từ ly hợp, mang các bánh răng phía chủ động.",
+    "source": "3.2.3"
+  },
+  {
+    "term": "Trục sơ cấp hộp số",
+    "definition": "Nhận mômen từ cụm đĩa qua moayơ.",
+    "source": "2.2.2"
+  },
+  {
+    "term": "Trục thứ cấp",
+    "definition": "Truyền mô men ra khỏi hộp số.",
+    "source": "3.2.2"
+  },
+  {
+    "term": "Trục thứ cấp",
+    "definition": "Nhận mô men qua cặp bánh răng đã chọn và truyền tới truyền lực chính.",
+    "source": "3.2.3"
+  },
+  {
+    "term": "Trục trung gian",
+    "definition": "Mang các bánh răng truyền trung gian.",
+    "source": "3.2.2"
+  },
+  {
+    "term": "Trục trượt",
+    "definition": "Dẫn hướng chuyển động của càng gài số.",
+    "source": "3.3.2"
+  },
+  {
+    "term": "Trục vít",
+    "definition": "Nhận chuyển động quay từ trục tay lái.",
+    "source": "9.2.1"
+  },
+  {
+    "term": "Trục vít",
+    "definition": "Trục vít dạng glô-bô-it nhận chuyển động quay đầu vào.",
+    "source": "9.2.2"
+  },
+  {
+    "term": "Trục vít",
+    "definition": "Nhận chuyển động quay từ trục lái.",
+    "source": "9.2.4"
+  },
+  {
+    "term": "Trụ đứng",
+    "definition": "Tạo trục quay cho bánh xe dẫn hướng theo sơ đồ.",
+    "source": "9.2.3"
+  },
+  {
+    "term": "Truyền động các đăng hở",
+    "definition": "Được phân biệt với loại kín theo kết cấu bao che.",
+    "source": "6.1.2"
+  },
+  {
+    "term": "Truyền động các đăng kín",
+    "definition": "Các bộ phận đặt trong ống bọc bảo vệ theo phân loại trong bài.",
+    "source": "6.1.2"
+  },
+  {
+    "term": "Truyền lực chính",
+    "definition": "Nhận đầu ra hộp số; vỏ được bố trí liền với vỏ hộp số.",
+    "source": "3.2.3"
+  },
+  {
+    "term": "Truyền lực chính đơn",
+    "definition": "Phân loại theo số cặp bánh răng truyền lực chính.",
+    "source": "7.1.2"
+  },
+  {
+    "term": "Truyền lực chính kép",
+    "definition": "Hai cặp truyền giảm tốc, có thể bố trí tập trung hoặc phân tán.",
+    "source": "7.1.2"
+  },
+  {
+    "term": "Van điện từ",
+    "definition": "Tác động các van chuyển số để đổi đường dẫn dầu.",
+    "source": "4.3.3"
+  },
+  {
+    "term": "Van điện từ",
+    "definition": "Điều chỉnh mạch thủy lực theo lệnh điện tử.",
+    "source": "9.4.3"
+  },
+  {
+    "term": "Van điều áp sơ cấp",
+    "definition": "Điều chỉnh áp suất dầu do bơm tạo ra.",
+    "source": "4.3.3"
+  },
+  {
+    "term": "Van điều khiển",
+    "definition": "Đổi đường khí theo chế độ điều chỉnh áp suất lốp.",
+    "source": "12.2.1"
+  },
+  {
+    "term": "Van điều khiển",
+    "definition": "Chọn đường dầu ứng với nâng, giữ hoặc hạ thùng.",
+    "source": "12.2.2"
+  },
+  {
+    "term": "Van giới hạn nâng sàn",
+    "definition": "Giới hạn nâng theo cơ cấu của hệ thống minh họa.",
+    "source": "12.2.2"
+  },
+  {
+    "term": "Van giữ hơi",
+    "definition": "Tham gia giữ kín khí của lốp theo kết cấu trong tài liệu.",
+    "source": "12.2.1"
+  },
+  {
+    "term": "Vành bánh xe",
+    "definition": "Liên kết với moay ơ và lắp lốp tạo cụm bánh xe.",
+    "source": "8.2.2"
+  },
+  {
+    "term": "Vành kim loại",
+    "definition": "Giữ phần mép của vỏ cao su theo kết cấu.",
+    "source": "11.3.2"
+  },
+  {
+    "term": "Vành tay lái",
+    "definition": "Nhận lực và chuyển động điều khiển của người lái.",
+    "source": "9.3.1"
+  },
+  {
+    "term": "Vành tay lái",
+    "definition": "Nhận lực điều khiển trực tiếp từ người lái.",
+    "source": "9.3.2"
+  },
+  {
+    "term": "Van phanh tổng",
+    "definition": "Điều khiển cấp và xả khí theo thao tác bàn đạp.",
+    "source": "10.3.3"
+  },
+  {
+    "term": "Van phân phối",
+    "definition": "Đóng đường xả và mở đường cấp khí khi cần trợ lực; xả khí khi hồi vị.",
+    "source": "2.3.3"
+  },
+  {
+    "term": "Van phân phối",
+    "definition": "Điều khiển đường dầu tới các khoang xi-lanh lực.",
+    "source": "9.4.1"
+  },
+  {
+    "term": "Van phân phối",
+    "definition": "Điều khiển khí nén tới cụm xi-lanh kép.",
+    "source": "10.3.4"
+  },
+  {
+    "term": "Viên bi",
+    "definition": "Thay ma sát trượt bằng ma sát lăn trong bộ truyền.",
+    "source": "9.2.4"
+  },
+  {
+    "term": "Vi sai giữa các bánh xe",
+    "definition": "Phân loại vi sai theo công dụng, khác vi sai giữa các cầu.",
+    "source": "7.1.2"
+  },
+  {
+    "term": "Vít xả",
+    "definition": "Dùng để xả khí khỏi cụm xi-lanh khi bảo dưỡng.",
+    "source": "10.2.2"
+  },
+  {
+    "term": "Vít xả khí",
+    "definition": "Dùng để xả không khí lẫn trong dẫn động thủy lực khi bảo dưỡng.",
+    "source": "2.3.2"
+  },
+  {
+    "term": "Vít xả khí",
+    "definition": "Mở đường thoát cho không khí khi xả khí hệ thống.",
+    "source": "2.3.2"
+  },
+  {
+    "term": "Vỏ cao su",
+    "definition": "Bao kín thể tích khí và biến dạng theo hành trình.",
+    "source": "11.3.2"
+  },
+  {
+    "term": "Vỏ cầu",
+    "definition": "Đỡ và bảo vệ các phần tử truyền lực, liên kết với hệ thống treo.",
+    "source": "7.2.3"
+  },
+  {
+    "term": "Vỏ kim loại",
+    "definition": "Giới hạn buồng khí trong kết cấu dùng màng cao su.",
+    "source": "11.3.2"
+  },
+  {
+    "term": "Vỏ ly hợp",
+    "definition": "Mang các rãnh liên kết với các đĩa chủ động.",
+    "source": "2.2.2"
+  },
+  {
+    "term": "Vòng chặn",
+    "definition": "Giữ vị trí nắp ổ theo kết cấu minh họa.",
+    "source": "6.2.2"
+  },
+  {
+    "term": "Vòng định vị",
+    "definition": "Một phương pháp giữ các viên bi đúng vị trí theo sơ đồ nguyên lý.",
+    "source": "6.3.3"
+  },
+  {
+    "term": "Vòng định vị",
+    "definition": "Giữ các bi trên mặt phẳng phân giác của góc giữa hai trục.",
+    "source": "6.3.5"
+  },
+  {
+    "term": "Vòng làm kín sơ cấp",
+    "definition": "Làm kín buồng tạo áp suất ở phía trước piston.",
+    "source": "2.3.2"
+  },
+  {
+    "term": "Vỏ ngoài",
+    "definition": "Bao ngoài và tạo khoảng không cho khoang bù.",
+    "source": "11.4.2"
+  },
+  {
+    "term": "Vỏ ô tô",
+    "definition": "Bao bên ngoài, tạo không gian chứa người, hàng hóa và bảo vệ trước môi trường.",
+    "source": "12.1.1"
+  },
+  {
+    "term": "Vỏ trong",
+    "definition": "Tạo xi-lanh làm việc của giảm chấn.",
+    "source": "11.4.2"
+  },
+  {
+    "term": "Vỏ vi sai",
+    "definition": "Nhận mô men từ bánh răng bị động truyền lực chính.",
+    "source": "7.2.2"
+  },
+  {
+    "term": "Xi lanh chính",
+    "definition": "Biến lực từ bàn đạp thành áp suất dầu điều khiển.",
+    "source": "2.3.2"
+  },
+  {
+    "term": "Xi lanh chính",
+    "definition": "Tạo áp suất thủy lực cho cơ cấu đóng/ngắt trung tâm.",
+    "source": "2.4.1"
+  },
+  {
+    "term": "Xi-lanh chính",
+    "definition": "Biến lực bàn đạp thành áp suất chất lỏng.",
+    "source": "10.3.2"
+  },
+  {
+    "term": "Xi-lanh chính",
+    "definition": "Tạo áp suất phanh do người lái tác động.",
+    "source": "10.3.5"
+  },
+  {
+    "term": "Xi lanh con",
+    "definition": "Tác động trực tiếp lên cơ cấu đóng/ngắt ly hợp.",
+    "source": "2.4.1"
+  },
+  {
+    "term": "Xi lanh con",
+    "definition": "Dẫn động càng đóng ly hợp bằng thủy lực.",
+    "source": "2.4.3"
+  },
+  {
+    "term": "Xi lanh công tác",
+    "definition": "Biến áp suất dầu thành lực trên piston và chốt đẩy.",
+    "source": "2.3.2"
+  },
+  {
+    "term": "Xi-lanh công tác",
+    "definition": "Biến áp suất chất lỏng thành lực tác động guốc phanh.",
+    "source": "10.3.2"
+  },
+  {
+    "term": "Xi-lanh lực",
+    "definition": "Biến áp suất dầu thành lực trợ lái.",
+    "source": "9.4.1"
+  },
+  {
+    "term": "Xi-lanh lực",
+    "definition": "Thủy lực vẫn tạo lực hỗ trợ tại cơ cấu chấp hành.",
+    "source": "9.4.3"
+  },
+  {
+    "term": "Xy lanh thủy lực",
+    "definition": "Biến áp suất dầu thành lực nâng thùng.",
+    "source": "12.2.2"
+  }
+]

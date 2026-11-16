@@ -1,0 +1,709 @@
+:root {
+    --nt-scale: 1;
+    --nt-ink: #243f50;
+    --nt-green: #18745e
+}
+
+html {
+    background: #fff!important;
+    scroll-behavior: smooth
+}
+
+body.nt-reader {
+    color: var(--nt-ink)!important;
+    background: #fff!important;
+    margin: 0!important;
+    padding: 0!important;
+    font-size: calc(16px * var(--nt-scale))!important;
+    line-height: 1.5!important;
+    overflow-x: hidden
+}
+
+body.nt-reader #siteNav,body.nt-reader #siteHeader,body.nt-reader #siteFooter,body.nt-reader .nav-buttons,body.nt-reader #exe-client-search,body.nt-reader #exe-client-search-text,body.nt-reader #exe-client-search-reset,body.nt-reader #exe-client-search-submit,body.nt-reader .exe-downloads {
+    display: none!important
+}
+
+body.nt-reader .exe-content {
+    padding: 0!important;
+    margin: 0!important;
+    min-width: 0!important;
+    width: 100%!important;
+    max-width: none!important;
+    border: 0!important;
+    box-shadow: none!important
+}
+
+body.nt-reader main.page,body.nt-reader .page,body.nt-reader .page-content {
+    width: 100%!important;
+    margin: 0!important;
+    padding: 0!important;
+    border: 0!important;
+    min-width: 0!important;
+    max-width: none!important;
+    background: #fff!important
+}
+
+body.nt-reader .main-header {
+    display: none!important
+}
+
+body.nt-reader #skipNav {
+    position: absolute;
+    left: -9999px
+}
+
+body.nt-reader .box {
+    margin: 20px 24px!important;
+    border: 1px solid #e1e9ed!important;
+    box-shadow: none!important;
+    border-radius: 10px!important;
+    padding: 0!important;
+    background: #fff!important
+}
+
+body.nt-reader .box-head {
+    padding: 15px 22px!important;
+    background: #f4f7f9!important;
+    border: 0!important;
+    border-radius: 10px 10px 0 0!important
+}
+
+body.nt-reader .box-head .box-title {
+    font-size: calc(18px * var(--nt-scale))!important;
+    font-weight: 650!important;
+    color: #264c5f!important;
+    margin: 0!important;
+    line-height: 1.5!important
+}
+
+body.nt-reader .box-content,body.nt-reader .iDevice_content,body.nt-reader .exe-text-template {
+    padding: 12px 20px!important
+}
+
+body.nt-reader .exe-text-template {
+    max-width: 100%!important;
+    font-size: calc(14px * var(--nt-scale))!important;
+    line-height: 1.5!important
+}
+
+body.nt-reader .exe-text-template p {
+    font-size: inherit!important;
+    line-height: inherit!important;
+    max-width: 100%!important
+}
+
+body.nt-reader .exe-text-template img {
+    max-width: 100%!important;
+    height: auto!important;
+    object-fit: contain
+}
+
+body.nt-reader .exe-text-template table {
+    max-width: 100%;
+    display: block;
+    overflow: auto
+}
+
+body.nt-reader .c2-lab {
+    border: 0!important;
+    border-radius: 0!important;
+    box-shadow: none!important;
+    margin: 0!important;
+    background: #fff!important;
+    max-width: 100%!important
+}
+
+body.nt-reader .c2-head {
+    padding: 22px 25px 16px!important;
+    background: #fff!important;
+    border: 0!important;
+    color: var(--nt-ink)!important
+}
+
+body.nt-reader .c2-head h2 {
+    font-size: calc(19px * var(--nt-scale))!important;
+    font-weight: 650!important;
+    color: #214456!important;
+    margin: 0 0 10px!important
+}
+
+body.nt-reader .c2-head>.c2-kicker {
+    display: none
+}
+
+body.nt-reader .c2-objectives {
+    font-size: calc(14px * var(--nt-scale))!important;
+    color: #718592!important;
+    line-height: 1.8!important;
+    padding-left: 18px!important;
+    margin: 0 0 13px!important
+}
+
+body.nt-reader .c2-statusline {
+    gap: 7px!important
+}
+
+body.nt-reader .c2-chip {
+    background: #eff5f3!important;
+    border: 1px solid #deebe5!important;
+    color: #4f7968!important;
+    font-size: calc(14px * var(--nt-scale))!important;
+    padding: 4px 9px!important;
+    border-radius: 5px!important
+}
+
+body.nt-reader .c2-chip:last-child {
+    display: none
+}
+
+body.nt-reader .c2-tabs {
+    padding: 0 25px!important;
+    gap: 15px!important;
+    border-bottom: 1px solid #e1e9ed!important;
+    background: #fff!important
+}
+
+body.nt-reader .c2-tab {
+    font-family: inherit!important;
+    white-space: normal!important;
+    padding: 12px 3px!important;
+    border: 0!important;
+    border-bottom: 3px solid transparent!important;
+    border-radius: 0!important;
+    background: none!important;
+    color: #85949f!important;
+    font-size: calc(14px * var(--nt-scale))!important;
+    font-weight: 600!important;
+    box-shadow: none!important
+}
+
+body.nt-reader .c2-tab[aria-selected="true"] {
+    color: var(--nt-green)!important;
+    border-bottom-color: var(--nt-green)!important;
+    background: none!important
+}
+
+body.nt-reader .c2-panel {
+    padding: 22px 25px!important
+}
+
+body.nt-reader .c2-btn {
+    font-family: inherit!important;
+    font-size: calc(12px * var(--nt-scale))!important;
+    border-radius: 6px!important;
+    box-shadow: none!important;
+    padding: 8px 12px!important;
+    border: 1px solid #d9e5e5!important;
+    color: #3b5d69!important;
+    background: #fff!important;
+    line-height: 1.5!important;
+    min-height: 35px
+}
+
+body.nt-reader .c2-btn.primary,body.nt-reader .c2-btn[aria-pressed="true"] {
+    background: var(--nt-green)!important;
+    border-color: var(--nt-green)!important;
+    color: #fff!important
+}
+
+body.nt-reader .c2-figure-layout {
+    display: grid!important;
+    grid-template-columns: minmax(0,1.7fr) minmax(200px,1fr)!important;
+    gap: 20px!important;
+    margin-top: 18px!important
+}
+
+body.nt-reader .c2-figure {
+    margin: 0!important;
+    min-width: 0!important
+}
+
+body.nt-reader .c2-pinboard {
+    border: 1px solid #e5edf0!important;
+    border-radius: 9px!important;
+    padding: 0!important;
+    background: #fff!important;
+    overflow: visible!important
+}
+
+body.nt-reader .c2-pinboard img {
+    width: 100%!important;
+    height: auto!important;
+    display: block;
+    cursor: zoom-in
+}
+
+body.nt-reader .c2-pin {
+    font-family: inherit!important;
+    width: 29px!important;
+    height: 29px!important;
+    min-width: 29px!important;
+    min-height: 29px!important;
+    background: #fffef6!important;
+    color: #765621!important;
+    border: 2px solid #c49b45!important;
+    font-size: 11px!important;
+    font-weight: 700!important;
+    box-shadow: 0 1px 5px #173b4b23!important
+}
+
+body.nt-reader .c2-pin.selected,body.nt-reader .c2-pin.good {
+    background: var(--nt-green)!important;
+    color: #fff!important;
+    border-color: #18745e!important
+}
+
+body.nt-reader .c2-pin.bad {
+    background: #b55342!important;
+    color: #fff!important;
+    border-color: #b55342!important
+}
+
+body.nt-reader .c2-caption {
+    font-size: calc(14px * var(--nt-scale))!important;
+    line-height: 1.65!important;
+    color: #8395a0!important;
+    margin-top: 10px!important
+}
+
+body.nt-reader .c2-caption a {
+    color: var(--nt-green)!important
+}
+
+body.nt-reader .c2-part-btn {
+    font-family: inherit!important;
+    font-size: calc(14px * var(--nt-scale))!important;
+    min-height: 41px!important;
+    padding: 8px 11px!important;
+    border: 1px solid #e2eaee!important;
+    border-radius: 7px!important;
+    line-height: 1.45!important;
+    color: #3e5d6b!important;
+    background: #fff!important
+}
+
+body.nt-reader .c2-part-btn.selected {
+    background: #edf6f1!important;
+    border-color: #b6d4c5!important
+}
+
+.nt-reader .c2-letter {
+    background: #e9f1ee!important;
+    color: #36725b!important;
+    border-radius: 5px!important;
+    font-size: 10px!important
+}
+
+.nt-reader .c2-info {
+    background: #f4f8f8!important;
+    border: 1px solid #e5eeee!important;
+    padding: 14px 16px!important;
+    border-radius: 8px!important;
+    font-size: calc(14px * var(--nt-scale))!important;
+    line-height: 1.75!important
+}
+
+.nt-reader .c2-info h4 {
+    font-size: calc(14px * var(--nt-scale))!important;
+    margin: 0 0 8px!important;
+    color: #285c49!important
+}
+
+.nt-reader .c2-info p {
+    margin: 0!important
+}
+
+.nt-reader .c2-small {
+    font-size: calc(14px * var(--nt-scale))!important;
+    color: #80939d!important;
+    line-height: 1.7!important
+}
+
+.nt-reader .c2-source {
+    font-size: calc(12px * var(--nt-scale))!important;
+    color: #8a9aa3!important;
+    line-height: 1.7!important;
+    background: #fafcfc!important;
+    border-top: 1px solid #eaf0f2!important;
+    padding-top: 14px!important;
+    margin-top: 20px!important
+}
+
+.nt-reader .c2-source a {
+    color: #438b71!important
+}
+
+.nt-reader .c2-sim-frame {
+    border: 1px solid #e1e9ee!important;
+    background: #fafcfd!important;
+    border-radius: 9px!important;
+    margin-top: 15px!important;
+    overflow-x: auto!important
+}
+
+.nt-reader .c2-sim-frame svg {
+    display: block;
+    width: 100%;
+    min-width: 590px!important;
+    height: auto!important
+}
+
+.nt-reader .c2-step-title {
+    color: #2c5744!important
+}
+
+.nt-reader .c2-step-card,.nt-reader .c2-step-info {
+    background: #f4f8f6!important;
+    border-color: #deebe3!important
+}
+
+.nt-reader .c2-question {
+    font-size: calc(17px * var(--nt-scale))!important;
+    color: #294b5b!important;
+    line-height: 1.6!important
+}
+
+.nt-reader .c2-option,.nt-reader .c2-token,.nt-reader .c2-slot {
+    font-family: inherit!important;
+    font-size: calc(13px * var(--nt-scale))!important;
+    line-height: 1.6!important
+}
+
+.nt-reader .c2-feedback {
+    font-size: calc(13px * var(--nt-scale))!important;
+    line-height: 1.8!important
+}
+
+.nt-reader .c2-ex-nav {
+    flex-wrap: wrap!important;
+    gap: 7px!important
+}
+
+.nt-reader .c2-ex-nav button {
+    font-size: 11px!important;
+    border-radius: 6px!important
+}
+
+.nt-reader .all-source-gallery {
+    font-size: 11px!important
+}
+
+.nt-reader .all-source-gallery img {
+    max-height: 220px!important
+}
+
+.nt-reader .auto-review {
+    margin: 25px!important;
+    border: 1px solid #e0e9e9!important;
+    border-radius: 10px!important;
+    box-shadow: none!important;
+}
+
+.nt-reader .rv-head {
+    background: #1e4b3e!important;
+    color: #fff!important
+}
+
+.nt-reader .rv-button {
+    font-family: inherit!important;
+    background: var(--nt-green)!important;
+    border-color: var(--nt-green)!important;
+    border-radius: 6px!important;
+    font-size: 12px!important
+}
+
+.nt-reader .rv-button.secondary {
+    background: #fff!important;
+    color: var(--nt-green)!important;
+    border-color: #c5dcd3!important
+}
+
+.nt-reader .rv-body {
+    font-family: inherit!important;
+    font-size: calc(14px * var(--nt-scale))!important;
+    padding: 22px!important
+}
+
+.nt-reader .rv-body h3 {
+    font-size: calc(18px * var(--nt-scale))!important
+}
+
+.nt-reader .rv-choice {
+    font-size: calc(14px * var(--nt-scale))!important
+}
+
+.nt-reader .practice-title {
+    font-size: 23px!important;
+    margin: 22px 25px 0!important;
+    color: #234a59!important
+}
+
+.nt-embedded .practice-title {
+    display: none!important
+}
+
+.nt-standalone-home {
+    display: block;
+    background: #183448;
+    color: white!important;
+    font: 13px "Segoe UI",sans-serif;
+    padding: 15px 24px;
+    text-decoration: none
+}
+
+.nt-reader .nt-review-note {
+    margin: 20px 25px;
+    border: 1px solid #d5e7df;
+    border-left: 4px solid #087F78;
+    border-radius: 8px;
+    background: #f4faf7;
+    padding: 15px 18px;
+    font-size: 13px;
+    line-height: 1.8
+}
+
+.nt-review-note h3 {
+    margin: 0 0 8px;
+    color: #087F78;
+    font-size: 15px
+}
+
+.nt-review-note p {
+    margin: 6px 0
+}
+
+.nt-review-note a {
+    color: #087F78
+}
+
+.nt-reader .nt-reference-strip {
+    font-size: 11px;
+    padding: 10px 25px;
+    color: #6d867d;
+    border-bottom: 1px solid #e0e9e4;
+    background: #f7fbf8
+}
+
+.nt-reference-strip a {
+    color: #087F78;
+    text-decoration: underline
+}
+
+.nt-reader .nt-figure-source {
+    font-size: 10px;
+    color: #7b9185;
+    margin-top: 5px
+}
+
+.nt-reader button:focus-visible,.nt-reader a:focus-visible,.nt-reader input:focus-visible,.nt-reader select:focus-visible {
+    outline: 3px solid #c69e45!important;
+    outline-offset: 3px!important
+}
+
+.nt-reader .c2-legend {
+    font-size: 11px!important
+}
+
+.nt-reader .c2-pinboard .all-callouts {
+    pointer-events: none
+}
+
+.nt-reader figure img {
+    max-width: 100%
+}
+
+@media(max-width: 700px) {
+    body.nt-reader .c2-head {
+        padding:18px 15px 13px!important
+    }
+
+    body.nt-reader .c2-head h2 {
+        font-size: calc(17px * var(--nt-scale))!important
+    }
+
+    body.nt-reader .c2-tabs {
+        padding: 0 15px!important;
+        gap: 12px!important
+    }
+
+    body.nt-reader .c2-tab {
+        font-size: 10px!important
+    }
+
+    body.nt-reader .c2-panel {
+        padding: 18px 15px!important
+    }
+
+    body.nt-reader .c2-figure-layout {
+        grid-template-columns: 1fr!important;
+        gap: 17px!important
+    }
+
+    body.nt-reader .c2-parts {
+        display: grid!important;
+        grid-template-columns: 1fr 1fr!important;
+        gap: 7px!important
+    }
+
+    body.nt-reader .c2-info {
+        margin-top: 12px!important
+    }
+
+    body.nt-reader .c2-part-btn {
+        font-size: 11px!important
+    }
+
+    body.nt-reader .c2-pin {
+        width: 26px!important;
+        height: 26px!important;
+        min-width: 26px!important;
+        min-height: 26px!important
+    }
+
+    body.nt-reader .box {
+        margin: 17px 12px!important
+    }
+
+    body.nt-reader .box-head {
+        padding: 13px!important
+    }
+
+    body.nt-reader .box-content,body.nt-reader .iDevice_content,body.nt-reader .exe-text-template {
+        padding: 8px!important
+    }
+
+    body.nt-reader .box-head .box-title {
+        font-size: 16px!important
+    }
+
+    .nt-reader .auto-review {
+        margin: 20px 12px!important
+    }
+
+    .nt-reader .rv-body {
+        padding: 15px!important
+    }
+
+    .nt-reader .rv-choice {
+        font-size: 13px!important
+    }
+
+    .nt-reader .c2-btn {
+        font-size: 11px!important;
+        padding: 7px 9px!important
+    }
+
+    .nt-reader .c2-toolbar {
+        gap: 7px!important;
+        flex-wrap: wrap!important
+    }
+
+    .nt-reader .c2-figure-choice {
+        max-width: 100%;
+        font-size: 11px!important
+    }
+
+    .nt-reader .nt-review-note {
+        margin: 17px 12px;
+        font-size: 12px;
+        padding: 12px
+    }
+
+    .nt-reader .nt-reference-strip {
+        padding: 10px 15px
+    }
+
+    .nt-reader .c2-source {
+        font-size: 9px!important
+    }
+
+    .nt-reader .c2-statusline {
+        flex-wrap: wrap!important
+    }
+
+    .nt-reader .c2-chip {
+        font-size: 9px!important
+    }
+
+    .nt-reader .c2-objectives {
+        font-size: 11px!important;
+    }
+
+    .nt-reader .rv-pair {
+        grid-template-columns: 1fr!important
+    }
+
+    .nt-reader .rv-map {
+        gap: 5px!important
+    }
+}
+
+@media(prefers-reduced-motion:reduce) {
+    html {
+        scroll-behavior: auto
+    }
+
+    * {
+        animation: none!important;
+        transition: none!important
+    }
+}
+
+html.nt-embedded,html.nt-embedded body {
+    height: auto!important;
+    min-height: 0!important
+}
+
+body.nt-reader .exe-content,body.nt-reader main.page,body.nt-reader .page-content {
+    min-height: 0!important
+}
+
+body.nt-reader .nt-review-note table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 12px 0;
+    background: #fff;
+    font-size: 12px
+}
+
+body.nt-reader .nt-review-note th,body.nt-reader .nt-review-note td {
+    text-align: left;
+    padding: 7px 10px;
+    border: 1px solid #dbe8e2
+}
+
+body.nt-reader .nt-review-note th {
+    background: #e6f1ea
+}
+
+body.nt-reader #siteNavToggler,body.nt-reader #searchBarTogger {
+    display: none!important
+}
+
+html.nt-embedded .c2-head h2 {
+    display: none!important
+}
+
+body.nt-reader .c2-legend {
+    flex-wrap: wrap!important
+}
+
+body.nt-reader .c2-pinboard {
+    isolation: isolate
+}
+
+body.nt-reader .box-toggle span {
+    display: none!important
+}
+
+body.nt-reader .exe-text-template {
+    overflow-wrap: anywhere
+}
+
+body.nt-reader .exe-text-template table {
+    width: 100%!important;
+    max-width: 100%!important;
+    min-width: 0!important;
+    box-sizing: border-box!important;
+    overflow-x: auto!important
+}

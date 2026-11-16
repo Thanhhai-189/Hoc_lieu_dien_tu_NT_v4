@@ -1,0 +1,1731 @@
+{
+  "counts": {
+    "lessons": 102,
+    "chapters": 12,
+    "figures": 107,
+    "simulations": 105,
+    "activities": 408
+  },
+  "integrated_pages": [
+    {
+      "file": "index.html",
+      "kind": "chapter",
+      "codes": [
+        "1.1.1",
+        "1.1.2",
+        "1.1.3",
+        "1.2.1",
+        "1.2.2",
+        "1.2.3",
+        "1.2.4",
+        "1.2.5",
+        "1.2.6",
+        "1.2.7",
+        "1.3.1",
+        "1.3.2"
+      ]
+    },
+    {
+      "file": "html/11-phan-loai-o-to.html",
+      "kind": "group",
+      "codes": [
+        "1.1.1",
+        "1.1.2",
+        "1.1.3"
+      ]
+    },
+    {
+      "file": "html/111-phan-loai-o-to-theo-ket-cau.html",
+      "kind": "lesson",
+      "codes": [
+        "1.1.1"
+      ]
+    },
+    {
+      "file": "html/112-phan-loai-o-to-theo-ten-goi-iso-654.html",
+      "kind": "lesson",
+      "codes": [
+        "1.1.2"
+      ]
+    },
+    {
+      "file": "html/113-phan-loai-o-to-theo-cong-thuc-banh-xe.html",
+      "kind": "lesson",
+      "codes": [
+        "1.1.3"
+      ]
+    },
+    {
+      "file": "html/12-cac-he-thong-chinh-cua-o-to.html",
+      "kind": "group",
+      "codes": [
+        "1.2.1",
+        "1.2.2",
+        "1.2.3",
+        "1.2.4",
+        "1.2.5",
+        "1.2.6",
+        "1.2.7"
+      ]
+    },
+    {
+      "file": "html/121-ong-co.html",
+      "kind": "lesson",
+      "codes": [
+        "1.2.1"
+      ]
+    },
+    {
+      "file": "html/122-he-thong-truyen-luc.html",
+      "kind": "lesson",
+      "codes": [
+        "1.2.2"
+      ]
+    },
+    {
+      "file": "html/123-he-thong-lai.html",
+      "kind": "lesson",
+      "codes": [
+        "1.2.3"
+      ]
+    },
+    {
+      "file": "html/124-he-thong-phanh.html",
+      "kind": "lesson",
+      "codes": [
+        "1.2.4"
+      ]
+    },
+    {
+      "file": "html/125-khung-vo.html",
+      "kind": "lesson",
+      "codes": [
+        "1.2.5"
+      ]
+    },
+    {
+      "file": "html/126-he-thong-treo.html",
+      "kind": "lesson",
+      "codes": [
+        "1.2.6"
+      ]
+    },
+    {
+      "file": "html/127-he-thong-ien.html",
+      "kind": "lesson",
+      "codes": [
+        "1.2.7"
+      ]
+    },
+    {
+      "file": "html/13-thong-so-ky-thuat-co-ban-cua-o-to.html",
+      "kind": "group",
+      "codes": [
+        "1.3.1",
+        "1.3.2"
+      ]
+    },
+    {
+      "file": "html/131-thong-so-ve-hinh-hoc-kieu-dang-xe-khung-vo.html",
+      "kind": "lesson",
+      "codes": [
+        "1.3.1"
+      ]
+    },
+    {
+      "file": "html/132-thong-so-ve-ket-cau.html",
+      "kind": "lesson",
+      "codes": [
+        "1.3.2"
+      ]
+    },
+    {
+      "file": "html/chuong-2-ly-hop.html",
+      "kind": "chapter",
+      "codes": [
+        "2.1.1",
+        "2.1.2",
+        "2.2.1",
+        "2.2.2",
+        "2.3.1",
+        "2.3.2",
+        "2.3.3",
+        "2.4.1",
+        "2.4.2",
+        "2.4.3"
+      ]
+    },
+    {
+      "file": "html/21-chuc-nang-phan-loai-yeu-cau-ky-thuat.html",
+      "kind": "group",
+      "codes": [
+        "2.1.1",
+        "2.1.2"
+      ]
+    },
+    {
+      "file": "html/211-chuc-nang.html",
+      "kind": "lesson",
+      "codes": [
+        "2.1.1"
+      ]
+    },
+    {
+      "file": "html/212-phan-loai.html",
+      "kind": "lesson",
+      "codes": [
+        "2.1.2"
+      ]
+    },
+    {
+      "file": "html/22-ly-hop-ma-sat.html",
+      "kind": "group",
+      "codes": [
+        "2.2.1",
+        "2.2.2"
+      ]
+    },
+    {
+      "file": "html/221-ly-hop-1-ia-ma-sat.html",
+      "kind": "lesson",
+      "codes": [
+        "2.2.1"
+      ]
+    },
+    {
+      "file": "html/222-ly-hop-2-ia-ma-sat-va-ly-hop-nhieu-ia-ma-sat.html",
+      "kind": "lesson",
+      "codes": [
+        "2.2.2"
+      ]
+    },
+    {
+      "file": "html/23-dan-ong-ieu-khien-ly-hop.html",
+      "kind": "group",
+      "codes": [
+        "2.3.1",
+        "2.3.2",
+        "2.3.3"
+      ]
+    },
+    {
+      "file": "html/231-dan-ong-ieu-khien-bang-co-khi.html",
+      "kind": "lesson",
+      "codes": [
+        "2.3.1"
+      ]
+    },
+    {
+      "file": "html/232-dan-ong-ieu-khien-ly-hop-bang-thuy-luc.html",
+      "kind": "lesson",
+      "codes": [
+        "2.3.2"
+      ]
+    },
+    {
+      "file": "html/233-dan-ong-ieu-khien-ly-hop-co-tro-luc.html",
+      "kind": "lesson",
+      "codes": [
+        "2.3.3"
+      ]
+    },
+    {
+      "file": "html/24-he-thong-ly-hop-tu-ong.html",
+      "kind": "group",
+      "codes": [
+        "2.4.1",
+        "2.4.2",
+        "2.4.3"
+      ]
+    },
+    {
+      "file": "html/241-he-thong-ly-hop-tu-ong-acs-automatic-clucth-sy.html",
+      "kind": "lesson",
+      "codes": [
+        "2.4.1"
+      ]
+    },
+    {
+      "file": "html/242-he-thong-ly-hop-tu-ong-voi-ly-hop-kep.html",
+      "kind": "lesson",
+      "codes": [
+        "2.4.2"
+      ]
+    },
+    {
+      "file": "html/243-ket-cau-he-thong-ly-hop-kep.html",
+      "kind": "lesson",
+      "codes": [
+        "2.4.3"
+      ]
+    },
+    {
+      "file": "html/chuong-3-hop-so-chinh.html",
+      "kind": "chapter",
+      "codes": [
+        "3.1.1",
+        "3.1.2",
+        "3.2.1",
+        "3.2.2",
+        "3.2.3",
+        "3.2.4",
+        "3.3.1",
+        "3.3.2"
+      ]
+    },
+    {
+      "file": "html/31-chuc-nang-phan-loai.html",
+      "kind": "group",
+      "codes": [
+        "3.1.1",
+        "3.1.2"
+      ]
+    },
+    {
+      "file": "html/311-chuc-nang.html",
+      "kind": "lesson",
+      "codes": [
+        "3.1.1"
+      ]
+    },
+    {
+      "file": "html/312-phan-loai.html",
+      "kind": "lesson",
+      "codes": [
+        "3.1.2"
+      ]
+    },
+    {
+      "file": "html/32-cau-tao-chung-hop-so-co-khi.html",
+      "kind": "group",
+      "codes": [
+        "3.2.1",
+        "3.2.2",
+        "3.2.3",
+        "3.2.4"
+      ]
+    },
+    {
+      "file": "html/321-mot-so-ky-hieu-ve-quy-uoc.html",
+      "kind": "lesson",
+      "codes": [
+        "3.2.1"
+      ]
+    },
+    {
+      "file": "html/322-hop-so-3-truc.html",
+      "kind": "lesson",
+      "codes": [
+        "3.2.2"
+      ]
+    },
+    {
+      "file": "html/323-hop-so-2-truc-transaxles.html",
+      "kind": "lesson",
+      "codes": [
+        "3.2.3"
+      ]
+    },
+    {
+      "file": "html/324-cau-tao-banh-rang-truc-o-o.html",
+      "kind": "lesson",
+      "codes": [
+        "3.2.4"
+      ]
+    },
+    {
+      "file": "html/33-ket-cau-cac-phan-tu-trong-hop-so-thuong.html",
+      "kind": "group",
+      "codes": [
+        "3.3.1",
+        "3.3.2"
+      ]
+    },
+    {
+      "file": "html/331-co-cau-ieu-khien.html",
+      "kind": "lesson",
+      "codes": [
+        "3.3.1"
+      ]
+    },
+    {
+      "file": "html/332-co-cau-an-toan-co-cau-gai-so.html",
+      "kind": "lesson",
+      "codes": [
+        "3.3.2"
+      ]
+    },
+    {
+      "file": "html/chuong-4-hop-so-tu-ong.html",
+      "kind": "chapter",
+      "codes": [
+        "4.1.1",
+        "4.1.2",
+        "4.2.1",
+        "4.2.2",
+        "4.3.1",
+        "4.3.2",
+        "4.3.3",
+        "4.4.1",
+        "4.4.2"
+      ]
+    },
+    {
+      "file": "html/41-chuc-nang-phan-loai.html",
+      "kind": "group",
+      "codes": [
+        "4.1.1",
+        "4.1.2"
+      ]
+    },
+    {
+      "file": "html/411-chuc-nang.html",
+      "kind": "lesson",
+      "codes": [
+        "4.1.1"
+      ]
+    },
+    {
+      "file": "html/412-phan-loai.html",
+      "kind": "lesson",
+      "codes": [
+        "4.1.2"
+      ]
+    },
+    {
+      "file": "html/42-hop-so-tu-ong-su-dung-ly-hop-kep.html",
+      "kind": "group",
+      "codes": [
+        "4.2.1",
+        "4.2.2"
+      ]
+    },
+    {
+      "file": "html/421-ket-cau-cua-hop-so-co-khi-uoc-tu-ong-hoa.html",
+      "kind": "lesson",
+      "codes": [
+        "4.2.1"
+      ]
+    },
+    {
+      "file": "html/422-nguyen-ly-hoat-ong.html",
+      "kind": "lesson",
+      "codes": [
+        "4.2.2"
+      ]
+    },
+    {
+      "file": "html/43-hop-so-tu-ong-co-cap-voi-bien-mo-thuy-luc.html",
+      "kind": "group",
+      "codes": [
+        "4.3.1",
+        "4.3.2",
+        "4.3.3"
+      ]
+    },
+    {
+      "file": "html/431-cau-tao-chung.html",
+      "kind": "lesson",
+      "codes": [
+        "4.3.1"
+      ]
+    },
+    {
+      "file": "html/432-nguyen-ly-hoat-ong.html",
+      "kind": "lesson",
+      "codes": [
+        "4.3.2"
+      ]
+    },
+    {
+      "file": "html/433-he-thong-ieu-khien-hop-so-ien-thuy-luc.html",
+      "kind": "lesson",
+      "codes": [
+        "4.3.3"
+      ]
+    },
+    {
+      "file": "html/44-hop-so-tu-ong-vo-cap.html",
+      "kind": "group",
+      "codes": [
+        "4.4.1",
+        "4.4.2"
+      ]
+    },
+    {
+      "file": "html/441-cac-phan-tu-cua-hop-so.html",
+      "kind": "lesson",
+      "codes": [
+        "4.4.1"
+      ]
+    },
+    {
+      "file": "html/442-nguyen-ly-hoat-ong.html",
+      "kind": "lesson",
+      "codes": [
+        "4.4.2"
+      ]
+    },
+    {
+      "file": "html/chuong-5-hop-so-phan-phoi.html",
+      "kind": "chapter",
+      "codes": [
+        "5.1.1",
+        "5.1.2",
+        "5.2.1",
+        "5.2.2",
+        "5.3.1",
+        "5.3.2"
+      ]
+    },
+    {
+      "file": "html/51-chuc-nang-phan-loai.html",
+      "kind": "group",
+      "codes": [
+        "5.1.1",
+        "5.1.2"
+      ]
+    },
+    {
+      "file": "html/511-chuc-nang.html",
+      "kind": "lesson",
+      "codes": [
+        "5.1.1"
+      ]
+    },
+    {
+      "file": "html/512-phan-loai.html",
+      "kind": "lesson",
+      "codes": [
+        "5.1.2"
+      ]
+    },
+    {
+      "file": "html/52-dan-ong-hai-cau-gian-oan-4wd.html",
+      "kind": "group",
+      "codes": [
+        "5.2.1",
+        "5.2.2"
+      ]
+    },
+    {
+      "file": "html/521-cau-tao.html",
+      "kind": "lesson",
+      "codes": [
+        "5.2.1"
+      ]
+    },
+    {
+      "file": "html/522-nguyen-ly-hoat-ong.html",
+      "kind": "lesson",
+      "codes": [
+        "5.2.2"
+      ]
+    },
+    {
+      "file": "html/53-dan-ong-hai-cau-thuong-xuyen-awd.html",
+      "kind": "group",
+      "codes": [
+        "5.3.1",
+        "5.3.2"
+      ]
+    },
+    {
+      "file": "html/531-cau-tao.html",
+      "kind": "lesson",
+      "codes": [
+        "5.3.1"
+      ]
+    },
+    {
+      "file": "html/532-nguyen-ly-hoat-ong.html",
+      "kind": "lesson",
+      "codes": [
+        "5.3.2"
+      ]
+    },
+    {
+      "file": "html/chuong-6-truyen-ong-cac-ang.html",
+      "kind": "chapter",
+      "codes": [
+        "6.1.1",
+        "6.1.2",
+        "6.2.1",
+        "6.2.2",
+        "6.3.1",
+        "6.3.2",
+        "6.3.3",
+        "6.3.4",
+        "6.3.5",
+        "6.3.6"
+      ]
+    },
+    {
+      "file": "html/61-chuc-nang-phan-loai.html",
+      "kind": "group",
+      "codes": [
+        "6.1.1",
+        "6.1.2"
+      ]
+    },
+    {
+      "file": "html/611-chuc-nang.html",
+      "kind": "lesson",
+      "codes": [
+        "6.1.1"
+      ]
+    },
+    {
+      "file": "html/612-phan-loai.html",
+      "kind": "lesson",
+      "codes": [
+        "6.1.2"
+      ]
+    },
+    {
+      "file": "html/62-khop-cac-ang-khac-toc.html",
+      "kind": "group",
+      "codes": [
+        "6.2.1",
+        "6.2.2"
+      ]
+    },
+    {
+      "file": "html/621-so-o-nguyen-ly.html",
+      "kind": "lesson",
+      "codes": [
+        "6.2.1"
+      ]
+    },
+    {
+      "file": "html/622-cau-tao.html",
+      "kind": "lesson",
+      "codes": [
+        "6.2.2"
+      ]
+    },
+    {
+      "file": "html/63-khop-cac-ang-ong-toc.html",
+      "kind": "group",
+      "codes": [
+        "6.3.1",
+        "6.3.2",
+        "6.3.3",
+        "6.3.4",
+        "6.3.5",
+        "6.3.6"
+      ]
+    },
+    {
+      "file": "html/631-khop-cac-ang-ong-toc-kieu-chu-thap-kep.html",
+      "kind": "lesson",
+      "codes": [
+        "6.3.1"
+      ]
+    },
+    {
+      "file": "html/632-khop-cac-ang-ong-toc-loai-cam.html",
+      "kind": "lesson",
+      "codes": [
+        "6.3.2"
+      ]
+    },
+    {
+      "file": "html/633-khop-cac-ang-loai-bi.html",
+      "kind": "lesson",
+      "codes": [
+        "6.3.3"
+      ]
+    },
+    {
+      "file": "html/634-cac-ang-ong-toc-bi-kieu-veise.html",
+      "kind": "lesson",
+      "codes": [
+        "6.3.4"
+      ]
+    },
+    {
+      "file": "html/635-cac-ang-ong-toc-bi-kieu-rzeppa.html",
+      "kind": "lesson",
+      "codes": [
+        "6.3.5"
+      ]
+    },
+    {
+      "file": "html/636-cac-ang-ong-toc-kieu-tripod.html",
+      "kind": "lesson",
+      "codes": [
+        "6.3.6"
+      ]
+    },
+    {
+      "file": "html/chuong-7-cau-chu-ong.html",
+      "kind": "chapter",
+      "codes": [
+        "7.1.1",
+        "7.1.2",
+        "7.2.1",
+        "7.2.2",
+        "7.2.3"
+      ]
+    },
+    {
+      "file": "html/71-chuc-nang-phan-loai.html",
+      "kind": "group",
+      "codes": [
+        "7.1.1",
+        "7.1.2"
+      ]
+    },
+    {
+      "file": "html/711-chuc-nang.html",
+      "kind": "lesson",
+      "codes": [
+        "7.1.1"
+      ]
+    },
+    {
+      "file": "html/712-phan-loai.html",
+      "kind": "lesson",
+      "codes": [
+        "7.1.2"
+      ]
+    },
+    {
+      "file": "html/72-cau-tao-cau-chu-ong.html",
+      "kind": "group",
+      "codes": [
+        "7.2.1",
+        "7.2.2",
+        "7.2.3"
+      ]
+    },
+    {
+      "file": "html/721-truyen-luc-chinh.html",
+      "kind": "lesson",
+      "codes": [
+        "7.2.1"
+      ]
+    },
+    {
+      "file": "html/722-bo-vi-sai.html",
+      "kind": "lesson",
+      "codes": [
+        "7.2.2"
+      ]
+    },
+    {
+      "file": "html/723-ban-truc-va-vo-cau.html",
+      "kind": "lesson",
+      "codes": [
+        "7.2.3"
+      ]
+    },
+    {
+      "file": "html/chuong-8-cum-banh-xe.html",
+      "kind": "chapter",
+      "codes": [
+        "8.1.1",
+        "8.1.2",
+        "8.2.1",
+        "8.2.2",
+        "8.2.3",
+        "8.2.4"
+      ]
+    },
+    {
+      "file": "html/81-banh-xe.html",
+      "kind": "group",
+      "codes": [
+        "8.1.1",
+        "8.1.2"
+      ]
+    },
+    {
+      "file": "html/811-lop-xe.html",
+      "kind": "lesson",
+      "codes": [
+        "8.1.1"
+      ]
+    },
+    {
+      "file": "html/812-cac-kieu-hoa-lop.html",
+      "kind": "lesson",
+      "codes": [
+        "8.1.2"
+      ]
+    },
+    {
+      "file": "html/82-vanh-banh-xe-larang.html",
+      "kind": "group",
+      "codes": [
+        "8.2.1",
+        "8.2.2",
+        "8.2.3",
+        "8.2.4"
+      ]
+    },
+    {
+      "file": "html/821-cau-tao-vanh-banh-xe-.html",
+      "kind": "lesson",
+      "codes": [
+        "8.2.1"
+      ]
+    },
+    {
+      "file": "html/822-lien-ket-giua-vanh-va-moay-o-vanh-banh-xe-va-l.html",
+      "kind": "lesson",
+      "codes": [
+        "8.2.2"
+      ]
+    },
+    {
+      "file": "html/823-can-bang-banh-xe.html",
+      "kind": "lesson",
+      "codes": [
+        "8.2.3"
+      ]
+    },
+    {
+      "file": "html/824-ao-lop.html",
+      "kind": "lesson",
+      "codes": [
+        "8.2.4"
+      ]
+    },
+    {
+      "file": "html/chuong-9-he-thong-lai.html",
+      "kind": "chapter",
+      "codes": [
+        "9.1.1",
+        "9.1.2",
+        "9.2.1",
+        "9.2.2",
+        "9.2.3",
+        "9.2.4",
+        "9.3.1",
+        "9.3.2",
+        "9.3.3",
+        "9.4.1",
+        "9.4.2",
+        "9.4.3"
+      ]
+    },
+    {
+      "file": "html/91-cong-dung-va-phan-loai.html",
+      "kind": "group",
+      "codes": [
+        "9.1.1",
+        "9.1.2"
+      ]
+    },
+    {
+      "file": "html/911-cong-dung.html",
+      "kind": "lesson",
+      "codes": [
+        "9.1.1"
+      ]
+    },
+    {
+      "file": "html/912-phan-loai.html",
+      "kind": "lesson",
+      "codes": [
+        "9.1.2"
+      ]
+    },
+    {
+      "file": "html/92-co-cau-lai.html",
+      "kind": "group",
+      "codes": [
+        "9.2.1",
+        "9.2.2",
+        "9.2.3",
+        "9.2.4"
+      ]
+    },
+    {
+      "file": "html/921-co-cau-lai-kieu-truc-vit---banh-vi.html",
+      "kind": "lesson",
+      "codes": [
+        "9.2.1"
+      ]
+    },
+    {
+      "file": "html/922-co-cau-lai-kieu-truc-vit-lom---con-lan.html",
+      "kind": "lesson",
+      "codes": [
+        "9.2.2"
+      ]
+    },
+    {
+      "file": "html/923-co-cau-lai-kieu-banh-rang---thanh-rang.html",
+      "kind": "lesson",
+      "codes": [
+        "9.2.3"
+      ]
+    },
+    {
+      "file": "html/924-co-cau-vit---ai-oc-bi-tuan-hoan.html",
+      "kind": "lesson",
+      "codes": [
+        "9.2.4"
+      ]
+    },
+    {
+      "file": "html/93-dan-ong-lai.html",
+      "kind": "group",
+      "codes": [
+        "9.3.1",
+        "9.3.2",
+        "9.3.3"
+      ]
+    },
+    {
+      "file": "html/931-so-o-dan-ong-lai.html",
+      "kind": "lesson",
+      "codes": [
+        "9.3.1"
+      ]
+    },
+    {
+      "file": "html/932-cau-tao-cac-chi-tiet-dan-ong-lai.html",
+      "kind": "lesson",
+      "codes": [
+        "9.3.2"
+      ]
+    },
+    {
+      "file": "html/933-cac-goc-at-banh-xe-dan-huong.html",
+      "kind": "lesson",
+      "codes": [
+        "9.3.3"
+      ]
+    },
+    {
+      "file": "html/94-he-thong-lai-co-tro-luc.html",
+      "kind": "group",
+      "codes": [
+        "9.4.1",
+        "9.4.2",
+        "9.4.3"
+      ]
+    },
+    {
+      "file": "html/941-he-thong-lai-tro-luc-thuy-luc.html",
+      "kind": "lesson",
+      "codes": [
+        "9.4.1"
+      ]
+    },
+    {
+      "file": "html/942-he-thong-lai-tro-luc-ien.html",
+      "kind": "lesson",
+      "codes": [
+        "9.4.2"
+      ]
+    },
+    {
+      "file": "html/943-he-thong-lai-tro-luc-thuy-luc-ieu-khien-ien-tu.html",
+      "kind": "lesson",
+      "codes": [
+        "9.4.3"
+      ]
+    },
+    {
+      "file": "html/chuong-10-he-thong-phanh.html",
+      "kind": "chapter",
+      "codes": [
+        "10.1.1",
+        "10.1.2",
+        "10.2.1",
+        "10.2.2",
+        "10.3.1",
+        "10.3.2",
+        "10.3.3",
+        "10.3.4",
+        "10.3.5"
+      ]
+    },
+    {
+      "file": "html/101-cong-dung-phan-loai.html",
+      "kind": "group",
+      "codes": [
+        "10.1.1",
+        "10.1.2"
+      ]
+    },
+    {
+      "file": "html/1011-cong-dung.html",
+      "kind": "lesson",
+      "codes": [
+        "10.1.1"
+      ]
+    },
+    {
+      "file": "html/1012-phan-loai.html",
+      "kind": "lesson",
+      "codes": [
+        "10.1.2"
+      ]
+    },
+    {
+      "file": "html/102-co-cau-phanh.html",
+      "kind": "group",
+      "codes": [
+        "10.2.1",
+        "10.2.2"
+      ]
+    },
+    {
+      "file": "html/1021-co-cau-phanh-tang-trong.html",
+      "kind": "lesson",
+      "codes": [
+        "10.2.1"
+      ]
+    },
+    {
+      "file": "html/1022-co-cau-phanh-ia.html",
+      "kind": "lesson",
+      "codes": [
+        "10.2.2"
+      ]
+    },
+    {
+      "file": "html/103-dan-ong-he-thong-phanh.html",
+      "kind": "group",
+      "codes": [
+        "10.3.1",
+        "10.3.2",
+        "10.3.3",
+        "10.3.4",
+        "10.3.5"
+      ]
+    },
+    {
+      "file": "html/1031-dan-ong-bang-co-khi.html",
+      "kind": "lesson",
+      "codes": [
+        "10.3.1"
+      ]
+    },
+    {
+      "file": "html/1032-dan-ong-bang-thuy-luc.html",
+      "kind": "lesson",
+      "codes": [
+        "10.3.2"
+      ]
+    },
+    {
+      "file": "html/1033-dan-ong-khi-nen.html",
+      "kind": "lesson",
+      "codes": [
+        "10.3.3"
+      ]
+    },
+    {
+      "file": "html/1034-dan-ong-ket-hop-thuy-luc---khi-nen.html",
+      "kind": "lesson",
+      "codes": [
+        "10.3.4"
+      ]
+    },
+    {
+      "file": "html/1035-he-thong-phanh-co-ieu-khien-ien-tu.html",
+      "kind": "lesson",
+      "codes": [
+        "10.3.5"
+      ]
+    },
+    {
+      "file": "html/chuong-11-he-thong-treo.html",
+      "kind": "chapter",
+      "codes": [
+        "11.1.1",
+        "11.1.2",
+        "11.2.1",
+        "11.2.2",
+        "11.3.1",
+        "11.3.2",
+        "11.4.1",
+        "11.4.2",
+        "11.5.1",
+        "11.5.2"
+      ]
+    },
+    {
+      "file": "html/111-cong-dung-phan-loai.html",
+      "kind": "group",
+      "codes": [
+        "11.1.1",
+        "11.1.2"
+      ]
+    },
+    {
+      "file": "html/1111-cong-dung.html",
+      "kind": "lesson",
+      "codes": [
+        "11.1.1"
+      ]
+    },
+    {
+      "file": "html/1112-phan-loai.html",
+      "kind": "lesson",
+      "codes": [
+        "11.1.2"
+      ]
+    },
+    {
+      "file": "html/112-bo-phan-dan-huong.html",
+      "kind": "group",
+      "codes": [
+        "11.2.1",
+        "11.2.2"
+      ]
+    },
+    {
+      "file": "html/1121-bo-phan-dan-huong-he-thong-treo-phu-thuoc.html",
+      "kind": "lesson",
+      "codes": [
+        "11.2.1"
+      ]
+    },
+    {
+      "file": "html/1122-bo-phan-dan-huong-he-thong-treo-oc-lap.html",
+      "kind": "lesson",
+      "codes": [
+        "11.2.2"
+      ]
+    },
+    {
+      "file": "html/113-bo-phan-an-hoi.html",
+      "kind": "group",
+      "codes": [
+        "11.3.1",
+        "11.3.2"
+      ]
+    },
+    {
+      "file": "html/1131-bo-phan-an-hoi-kim-loai.html",
+      "kind": "lesson",
+      "codes": [
+        "11.3.1"
+      ]
+    },
+    {
+      "file": "html/1132-bo-phan-an-hoi-phi-kim-loai.html",
+      "kind": "lesson",
+      "codes": [
+        "11.3.2"
+      ]
+    },
+    {
+      "file": "html/114-bo-phan-giam-chan.html",
+      "kind": "group",
+      "codes": [
+        "11.4.1",
+        "11.4.2"
+      ]
+    },
+    {
+      "file": "html/1141-giam-chan-kieu-ong-on.html",
+      "kind": "lesson",
+      "codes": [
+        "11.4.1"
+      ]
+    },
+    {
+      "file": "html/1142-giam-chan-kieu-ong-kep.html",
+      "kind": "lesson",
+      "codes": [
+        "11.4.2"
+      ]
+    },
+    {
+      "file": "html/115-he-thong-treo-ien-tu.html",
+      "kind": "group",
+      "codes": [
+        "11.5.1",
+        "11.5.2"
+      ]
+    },
+    {
+      "file": "html/1151-he-thong-treo-khi-nen-thuy-luc-chu-ong-hydrac.html",
+      "kind": "lesson",
+      "codes": [
+        "11.5.1"
+      ]
+    },
+    {
+      "file": "html/1152-bo-phan-ieu-chinh-luc-giam-chan-ien-tu---cont.html",
+      "kind": "lesson",
+      "codes": [
+        "11.5.2"
+      ]
+    },
+    {
+      "file": "html/chuong-12-khung-vo-va-thiet-bi-phu-tren-o-to.html",
+      "kind": "chapter",
+      "codes": [
+        "12.1.1",
+        "12.1.2",
+        "12.1.3",
+        "12.2.1",
+        "12.2.2"
+      ]
+    },
+    {
+      "file": "html/121-khung-vo-o-to.html",
+      "kind": "group",
+      "codes": [
+        "12.1.1",
+        "12.1.2",
+        "12.1.3"
+      ]
+    },
+    {
+      "file": "html/1211-cong-dung-phan-loai.html",
+      "kind": "lesson",
+      "codes": [
+        "12.1.1"
+      ]
+    },
+    {
+      "file": "html/1212cau-tao-khung-xe-tai.html",
+      "kind": "lesson",
+      "codes": [
+        "12.1.2"
+      ]
+    },
+    {
+      "file": "html/1213-cau-tao-khung-va-vo-xe-con.html",
+      "kind": "lesson",
+      "codes": [
+        "12.1.3"
+      ]
+    },
+    {
+      "file": "html/122-thiet-bi-phu-tren-o-to.html",
+      "kind": "group",
+      "codes": [
+        "12.2.1",
+        "12.2.2"
+      ]
+    },
+    {
+      "file": "html/1221-he-thong-ieu-chinh-ap-suat-hoi-lop.html",
+      "kind": "lesson",
+      "codes": [
+        "12.2.1"
+      ]
+    },
+    {
+      "file": "html/1222-he-thong-toi-va-nang-ha-thung-xe.html",
+      "kind": "lesson",
+      "codes": [
+        "12.2.2"
+      ]
+    },
+    {
+      "file": "html/1-bo-phan-an-hoi-kim-loai.html",
+      "kind": "lesson",
+      "codes": [
+        "11.3.1"
+      ]
+    },
+    {
+      "file": "html/1-bo-phan-dan-huong-he-thong-treo-phu-thuoc.html",
+      "kind": "lesson",
+      "codes": [
+        "11.2.1"
+      ]
+    },
+    {
+      "file": "html/1-co-cau-lai-kieu-truc-vit---banh-vi.html",
+      "kind": "lesson",
+      "codes": [
+        "9.2.1"
+      ]
+    },
+    {
+      "file": "html/1-co-cau-phanh-tang-trong.html",
+      "kind": "lesson",
+      "codes": [
+        "10.2.1"
+      ]
+    },
+    {
+      "file": "html/1-cong-dung-2.html",
+      "kind": "lesson",
+      "codes": [
+        "10.1.1"
+      ]
+    },
+    {
+      "file": "html/1-cong-dung-3.html",
+      "kind": "lesson",
+      "codes": [
+        "11.1.1"
+      ]
+    },
+    {
+      "file": "html/1-cong-dung-phan-loai.html",
+      "kind": "lesson",
+      "codes": [
+        "12.1.1"
+      ]
+    },
+    {
+      "file": "html/1-cong-dung.html",
+      "kind": "lesson",
+      "codes": [
+        "9.1.1"
+      ]
+    },
+    {
+      "file": "html/1-dan-ong-bang-co-khi.html",
+      "kind": "lesson",
+      "codes": [
+        "10.3.1"
+      ]
+    },
+    {
+      "file": "html/1-giam-chan-kieu-ong-on.html",
+      "kind": "lesson",
+      "codes": [
+        "11.4.1"
+      ]
+    },
+    {
+      "file": "html/1-he-thong-ieu-chinh-ap-suat-hoi-lop.html",
+      "kind": "lesson",
+      "codes": [
+        "12.2.1"
+      ]
+    },
+    {
+      "file": "html/1-he-thong-lai-tro-luc-thuy-luc.html",
+      "kind": "lesson",
+      "codes": [
+        "9.4.1"
+      ]
+    },
+    {
+      "file": "html/1-he-thong-treo-khi-nen-thuy-luc-chu-ong-hydractiv.html",
+      "kind": "lesson",
+      "codes": [
+        "11.5.1"
+      ]
+    },
+    {
+      "file": "html/1-so-o-dan-ong-lai.html",
+      "kind": "lesson",
+      "codes": [
+        "9.3.1"
+      ]
+    },
+    {
+      "file": "html/2-bo-phan-an-hoi-phi-kim-loai.html",
+      "kind": "lesson",
+      "codes": [
+        "11.3.2"
+      ]
+    },
+    {
+      "file": "html/2-bo-phan-dan-huong-he-thong-treo-oc-lap.html",
+      "kind": "lesson",
+      "codes": [
+        "11.2.2"
+      ]
+    },
+    {
+      "file": "html/2-bo-phan-ieu-chinh-luc-giam-chan-ien-tu---contini.html",
+      "kind": "lesson",
+      "codes": [
+        "11.5.2"
+      ]
+    },
+    {
+      "file": "html/2-cau-tao-cac-chi-tiet-dan-ong-lai.html",
+      "kind": "lesson",
+      "codes": [
+        "9.3.2"
+      ]
+    },
+    {
+      "file": "html/2-cau-tao-khung-xe-tai.html",
+      "kind": "lesson",
+      "codes": [
+        "12.1.2"
+      ]
+    },
+    {
+      "file": "html/2-co-cau-lai-kieu-truc-vit-lom---con-lan.html",
+      "kind": "lesson",
+      "codes": [
+        "9.2.2"
+      ]
+    },
+    {
+      "file": "html/2-co-cau-phanh-ia.html",
+      "kind": "lesson",
+      "codes": [
+        "10.2.2"
+      ]
+    },
+    {
+      "file": "html/2-dan-ong-bang-thuy-luc.html",
+      "kind": "lesson",
+      "codes": [
+        "10.3.2"
+      ]
+    },
+    {
+      "file": "html/2-giam-chan-kieu-ong-kep.html",
+      "kind": "lesson",
+      "codes": [
+        "11.4.2"
+      ]
+    },
+    {
+      "file": "html/2-he-thong-lai-tro-luc-ien.html",
+      "kind": "lesson",
+      "codes": [
+        "9.4.2"
+      ]
+    },
+    {
+      "file": "html/2-he-thong-toi-va-nang-ha-thung-xe.html",
+      "kind": "lesson",
+      "codes": [
+        "12.2.2"
+      ]
+    },
+    {
+      "file": "html/2-phan-loai-2.html",
+      "kind": "lesson",
+      "codes": [
+        "10.1.2"
+      ]
+    },
+    {
+      "file": "html/2-phan-loai-3.html",
+      "kind": "lesson",
+      "codes": [
+        "11.1.2"
+      ]
+    },
+    {
+      "file": "html/2-phan-loai.html",
+      "kind": "lesson",
+      "codes": [
+        "9.1.2"
+      ]
+    },
+    {
+      "file": "html/3-cac-goc-at-banh-xe-dan-huong.html",
+      "kind": "lesson",
+      "codes": [
+        "9.3.3"
+      ]
+    },
+    {
+      "file": "html/3-cau-tao-khung-va-vo-xe-con.html",
+      "kind": "lesson",
+      "codes": [
+        "12.1.3"
+      ]
+    },
+    {
+      "file": "html/3-co-cau-lai-kieu-banh-rang---thanh-rang.html",
+      "kind": "lesson",
+      "codes": [
+        "9.2.3"
+      ]
+    },
+    {
+      "file": "html/3-dan-ong-khi-nen.html",
+      "kind": "lesson",
+      "codes": [
+        "10.3.3"
+      ]
+    },
+    {
+      "file": "html/3-he-thong-lai-tro-luc-thuy-luc-ieu-khien-ien-tu.html",
+      "kind": "lesson",
+      "codes": [
+        "9.4.3"
+      ]
+    },
+    {
+      "file": "html/4-co-cau-vit---ai-oc-bi-tuan-hoan.html",
+      "kind": "lesson",
+      "codes": [
+        "9.2.4"
+      ]
+    },
+    {
+      "file": "html/4-dan-ong-ket-hop-thuy-luc---khi-nen.html",
+      "kind": "lesson",
+      "codes": [
+        "10.3.4"
+      ]
+    },
+    {
+      "file": "html/5-he-thong-phanh-co-ieu-khien-ien-tu.html",
+      "kind": "lesson",
+      "codes": [
+        "10.3.5"
+      ]
+    },
+    {
+      "file": "html/i-cong-dung-phan-loai-2.html",
+      "kind": "group",
+      "codes": [
+        "11.1.1",
+        "11.1.2"
+      ]
+    },
+    {
+      "file": "html/i-cong-dung-phan-loai.html",
+      "kind": "group",
+      "codes": [
+        "10.1.1",
+        "10.1.2"
+      ]
+    },
+    {
+      "file": "html/i-cong-dung-va-phan-loai.html",
+      "kind": "group",
+      "codes": [
+        "9.1.1",
+        "9.1.2"
+      ]
+    },
+    {
+      "file": "html/i-khung-vo-o-to.html",
+      "kind": "group",
+      "codes": [
+        "12.1.1",
+        "12.1.2",
+        "12.1.3"
+      ]
+    },
+    {
+      "file": "html/ii-bo-phan-dan-huong.html",
+      "kind": "group",
+      "codes": [
+        "11.2.1",
+        "11.2.2"
+      ]
+    },
+    {
+      "file": "html/ii-co-cau-lai.html",
+      "kind": "group",
+      "codes": [
+        "9.2.1",
+        "9.2.2",
+        "9.2.3",
+        "9.2.4"
+      ]
+    },
+    {
+      "file": "html/ii-co-cau-phanh.html",
+      "kind": "group",
+      "codes": [
+        "10.2.1",
+        "10.2.2"
+      ]
+    },
+    {
+      "file": "html/ii-thiet-bi-phu-tren-o-to.html",
+      "kind": "group",
+      "codes": [
+        "12.2.1",
+        "12.2.2"
+      ]
+    },
+    {
+      "file": "html/iii-bo-phan-an-hoi.html",
+      "kind": "group",
+      "codes": [
+        "11.3.1",
+        "11.3.2"
+      ]
+    },
+    {
+      "file": "html/iii-dan-ong-he-thong-phanh.html",
+      "kind": "group",
+      "codes": [
+        "10.3.1",
+        "10.3.2",
+        "10.3.3",
+        "10.3.4",
+        "10.3.5"
+      ]
+    },
+    {
+      "file": "html/iii-dan-ong-lai.html",
+      "kind": "group",
+      "codes": [
+        "9.3.1",
+        "9.3.2",
+        "9.3.3"
+      ]
+    },
+    {
+      "file": "html/iv-bo-phan-giam-chan.html",
+      "kind": "group",
+      "codes": [
+        "11.4.1",
+        "11.4.2"
+      ]
+    },
+    {
+      "file": "html/iv-he-thong-lai-co-tro-luc.html",
+      "kind": "group",
+      "codes": [
+        "9.4.1",
+        "9.4.2",
+        "9.4.3"
+      ]
+    },
+    {
+      "file": "html/v-he-thong-treo-ien-tu.html",
+      "kind": "group",
+      "codes": [
+        "11.5.1",
+        "11.5.2"
+      ]
+    }
+  ],
+  "converted_resources": [
+    {
+      "original": "C11_image13.wmf",
+      "browser": "browser/C11_image13.png"
+    },
+    {
+      "original": "C11_image14.wmf",
+      "browser": "browser/C11_image14.png"
+    },
+    {
+      "original": "C11_image15.wmf",
+      "browser": "browser/C11_image15.png"
+    },
+    {
+      "original": "C11_image19.wmf",
+      "browser": "browser/C11_image19.png"
+    },
+    {
+      "original": "C11_image29.wmf",
+      "browser": "browser/C11_image29.png"
+    },
+    {
+      "original": "C11_image35.wmf",
+      "browser": "browser/C11_image35.png"
+    },
+    {
+      "original": "T1_image122.wmf",
+      "browser": "browser/T1_image122.png"
+    },
+    {
+      "original": "T1_image123.wmf",
+      "browser": "browser/T1_image123.png"
+    },
+    {
+      "original": "T1_image264.wmf",
+      "browser": "browser/T1_image264.png"
+    },
+    {
+      "original": "T1_image266.wmf",
+      "browser": "browser/T1_image266.png"
+    },
+    {
+      "original": "T1_image268.wmf",
+      "browser": "browser/T1_image268.png"
+    },
+    {
+      "original": "T1_image269.wmf",
+      "browser": "browser/T1_image269.png"
+    },
+    {
+      "original": "T1_image270.wmf",
+      "browser": "browser/T1_image270.png"
+    },
+    {
+      "original": "T1_image271.wmf",
+      "browser": "browser/T1_image271.png"
+    },
+    {
+      "original": "T1_image272.wmf",
+      "browser": "browser/T1_image272.png"
+    },
+    {
+      "original": "T1_image273.wmf",
+      "browser": "browser/T1_image273.png"
+    },
+    {
+      "original": "T1_image297.wmf",
+      "browser": "browser/T1_image297.png"
+    },
+    {
+      "original": "T1_image298.wmf",
+      "browser": "browser/T1_image298.png"
+    },
+    {
+      "original": "T1_image299.wmf",
+      "browser": "browser/T1_image299.png"
+    },
+    {
+      "original": "T1_image300.wmf",
+      "browser": "browser/T1_image300.png"
+    },
+    {
+      "original": "T1_image301.wmf",
+      "browser": "browser/T1_image301.png"
+    },
+    {
+      "original": "T1_image302.wmf",
+      "browser": "browser/T1_image302.png"
+    },
+    {
+      "original": "T1_image31.wmf",
+      "browser": "browser/T1_image31.png"
+    },
+    {
+      "original": "T1_image316.wmf",
+      "browser": "browser/T1_image316.png"
+    },
+    {
+      "original": "T1_image317.wmf",
+      "browser": "browser/T1_image317.png"
+    },
+    {
+      "original": "T1_image318.wmf",
+      "browser": "browser/T1_image318.png"
+    },
+    {
+      "original": "T1_image319.wmf",
+      "browser": "browser/T1_image319.png"
+    },
+    {
+      "original": "T1_image326.wmf",
+      "browser": "browser/T1_image326.png"
+    },
+    {
+      "original": "T1_image327.wmf",
+      "browser": "browser/T1_image327.png"
+    },
+    {
+      "original": "T1_image328.wmf",
+      "browser": "browser/T1_image328.png"
+    },
+    {
+      "original": "T1_image33.emf",
+      "browser": "browser/T1_image33.png"
+    },
+    {
+      "original": "T1_image35.wmf",
+      "browser": "browser/T1_image35.png"
+    }
+  ]
+}
