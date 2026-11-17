@@ -198,7 +198,7 @@
       "chapterTitle": "Giới thiệu tổng quát về ô tô",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image1.png",
+          "image": "content/resources/T1_image1.jpg",
           "caption": "Hình gốc trong bài 1.1.1"
         }
       ]
@@ -401,27 +401,27 @@
       "chapterTitle": "Giới thiệu tổng quát về ô tô",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image2.png",
+          "image": "content/resources/T1_image2.jpg",
           "caption": "Hình gốc trong bài 1.1.2"
         },
         {
-          "image": "content/resources/T1_image3.png",
+          "image": "content/resources/T1_image3.jpg",
           "caption": "Hình gốc trong bài 1.1.2"
         },
         {
-          "image": "content/resources/T1_image4.png",
+          "image": "content/resources/T1_image4.jpg",
           "caption": "Hình gốc trong bài 1.1.2"
         },
         {
-          "image": "content/resources/T1_image5.png",
+          "image": "content/resources/T1_image5.jpg",
           "caption": "Hình gốc trong bài 1.1.2"
         },
         {
-          "image": "content/resources/T1_image6.png",
+          "image": "content/resources/T1_image6.jpg",
           "caption": "Hình gốc trong bài 1.1.2"
         },
         {
-          "image": "content/resources/T1_image7.png",
+          "image": "content/resources/T1_image7.jpg",
           "caption": "Hình gốc trong bài 1.1.2"
         }
       ],
@@ -623,15 +623,15 @@
       "chapterTitle": "Giới thiệu tổng quát về ô tô",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image32.png",
+          "image": "content/resources/T1_image32.jpg",
           "caption": "Hình gốc trong bài 1.1.3"
         },
         {
-          "image": "content/resources/T1_image34.png",
+          "image": "content/resources/T1_image34.jpg",
           "caption": "Hình gốc trong bài 1.1.3"
         },
         {
-          "image": "content/resources/T1_image36.png",
+          "image": "content/resources/T1_image36.jpg",
           "caption": "Hình gốc trong bài 1.1.3"
         },
         {
@@ -639,11 +639,11 @@
           "caption": "Hình gốc trong bài 1.1.3"
         },
         {
-          "image": "content/resources/T1_image38.png",
+          "image": "content/resources/T1_image38.jpg",
           "caption": "Hình gốc trong bài 1.1.3"
         },
         {
-          "image": "content/resources/T1_image39.png",
+          "image": "content/resources/T1_image39.jpg",
           "caption": "Hình gốc trong bài 1.1.3"
         }
       ]
@@ -868,11 +868,11 @@
       "chapterTitle": "Giới thiệu tổng quát về ô tô",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image49.png",
+          "image": "content/resources/T1_image49.jpg",
           "caption": "Hình gốc trong bài 1.2.1"
         },
         {
-          "image": "content/resources/T1_image50.png",
+          "image": "content/resources/T1_image50.jpg",
           "caption": "Hình gốc trong bài 1.2.1"
         }
       ],
@@ -890,7 +890,7 @@
         {
           "id": "driveline",
           "source": "1.2.2",
-          "image": "content/resources/T1_image51.png",
+          "image": "content/resources/T1_image51.jpg",
           "caption": "Hình 1.33 — Hệ thống truyền động của ô tô",
           "parts": [
             {
@@ -1143,7 +1143,7 @@
       "chapterTitle": "Giới thiệu tổng quát về ô tô",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image51.png",
+          "image": "content/resources/T1_image51.jpg",
           "caption": "Hình gốc trong bài 1.2.2"
         },
         {
@@ -1160,7 +1160,7 @@
         {
           "id": "steer",
           "source": "9.3.1",
-          "image": "nt/figures/t2-9-9.png",
+          "image": "nt/figures/t2-9-9.jpg",
           "caption": "Hình 9.9 — Bố trí chung của hệ thống lái",
           "parts": [
             {
@@ -1398,11 +1398,11 @@
       "chapterTitle": "Giới thiệu tổng quát về ô tô",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image53.png",
+          "image": "content/resources/T1_image53.jpg",
           "caption": "Hình gốc trong bài 1.2.3"
         },
         {
-          "image": "content/resources/T1_image54.png",
+          "image": "content/resources/T1_image54.jpg",
           "caption": "Hình gốc trong bài 1.2.3"
         }
       ]
@@ -1415,7 +1415,7 @@
         {
           "id": "drum",
           "source": "10.2.1",
-          "image": "nt/figures/t2-10-2.png",
+          "image": "nt/figures/t2-10-2.jpg",
           "caption": "Hình 10.2 — Cơ cấu phanh tang trống",
           "parts": [
             {
@@ -1652,11 +1652,11 @@
       "chapterTitle": "Giới thiệu tổng quát về ô tô",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image55.png",
+          "image": "content/resources/T1_image55.jpg",
           "caption": "Hình gốc trong bài 1.2.4"
         },
         {
-          "image": "content/resources/T1_image56.png",
+          "image": "content/resources/T1_image56.jpg",
           "caption": "Hình gốc trong bài 1.2.4"
         }
       ]
@@ -1669,7 +1669,7 @@
         {
           "id": "frame",
           "source": "12.1.2",
-          "image": "nt/figures/t2-12-6.png",
+          "image": "nt/figures/t2-12-6.jpg",
           "caption": "Hình 12.6 — Cấu tạo một số khung xe tải",
           "parts": [
             {
@@ -1878,15 +1878,15 @@
       "chapterTitle": "Giới thiệu tổng quát về ô tô",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image57.png",
+          "image": "content/resources/T1_image57.jpg",
           "caption": "Hình gốc trong bài 1.2.5"
         },
         {
-          "image": "content/resources/T1_image58.png",
+          "image": "content/resources/T1_image58.jpg",
           "caption": "Hình gốc trong bài 1.2.5"
         },
         {
-          "image": "content/resources/T1_image59.png",
+          "image": "content/resources/T1_image59.jpg",
           "caption": "Hình gốc trong bài 1.2.5"
         }
       ]
@@ -1899,7 +1899,7 @@
         {
           "id": "coilspring",
           "source": "11.3.1",
-          "image": "nt/figures/t2-11-21.png",
+          "image": "nt/figures/t2-11-21.jpg",
           "caption": "Hình 11.21 — Hệ thống treo có bộ phận đàn hồi là lò xo xoắn",
           "parts": [
             {
@@ -2130,19 +2130,19 @@
       "chapterTitle": "Giới thiệu tổng quát về ô tô",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image60.png",
+          "image": "content/resources/T1_image60.jpg",
           "caption": "Hình gốc trong bài 1.2.6"
         },
         {
-          "image": "content/resources/T1_image61.png",
+          "image": "content/resources/T1_image61.jpg",
           "caption": "Hình gốc trong bài 1.2.6"
         },
         {
-          "image": "content/resources/T1_image62.png",
+          "image": "content/resources/T1_image62.jpg",
           "caption": "Hình gốc trong bài 1.2.6"
         },
         {
-          "image": "content/resources/T1_image63.png",
+          "image": "content/resources/T1_image63.jpg",
           "caption": "Hình gốc trong bài 1.2.6"
         }
       ]
@@ -2389,7 +2389,7 @@
           "caption": "Hình gốc trong bài 1.2.7"
         },
         {
-          "image": "content/resources/T1_image65.png",
+          "image": "content/resources/T1_image65.jpg",
           "caption": "Hình gốc trong bài 1.2.7"
         }
       ]
@@ -2584,15 +2584,15 @@
       "chapterTitle": "Giới thiệu tổng quát về ô tô",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image66.png",
+          "image": "content/resources/T1_image66.jpg",
           "caption": "Hình gốc trong bài 1.3.1"
         },
         {
-          "image": "content/resources/T1_image67.png",
+          "image": "content/resources/T1_image67.jpg",
           "caption": "Hình gốc trong bài 1.3.1"
         },
         {
-          "image": "content/resources/T1_image68.png",
+          "image": "content/resources/T1_image68.jpg",
           "caption": "Hình gốc trong bài 1.3.1"
         }
       ]
@@ -2797,7 +2797,7 @@
       "figures": [
         {
           "id": "one",
-          "image": "content/resources/T1_image69.png",
+          "image": "content/resources/T1_image69.jpg",
           "caption": "Hình 2.1 — Ly hợp ma sát lò xo màng",
           "parts": [
             {
@@ -3007,7 +3007,7 @@
       "figures": [
         {
           "id": "one",
-          "image": "content/resources/T1_image69.png",
+          "image": "content/resources/T1_image69.jpg",
           "caption": "Hình 2.1 — Ly hợp ma sát lò xo màng",
           "parts": [
             {
@@ -3217,7 +3217,7 @@
       "figures": [
         {
           "id": "one",
-          "image": "content/resources/T1_image69.png",
+          "image": "content/resources/T1_image69.jpg",
           "caption": "Hình 2.1 — Ly hợp ma sát lò xo màng",
           "parts": [
             {
@@ -3417,15 +3417,15 @@
       "chapterTitle": "Ly hợp",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image69.png",
+          "image": "content/resources/T1_image69.jpg",
           "caption": "Hình gốc trong bài 2.2.1"
         },
         {
-          "image": "content/resources/T1_image70.png",
+          "image": "content/resources/T1_image70.jpg",
           "caption": "Hình gốc trong bài 2.2.1"
         },
         {
-          "image": "content/resources/T1_image71.png",
+          "image": "content/resources/T1_image71.jpg",
           "caption": "Hình gốc trong bài 2.2.1"
         },
         {
@@ -3433,11 +3433,11 @@
           "caption": "Hình gốc trong bài 2.2.1"
         },
         {
-          "image": "content/resources/T1_image73.png",
+          "image": "content/resources/T1_image73.jpg",
           "caption": "Hình gốc trong bài 2.2.1"
         },
         {
-          "image": "content/resources/T1_image74.png",
+          "image": "content/resources/T1_image74.jpg",
           "caption": "Hình gốc trong bài 2.2.1"
         }
       ]
@@ -3452,7 +3452,7 @@
       "figures": [
         {
           "id": "two",
-          "image": "content/resources/T1_image81.png",
+          "image": "content/resources/T1_image81.jpg",
           "caption": "Hình 2.13b — Ly hợp hai đĩa ma sát",
           "parts": [
             {
@@ -3527,7 +3527,7 @@
         },
         {
           "id": "multi",
-          "image": "content/resources/T1_image82.png",
+          "image": "content/resources/T1_image82.jpg",
           "caption": "Hình 2.14 — Ly hợp nhiều đĩa",
           "parts": [
             {
@@ -3752,11 +3752,11 @@
       "chapterTitle": "Ly hợp",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image81.png",
+          "image": "content/resources/T1_image81.jpg",
           "caption": "Hình gốc trong bài 2.2.2"
         },
         {
-          "image": "content/resources/T1_image82.png",
+          "image": "content/resources/T1_image82.jpg",
           "caption": "Hình gốc trong bài 2.2.2"
         }
       ],
@@ -3990,7 +3990,7 @@
       "figures": [
         {
           "id": "hydraulic",
-          "image": "content/resources/T1_image84.png",
+          "image": "content/resources/T1_image84.jpg",
           "caption": "Hình 2.16 — Dẫn động điều khiển bằng thủy lực",
           "parts": [
             {
@@ -4084,7 +4084,7 @@
         },
         {
           "id": "master",
-          "image": "content/resources/T1_image85.png",
+          "image": "content/resources/T1_image85.jpg",
           "caption": "Hình 2.17 — Xi lanh chính",
           "parts": [
             {
@@ -4148,7 +4148,7 @@
         },
         {
           "id": "slave",
-          "image": "content/resources/T1_image86.png",
+          "image": "content/resources/T1_image86.jpg",
           "caption": "Hình 2.18 — Xi lanh công tác",
           "parts": [
             {
@@ -4332,15 +4332,15 @@
       "chapterTitle": "Ly hợp",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image84.png",
+          "image": "content/resources/T1_image84.jpg",
           "caption": "Hình gốc trong bài 2.3.2"
         },
         {
-          "image": "content/resources/T1_image85.png",
+          "image": "content/resources/T1_image85.jpg",
           "caption": "Hình gốc trong bài 2.3.2"
         },
         {
-          "image": "content/resources/T1_image86.png",
+          "image": "content/resources/T1_image86.jpg",
           "caption": "Hình gốc trong bài 2.3.2"
         }
       ]
@@ -4355,7 +4355,7 @@
       "figures": [
         {
           "id": "assist",
-          "image": "content/resources/T1_image87.png",
+          "image": "content/resources/T1_image87.jpg",
           "caption": "Hình 2.19b — Dẫn động cơ khí có trợ lực khí nén",
           "parts": [
             {
@@ -4550,11 +4550,11 @@
       "chapterTitle": "Ly hợp",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image87.png",
+          "image": "content/resources/T1_image87.jpg",
           "caption": "Hình gốc trong bài 2.3.3"
         },
         {
-          "image": "content/resources/T1_image88.png",
+          "image": "content/resources/T1_image88.jpg",
           "caption": "Hình gốc trong bài 2.3.3"
         },
         {
@@ -4562,7 +4562,7 @@
           "caption": "Hình gốc trong bài 2.3.3"
         },
         {
-          "image": "content/resources/T1_image90.png",
+          "image": "content/resources/T1_image90.jpg",
           "caption": "Hình gốc trong bài 2.3.3"
         }
       ]
@@ -4577,7 +4577,7 @@
       "figures": [
         {
           "id": "acs",
-          "image": "content/resources/T1_image91.png",
+          "image": "content/resources/T1_image91.jpg",
           "caption": "Hình 2.23 — Hệ thống ly hợp tự động ACS",
           "parts": [
             {
@@ -4771,7 +4771,7 @@
       "chapterTitle": "Ly hợp",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image91.png",
+          "image": "content/resources/T1_image91.jpg",
           "caption": "Hình gốc trong bài 2.4.1"
         }
       ]
@@ -4786,7 +4786,7 @@
       "figures": [
         {
           "id": "dual",
-          "image": "content/resources/T1_image92.png",
+          "image": "content/resources/T1_image92.jpg",
           "caption": "Hình 2.24 — Ly hợp kép và hai trục sơ cấp",
           "parts": [
             {
@@ -4958,11 +4958,11 @@
       "chapterTitle": "Ly hợp",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image92.png",
+          "image": "content/resources/T1_image92.jpg",
           "caption": "Hình gốc trong bài 2.4.2"
         },
         {
-          "image": "content/resources/T1_image93.png",
+          "image": "content/resources/T1_image93.jpg",
           "caption": "Hình gốc trong bài 2.4.2"
         }
       ]
@@ -4977,7 +4977,7 @@
       "figures": [
         {
           "id": "wet",
-          "image": "content/resources/T1_image94.png",
+          "image": "content/resources/T1_image94.jpg",
           "caption": "Hình 2.26 — Ly hợp kép ma sát ướt, nhánh C1",
           "parts": [
             {
@@ -5071,7 +5071,7 @@
         },
         {
           "id": "dry",
-          "image": "content/resources/T1_image96.png",
+          "image": "content/resources/T1_image96.jpg",
           "caption": "Hình 2.28 — Ly hợp kép ma sát khô: a) đóng C1; b) đóng C2",
           "parts": [
             {
@@ -5295,19 +5295,19 @@
       "chapterTitle": "Ly hợp",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image94.png",
+          "image": "content/resources/T1_image94.jpg",
           "caption": "Hình gốc trong bài 2.4.3"
         },
         {
-          "image": "content/resources/T1_image95.png",
+          "image": "content/resources/T1_image95.jpg",
           "caption": "Hình gốc trong bài 2.4.3"
         },
         {
-          "image": "content/resources/T1_image96.png",
+          "image": "content/resources/T1_image96.jpg",
           "caption": "Hình gốc trong bài 2.4.3"
         },
         {
-          "image": "content/resources/T1_image97.png",
+          "image": "content/resources/T1_image97.jpg",
           "caption": "Hình gốc trong bài 2.4.3"
         }
       ],
@@ -5325,7 +5325,7 @@
         {
           "id": "gear3",
           "source": "3.2.2",
-          "image": "content/resources/T1_image127.png",
+          "image": "content/resources/T1_image127.jpg",
           "caption": "Hình 3.13 — Sơ đồ hộp số 3 trục 5 cấp số",
           "parts": [
             {
@@ -5734,27 +5734,27 @@
       "chapterTitle": "Hộp số chính",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image98.png",
+          "image": "content/resources/T1_image98.jpg",
           "caption": "Hình gốc trong bài 3.1.2"
         },
         {
-          "image": "content/resources/T1_image99.png",
+          "image": "content/resources/T1_image99.jpg",
           "caption": "Hình gốc trong bài 3.1.2"
         },
         {
-          "image": "content/resources/T1_image100.png",
+          "image": "content/resources/T1_image100.jpg",
           "caption": "Hình gốc trong bài 3.1.2"
         },
         {
-          "image": "content/resources/T1_image101.png",
+          "image": "content/resources/T1_image101.jpg",
           "caption": "Hình gốc trong bài 3.1.2"
         },
         {
-          "image": "content/resources/T1_image102.png",
+          "image": "content/resources/T1_image102.jpg",
           "caption": "Hình gốc trong bài 3.1.2"
         },
         {
-          "image": "content/resources/T1_image103.png",
+          "image": "content/resources/T1_image103.jpg",
           "caption": "Hình gốc trong bài 3.1.2"
         }
       ]
@@ -5953,27 +5953,27 @@
       "chapterTitle": "Hộp số chính",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image110.png",
+          "image": "content/resources/T1_image110.jpg",
           "caption": "Hình gốc trong bài 3.2.1"
         },
         {
-          "image": "content/resources/T1_image111.png",
+          "image": "content/resources/T1_image111.jpg",
           "caption": "Hình gốc trong bài 3.2.1"
         },
         {
-          "image": "content/resources/T1_image112.png",
+          "image": "content/resources/T1_image112.jpg",
           "caption": "Hình gốc trong bài 3.2.1"
         },
         {
-          "image": "content/resources/T1_image113.png",
+          "image": "content/resources/T1_image113.jpg",
           "caption": "Hình gốc trong bài 3.2.1"
         },
         {
-          "image": "content/resources/T1_image114.png",
+          "image": "content/resources/T1_image114.jpg",
           "caption": "Hình gốc trong bài 3.2.1"
         },
         {
-          "image": "content/resources/T1_image115.png",
+          "image": "content/resources/T1_image115.jpg",
           "caption": "Hình gốc trong bài 3.2.1"
         }
       ]
@@ -5986,7 +5986,7 @@
         {
           "id": "gear3",
           "source": "3.2.2",
-          "image": "content/resources/T1_image127.png",
+          "image": "content/resources/T1_image127.jpg",
           "caption": "Hình 3.13 — Sơ đồ hộp số 3 trục 5 cấp số",
           "parts": [
             {
@@ -6245,27 +6245,27 @@
       "chapterTitle": "Hộp số chính",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image126.png",
+          "image": "content/resources/T1_image126.jpg",
           "caption": "Hình gốc trong bài 3.2.2"
         },
         {
-          "image": "content/resources/T1_image127.png",
+          "image": "content/resources/T1_image127.jpg",
           "caption": "Hình gốc trong bài 3.2.2"
         },
         {
-          "image": "content/resources/T1_image128.png",
+          "image": "content/resources/T1_image128.jpg",
           "caption": "Hình gốc trong bài 3.2.2"
         },
         {
-          "image": "content/resources/T1_image129.png",
+          "image": "content/resources/T1_image129.jpg",
           "caption": "Hình gốc trong bài 3.2.2"
         },
         {
-          "image": "content/resources/T1_image130.png",
+          "image": "content/resources/T1_image130.jpg",
           "caption": "Hình gốc trong bài 3.2.2"
         },
         {
-          "image": "content/resources/T1_image131.png",
+          "image": "content/resources/T1_image131.jpg",
           "caption": "Hình gốc trong bài 3.2.2"
         }
       ],
@@ -6283,7 +6283,7 @@
         {
           "id": "gear2",
           "source": "3.2.3",
-          "image": "content/resources/T1_image140.png",
+          "image": "content/resources/T1_image140.jpg",
           "caption": "Hình 3.26 — Hộp số hai trục trên dòng xe Kia, kiểu M5CF1",
           "parts": [
             {
@@ -6499,27 +6499,27 @@
       "chapterTitle": "Hộp số chính",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image140.png",
+          "image": "content/resources/T1_image140.jpg",
           "caption": "Hình gốc trong bài 3.2.3"
         },
         {
-          "image": "content/resources/T1_image141.png",
+          "image": "content/resources/T1_image141.jpg",
           "caption": "Hình gốc trong bài 3.2.3"
         },
         {
-          "image": "content/resources/T1_image142.png",
+          "image": "content/resources/T1_image142.jpg",
           "caption": "Hình gốc trong bài 3.2.3"
         },
         {
-          "image": "content/resources/T1_image143.png",
+          "image": "content/resources/T1_image143.jpg",
           "caption": "Hình gốc trong bài 3.2.3"
         },
         {
-          "image": "content/resources/T1_image144.png",
+          "image": "content/resources/T1_image144.jpg",
           "caption": "Hình gốc trong bài 3.2.3"
         },
         {
-          "image": "content/resources/T1_image145.png",
+          "image": "content/resources/T1_image145.jpg",
           "caption": "Hình gốc trong bài 3.2.3"
         }
       ]
@@ -6744,7 +6744,7 @@
       "chapterTitle": "Hộp số chính",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image148.png",
+          "image": "content/resources/T1_image148.jpg",
           "caption": "Hình gốc trong bài 3.2.4"
         },
         {
@@ -6752,19 +6752,19 @@
           "caption": "Hình gốc trong bài 3.2.4"
         },
         {
-          "image": "content/resources/T1_image150.png",
+          "image": "content/resources/T1_image150.jpg",
           "caption": "Hình gốc trong bài 3.2.4"
         },
         {
-          "image": "content/resources/T1_image151.png",
+          "image": "content/resources/T1_image151.jpg",
           "caption": "Hình gốc trong bài 3.2.4"
         },
         {
-          "image": "content/resources/T1_image152.png",
+          "image": "content/resources/T1_image152.jpg",
           "caption": "Hình gốc trong bài 3.2.4"
         },
         {
-          "image": "content/resources/T1_image153.png",
+          "image": "content/resources/T1_image153.jpg",
           "caption": "Hình gốc trong bài 3.2.4"
         }
       ]
@@ -6777,7 +6777,7 @@
         {
           "id": "shift",
           "source": "3.3.2",
-          "image": "content/resources/T1_image169.png",
+          "image": "content/resources/T1_image169.jpg",
           "caption": "Cơ cấu điều khiển và định vị trong hộp số",
           "parts": [
             {
@@ -7010,27 +7010,27 @@
       "chapterTitle": "Hộp số chính",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image160.png",
+          "image": "content/resources/T1_image160.jpg",
           "caption": "Hình gốc trong bài 3.3.1"
         },
         {
-          "image": "content/resources/T1_image161.png",
+          "image": "content/resources/T1_image161.jpg",
           "caption": "Hình gốc trong bài 3.3.1"
         },
         {
-          "image": "content/resources/T1_image162.png",
+          "image": "content/resources/T1_image162.jpg",
           "caption": "Hình gốc trong bài 3.3.1"
         },
         {
-          "image": "content/resources/T1_image163.png",
+          "image": "content/resources/T1_image163.jpg",
           "caption": "Hình gốc trong bài 3.3.1"
         },
         {
-          "image": "content/resources/T1_image164.png",
+          "image": "content/resources/T1_image164.jpg",
           "caption": "Hình gốc trong bài 3.3.1"
         },
         {
-          "image": "content/resources/T1_image165.png",
+          "image": "content/resources/T1_image165.jpg",
           "caption": "Hình gốc trong bài 3.3.1"
         }
       ]
@@ -7043,7 +7043,7 @@
         {
           "id": "shift",
           "source": "3.3.2",
-          "image": "content/resources/T1_image169.png",
+          "image": "content/resources/T1_image169.jpg",
           "caption": "Cơ cấu điều khiển và định vị trong hộp số",
           "parts": [
             {
@@ -7275,27 +7275,27 @@
       "chapterTitle": "Hộp số chính",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image170.png",
+          "image": "content/resources/T1_image170.jpg",
           "caption": "Hình gốc trong bài 3.3.2"
         },
         {
-          "image": "content/resources/T1_image168.png",
+          "image": "content/resources/T1_image168.jpg",
           "caption": "Hình gốc trong bài 3.3.2"
         },
         {
-          "image": "content/resources/T1_image169.png",
+          "image": "content/resources/T1_image169.jpg",
           "caption": "Hình gốc trong bài 3.3.2"
         },
         {
-          "image": "content/resources/T1_image171.png",
+          "image": "content/resources/T1_image171.jpg",
           "caption": "Hình gốc trong bài 3.3.2"
         },
         {
-          "image": "content/resources/T1_image172.png",
+          "image": "content/resources/T1_image172.jpg",
           "caption": "Hình gốc trong bài 3.3.2"
         },
         {
-          "image": "content/resources/T1_image173.png",
+          "image": "content/resources/T1_image173.jpg",
           "caption": "Hình gốc trong bài 3.3.2"
         }
       ]
@@ -7308,7 +7308,7 @@
         {
           "id": "dct",
           "source": "4.2.1",
-          "image": "content/resources/T1_image197.png",
+          "image": "content/resources/T1_image197.jpg",
           "caption": "Hình 4.1 — Hộp số ly hợp kép 6 cấp sử dụng ly hợp ma sát ướt",
           "parts": [
             {
@@ -7713,7 +7713,7 @@
         {
           "id": "dct",
           "source": "4.2.1",
-          "image": "content/resources/T1_image197.png",
+          "image": "content/resources/T1_image197.jpg",
           "caption": "Hình 4.1 — Hộp số ly hợp kép 6 cấp sử dụng ly hợp ma sát ướt",
           "parts": [
             {
@@ -7969,7 +7969,7 @@
       "chapterTitle": "Hộp số tự động",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image197.png",
+          "image": "content/resources/T1_image197.jpg",
           "caption": "Hình gốc trong bài 4.2.1"
         }
       ]
@@ -7982,7 +7982,7 @@
         {
           "id": "dct",
           "source": "4.2.1",
-          "image": "content/resources/T1_image197.png",
+          "image": "content/resources/T1_image197.jpg",
           "caption": "Hình 4.1 — Hộp số ly hợp kép 6 cấp sử dụng ly hợp ma sát ướt",
           "parts": [
             {
@@ -8246,7 +8246,7 @@
         {
           "id": "converter",
           "source": "4.3.1",
-          "image": "content/resources/T1_image199.png",
+          "image": "content/resources/T1_image199.jpg",
           "caption": "Hình 4.3 — Cấu tạo biến mô thủy lực",
           "parts": [
             {
@@ -8461,11 +8461,11 @@
       "chapterTitle": "Hộp số tự động",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image198.png",
+          "image": "content/resources/T1_image198.jpg",
           "caption": "Hình gốc trong bài 4.3.1"
         },
         {
-          "image": "content/resources/T1_image199.png",
+          "image": "content/resources/T1_image199.jpg",
           "caption": "Hình gốc trong bài 4.3.1"
         },
         {
@@ -8473,15 +8473,15 @@
           "caption": "Hình gốc trong bài 4.3.1"
         },
         {
-          "image": "content/resources/T1_image201.png",
+          "image": "content/resources/T1_image201.jpg",
           "caption": "Hình gốc trong bài 4.3.1"
         },
         {
-          "image": "content/resources/T1_image202.png",
+          "image": "content/resources/T1_image202.jpg",
           "caption": "Hình gốc trong bài 4.3.1"
         },
         {
-          "image": "content/resources/T1_image203.png",
+          "image": "content/resources/T1_image203.jpg",
           "caption": "Hình gốc trong bài 4.3.1"
         }
       ],
@@ -8706,27 +8706,27 @@
       "chapterTitle": "Hộp số tự động",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image220.png",
+          "image": "content/resources/T1_image220.jpg",
           "caption": "Hình gốc trong bài 4.3.2"
         },
         {
-          "image": "content/resources/T1_image221.png",
+          "image": "content/resources/T1_image221.jpg",
           "caption": "Hình gốc trong bài 4.3.2"
         },
         {
-          "image": "content/resources/T1_image222.png",
+          "image": "content/resources/T1_image222.jpg",
           "caption": "Hình gốc trong bài 4.3.2"
         },
         {
-          "image": "content/resources/T1_image223.png",
+          "image": "content/resources/T1_image223.jpg",
           "caption": "Hình gốc trong bài 4.3.2"
         },
         {
-          "image": "content/resources/T1_image224.png",
+          "image": "content/resources/T1_image224.jpg",
           "caption": "Hình gốc trong bài 4.3.2"
         },
         {
-          "image": "content/resources/T1_image225.png",
+          "image": "content/resources/T1_image225.jpg",
           "caption": "Hình gốc trong bài 4.3.2"
         }
       ],
@@ -8980,27 +8980,27 @@
       "chapterTitle": "Hộp số tự động",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image236.png",
+          "image": "content/resources/T1_image236.jpg",
           "caption": "Hình gốc trong bài 4.3.3"
         },
         {
-          "image": "content/resources/T1_image237.png",
+          "image": "content/resources/T1_image237.jpg",
           "caption": "Hình gốc trong bài 4.3.3"
         },
         {
-          "image": "content/resources/T1_image238.png",
+          "image": "content/resources/T1_image238.jpg",
           "caption": "Hình gốc trong bài 4.3.3"
         },
         {
-          "image": "content/resources/T1_image239.png",
+          "image": "content/resources/T1_image239.jpg",
           "caption": "Hình gốc trong bài 4.3.3"
         },
         {
-          "image": "content/resources/T1_image240.png",
+          "image": "content/resources/T1_image240.jpg",
           "caption": "Hình gốc trong bài 4.3.3"
         },
         {
-          "image": "content/resources/T1_image241.png",
+          "image": "content/resources/T1_image241.jpg",
           "caption": "Hình gốc trong bài 4.3.3"
         }
       ]
@@ -9013,7 +9013,7 @@
         {
           "id": "cvt",
           "source": "4.4.1",
-          "image": "content/resources/T1_image253.png",
+          "image": "content/resources/T1_image253.jpg",
           "caption": "Hình 4.57 — Bộ truyền đai vô cấp trên hộp số xe Ford CTX",
           "parts": [
             {
@@ -9214,7 +9214,7 @@
       "chapterTitle": "Hộp số tự động",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image253.png",
+          "image": "content/resources/T1_image253.jpg",
           "caption": "Hình gốc trong bài 4.4.1"
         }
       ],
@@ -9232,7 +9232,7 @@
         {
           "id": "cvt",
           "source": "4.4.1",
-          "image": "content/resources/T1_image253.png",
+          "image": "content/resources/T1_image253.jpg",
           "caption": "Hình 4.57 — Bộ truyền đai vô cấp trên hộp số xe Ford CTX",
           "parts": [
             {
@@ -9446,7 +9446,7 @@
         {
           "id": "transfer",
           "source": "5.2.1",
-          "image": "content/resources/T1_image254.png",
+          "image": "content/resources/T1_image254.jpg",
           "caption": "Hình 5.1 — Cấu tạo hộp phân phối đơn giản",
           "parts": [
             {
@@ -9862,7 +9862,7 @@
         {
           "id": "transfer",
           "source": "5.2.1",
-          "image": "content/resources/T1_image254.png",
+          "image": "content/resources/T1_image254.jpg",
           "caption": "Hình 5.1 — Cấu tạo hộp phân phối đơn giản",
           "parts": [
             {
@@ -10098,11 +10098,11 @@
       "chapterTitle": "Hộp số phân phối",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image254.png",
+          "image": "content/resources/T1_image254.jpg",
           "caption": "Hình gốc trong bài 5.2.1"
         },
         {
-          "image": "content/resources/T1_image255.png",
+          "image": "content/resources/T1_image255.jpg",
           "caption": "Hình gốc trong bài 5.2.1"
         }
       ],
@@ -10120,7 +10120,7 @@
         {
           "id": "transferlow",
           "source": "5.2.1",
-          "image": "content/resources/T1_image255.png",
+          "image": "content/resources/T1_image255.jpg",
           "caption": "Hình 5.2 — Cấu tạo hộp phân phối hai cấp số truyền",
           "parts": [
             {
@@ -10567,11 +10567,11 @@
       "chapterTitle": "Hộp số phân phối",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image256.png",
+          "image": "content/resources/T1_image256.jpg",
           "caption": "Hình gốc trong bài 5.3.1"
         },
         {
-          "image": "content/resources/T1_image257.png",
+          "image": "content/resources/T1_image257.jpg",
           "caption": "Hình gốc trong bài 5.3.1"
         }
       ]
@@ -10797,15 +10797,15 @@
       "chapterTitle": "Hộp số phân phối",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image258.png",
+          "image": "content/resources/T1_image258.jpg",
           "caption": "Hình gốc trong bài 5.3.2"
         },
         {
-          "image": "content/resources/T1_image259.png",
+          "image": "content/resources/T1_image259.jpg",
           "caption": "Hình gốc trong bài 5.3.2"
         },
         {
-          "image": "content/resources/T1_image260.png",
+          "image": "content/resources/T1_image260.jpg",
           "caption": "Hình gốc trong bài 5.3.2"
         }
       ],
@@ -10823,7 +10823,7 @@
         {
           "id": "crossparts",
           "source": "6.2.2",
-          "image": "content/resources/T1_image277.png",
+          "image": "content/resources/T1_image277.jpg",
           "caption": "Hình 6.8 — Cấu tạo của khớp các đăng",
           "parts": [
             {
@@ -11043,7 +11043,7 @@
       "chapterTitle": "Truyền động các đăng",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image261.png",
+          "image": "content/resources/T1_image261.jpg",
           "caption": "Hình gốc trong bài 6.1.1"
         }
       ]
@@ -11236,7 +11236,7 @@
       "chapterTitle": "Truyền động các đăng",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image262.png",
+          "image": "content/resources/T1_image262.jpg",
           "caption": "Hình gốc trong bài 6.1.2"
         }
       ]
@@ -11249,7 +11249,7 @@
         {
           "id": "cross",
           "source": "6.2.1",
-          "image": "content/resources/T1_image263.png",
+          "image": "content/resources/T1_image263.jpg",
           "caption": "Hình 6.3 — Sơ đồ nguyên lý khớp các đăng đơn",
           "parts": [
             {
@@ -11453,15 +11453,15 @@
       "chapterTitle": "Truyền động các đăng",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image263.png",
+          "image": "content/resources/T1_image263.jpg",
           "caption": "Hình gốc trong bài 6.2.1"
         },
         {
-          "image": "content/resources/T1_image265.png",
+          "image": "content/resources/T1_image265.jpg",
           "caption": "Hình gốc trong bài 6.2.1"
         },
         {
-          "image": "content/resources/T1_image267.png",
+          "image": "content/resources/T1_image267.jpg",
           "caption": "Hình gốc trong bài 6.2.1"
         }
       ],
@@ -11479,7 +11479,7 @@
         {
           "id": "crossparts",
           "source": "6.2.2",
-          "image": "content/resources/T1_image277.png",
+          "image": "content/resources/T1_image277.jpg",
           "caption": "Hình 6.8 — Cấu tạo của khớp các đăng",
           "parts": [
             {
@@ -11695,15 +11695,15 @@
       "chapterTitle": "Truyền động các đăng",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image275.png",
+          "image": "content/resources/T1_image275.jpg",
           "caption": "Hình gốc trong bài 6.2.2"
         },
         {
-          "image": "content/resources/T1_image276.png",
+          "image": "content/resources/T1_image276.jpg",
           "caption": "Hình gốc trong bài 6.2.2"
         },
         {
-          "image": "content/resources/T1_image277.png",
+          "image": "content/resources/T1_image277.jpg",
           "caption": "Hình gốc trong bài 6.2.2"
         }
       ]
@@ -11716,7 +11716,7 @@
         {
           "id": "crossdouble",
           "source": "6.3.1",
-          "image": "content/resources/T1_image278.png",
+          "image": "content/resources/T1_image278.jpg",
           "caption": "Hình 6.9 — Cấu tạo các đăng đồng tốc kiểu chữ thập kép",
           "parts": [
             {
@@ -11955,7 +11955,7 @@
       "chapterTitle": "Truyền động các đăng",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image278.png",
+          "image": "content/resources/T1_image278.jpg",
           "caption": "Hình gốc trong bài 6.3.1"
         }
       ],
@@ -11973,7 +11973,7 @@
         {
           "id": "cam",
           "source": "6.3.2",
-          "image": "content/resources/T1_image279.png",
+          "image": "content/resources/T1_image279.jpg",
           "caption": "Hình 6.10a — Cấu tạo khớp các đăng đồng tốc loại cam",
           "parts": [
             {
@@ -12212,7 +12212,7 @@
       "chapterTitle": "Truyền động các đăng",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image279.png",
+          "image": "content/resources/T1_image279.jpg",
           "caption": "Hình gốc trong bài 6.3.2"
         }
       ]
@@ -12411,7 +12411,7 @@
       "chapterTitle": "Truyền động các đăng",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image280.png",
+          "image": "content/resources/T1_image280.jpg",
           "caption": "Hình gốc trong bài 6.3.3"
         }
       ]
@@ -12424,7 +12424,7 @@
         {
           "id": "veise",
           "source": "6.3.4",
-          "image": "content/resources/T1_image281.png",
+          "image": "content/resources/T1_image281.jpg",
           "caption": "Hình 6.12 — Cấu tạo các đăng đồng tốc bi kiểu Veise",
           "parts": [
             {
@@ -12631,7 +12631,7 @@
       "chapterTitle": "Truyền động các đăng",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image281.png",
+          "image": "content/resources/T1_image281.jpg",
           "caption": "Hình gốc trong bài 6.3.4"
         }
       ]
@@ -12644,7 +12644,7 @@
         {
           "id": "rzeppa",
           "source": "6.3.5",
-          "image": "content/resources/T1_image282.png",
+          "image": "content/resources/T1_image282.jpg",
           "caption": "Hình 6.13 — Cấu tạo các đăng đồng tốc bi kiểu Rzeppa",
           "parts": [
             {
@@ -12852,7 +12852,7 @@
       "chapterTitle": "Truyền động các đăng",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image282.png",
+          "image": "content/resources/T1_image282.jpg",
           "caption": "Hình gốc trong bài 6.3.5"
         }
       ]
@@ -12865,7 +12865,7 @@
         {
           "id": "tripod",
           "source": "6.3.6",
-          "image": "content/resources/T1_image283.png",
+          "image": "content/resources/T1_image283.jpg",
           "caption": "Hình 6.14 — Cấu tạo các đăng đồng tốc kiểu Tripod",
           "parts": [
             {
@@ -13102,11 +13102,11 @@
       "chapterTitle": "Truyền động các đăng",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image283.png",
+          "image": "content/resources/T1_image283.jpg",
           "caption": "Hình gốc trong bài 6.3.6"
         },
         {
-          "image": "content/resources/T1_image284.png",
+          "image": "content/resources/T1_image284.jpg",
           "caption": "Hình gốc trong bài 6.3.6"
         }
       ]
@@ -13119,7 +13119,7 @@
         {
           "id": "diff",
           "source": "7.2.2",
-          "image": "content/resources/T1_image295.png",
+          "image": "content/resources/T1_image295.jpg",
           "caption": "Hình 7.11 — Cấu tạo bộ vi sai bánh răng côn đối xứng",
           "parts": [
             {
@@ -13373,7 +13373,7 @@
       "chapterTitle": "Cầu chủ động",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image285.png",
+          "image": "content/resources/T1_image285.jpg",
           "caption": "Hình gốc trong bài 7.1.1"
         }
       ]
@@ -13580,7 +13580,7 @@
         {
           "id": "finaldrive",
           "source": "7.2.1",
-          "image": "content/resources/T1_image286.png",
+          "image": "content/resources/T1_image286.jpg",
           "caption": "Hình 7.2 — Bộ truyền lực chính bánh răng côn răng thẳng",
           "parts": [
             {
@@ -13756,27 +13756,27 @@
       "chapterTitle": "Cầu chủ động",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image286.png",
+          "image": "content/resources/T1_image286.jpg",
           "caption": "Hình gốc trong bài 7.2.1"
         },
         {
-          "image": "content/resources/T1_image287.png",
+          "image": "content/resources/T1_image287.jpg",
           "caption": "Hình gốc trong bài 7.2.1"
         },
         {
-          "image": "content/resources/T1_image288.png",
+          "image": "content/resources/T1_image288.jpg",
           "caption": "Hình gốc trong bài 7.2.1"
         },
         {
-          "image": "content/resources/T1_image289.png",
+          "image": "content/resources/T1_image289.jpg",
           "caption": "Hình gốc trong bài 7.2.1"
         },
         {
-          "image": "content/resources/T1_image290.png",
+          "image": "content/resources/T1_image290.jpg",
           "caption": "Hình gốc trong bài 7.2.1"
         },
         {
-          "image": "content/resources/T1_image291.png",
+          "image": "content/resources/T1_image291.jpg",
           "caption": "Hình gốc trong bài 7.2.1"
         }
       ]
@@ -13789,7 +13789,7 @@
         {
           "id": "diff",
           "source": "7.2.2",
-          "image": "content/resources/T1_image295.png",
+          "image": "content/resources/T1_image295.jpg",
           "caption": "Hình 7.11 — Cấu tạo bộ vi sai bánh răng côn đối xứng",
           "parts": [
             {
@@ -14048,27 +14048,27 @@
       "chapterTitle": "Cầu chủ động",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image295.png",
+          "image": "content/resources/T1_image295.jpg",
           "caption": "Hình gốc trong bài 7.2.2"
         },
         {
-          "image": "content/resources/T1_image296.png",
+          "image": "content/resources/T1_image296.jpg",
           "caption": "Hình gốc trong bài 7.2.2"
         },
         {
-          "image": "content/resources/T1_image303.png",
+          "image": "content/resources/T1_image303.jpg",
           "caption": "Hình gốc trong bài 7.2.2"
         },
         {
-          "image": "content/resources/T1_image304.png",
+          "image": "content/resources/T1_image304.jpg",
           "caption": "Hình gốc trong bài 7.2.2"
         },
         {
-          "image": "content/resources/T1_image305.png",
+          "image": "content/resources/T1_image305.jpg",
           "caption": "Hình gốc trong bài 7.2.2"
         },
         {
-          "image": "content/resources/T1_image306.png",
+          "image": "content/resources/T1_image306.jpg",
           "caption": "Hình gốc trong bài 7.2.2"
         }
       ],
@@ -14311,27 +14311,27 @@
       "chapterTitle": "Cầu chủ động",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image314.png",
+          "image": "content/resources/T1_image314.jpg",
           "caption": "Hình gốc trong bài 7.2.3"
         },
         {
-          "image": "content/resources/T1_image315.png",
+          "image": "content/resources/T1_image315.jpg",
           "caption": "Hình gốc trong bài 7.2.3"
         },
         {
-          "image": "content/resources/T1_image320.png",
+          "image": "content/resources/T1_image320.jpg",
           "caption": "Hình gốc trong bài 7.2.3"
         },
         {
-          "image": "content/resources/T1_image321.png",
+          "image": "content/resources/T1_image321.jpg",
           "caption": "Hình gốc trong bài 7.2.3"
         },
         {
-          "image": "content/resources/T1_image322.png",
+          "image": "content/resources/T1_image322.jpg",
           "caption": "Hình gốc trong bài 7.2.3"
         },
         {
-          "image": "content/resources/T1_image323.png",
+          "image": "content/resources/T1_image323.jpg",
           "caption": "Hình gốc trong bài 7.2.3"
         }
       ]
@@ -14344,7 +14344,7 @@
         {
           "id": "tire",
           "source": "8.1.1",
-          "image": "content/resources/T1_image329.png",
+          "image": "content/resources/T1_image329.jpg",
           "caption": "Hình 8.1 — Cấu tạo của lốp",
           "parts": [
             {
@@ -14564,23 +14564,23 @@
       "chapterTitle": "Cụm bánh xe",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image329.png",
+          "image": "content/resources/T1_image329.jpg",
           "caption": "Hình gốc trong bài 8.1.1"
         },
         {
-          "image": "content/resources/T1_image330.png",
+          "image": "content/resources/T1_image330.jpg",
           "caption": "Hình gốc trong bài 8.1.1"
         },
         {
-          "image": "content/resources/T1_image331.png",
+          "image": "content/resources/T1_image331.jpg",
           "caption": "Hình gốc trong bài 8.1.1"
         },
         {
-          "image": "content/resources/T1_image332.png",
+          "image": "content/resources/T1_image332.jpg",
           "caption": "Hình gốc trong bài 8.1.1"
         },
         {
-          "image": "content/resources/T1_image333.png",
+          "image": "content/resources/T1_image333.jpg",
           "caption": "Hình gốc trong bài 8.1.1"
         }
       ]
@@ -14775,27 +14775,27 @@
       "chapterTitle": "Cụm bánh xe",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image334.png",
+          "image": "content/resources/T1_image334.jpg",
           "caption": "Hình gốc trong bài 8.1.2"
         },
         {
-          "image": "content/resources/T1_image335.png",
+          "image": "content/resources/T1_image335.jpg",
           "caption": "Hình gốc trong bài 8.1.2"
         },
         {
-          "image": "content/resources/T1_image336.png",
+          "image": "content/resources/T1_image336.jpg",
           "caption": "Hình gốc trong bài 8.1.2"
         },
         {
-          "image": "content/resources/T1_image337.png",
+          "image": "content/resources/T1_image337.jpg",
           "caption": "Hình gốc trong bài 8.1.2"
         },
         {
-          "image": "content/resources/T1_image338.png",
+          "image": "content/resources/T1_image338.jpg",
           "caption": "Hình gốc trong bài 8.1.2"
         },
         {
-          "image": "content/resources/T1_image339.png",
+          "image": "content/resources/T1_image339.jpg",
           "caption": "Hình gốc trong bài 8.1.2"
         }
       ]
@@ -14990,7 +14990,7 @@
       "chapterTitle": "Cụm bánh xe",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image344.png",
+          "image": "content/resources/T1_image344.jpg",
           "caption": "Hình gốc trong bài 8.2.1"
         }
       ]
@@ -15190,19 +15190,19 @@
       "chapterTitle": "Cụm bánh xe",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image345.png",
+          "image": "content/resources/T1_image345.jpg",
           "caption": "Hình gốc trong bài 8.2.2"
         },
         {
-          "image": "content/resources/T1_image346.png",
+          "image": "content/resources/T1_image346.jpg",
           "caption": "Hình gốc trong bài 8.2.2"
         },
         {
-          "image": "content/resources/T1_image347.png",
+          "image": "content/resources/T1_image347.jpg",
           "caption": "Hình gốc trong bài 8.2.2"
         },
         {
-          "image": "content/resources/T1_image348.png",
+          "image": "content/resources/T1_image348.jpg",
           "caption": "Hình gốc trong bài 8.2.2"
         }
       ]
@@ -15215,7 +15215,7 @@
         {
           "id": "balance",
           "source": "8.2.3",
-          "image": "content/resources/T1_image349.png",
+          "image": "content/resources/T1_image349.jpg",
           "caption": "Hình 8.13 — Cân bằng bánh xe",
           "parts": [
             {
@@ -15405,7 +15405,7 @@
       "chapterTitle": "Cụm bánh xe",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image349.png",
+          "image": "content/resources/T1_image349.jpg",
           "caption": "Hình gốc trong bài 8.2.3"
         }
       ],
@@ -15604,7 +15604,7 @@
       "chapterTitle": "Cụm bánh xe",
       "sourceGallery": [
         {
-          "image": "content/resources/T1_image350.png",
+          "image": "content/resources/T1_image350.jpg",
           "caption": "Hình gốc trong bài 8.2.4"
         }
       ],
@@ -15622,7 +15622,7 @@
         {
           "id": "steer",
           "source": "9.3.1",
-          "image": "nt/figures/t2-9-9.png",
+          "image": "nt/figures/t2-9-9.jpg",
           "caption": "Hình 9.9 — Bố trí chung của hệ thống lái",
           "parts": [
             {
@@ -15841,11 +15841,11 @@
       "chapterTitle": "Hệ thống lái",
       "sourceGallery": [
         {
-          "image": "content/resources/C9_image1.png",
+          "image": "content/resources/C9_image1.jpg",
           "caption": "Hình gốc trong bài 9.1.1"
         },
         {
-          "image": "content/resources/C9_image2.png",
+          "image": "content/resources/C9_image2.jpg",
           "caption": "Hình gốc trong bài 9.1.1"
         }
       ],
@@ -16068,7 +16068,7 @@
         {
           "id": "worm",
           "source": "9.2.1",
-          "image": "nt/figures/t2-9-3.png",
+          "image": "nt/figures/t2-9-3.jpg",
           "caption": "Hình 9.3 — Cơ cấu lái trục vít – bánh vít",
           "parts": [
             {
@@ -16277,7 +16277,7 @@
       "chapterTitle": "Hệ thống lái",
       "sourceGallery": [
         {
-          "image": "nt/figures/t2-9-3.png",
+          "image": "nt/figures/t2-9-3.jpg",
           "caption": "Hình 9.3 — Cơ cấu lái trục vít – bánh vít · trang PDF 15"
         }
       ],
@@ -16298,7 +16298,7 @@
         {
           "id": "roller",
           "source": "9.2.2",
-          "image": "nt/figures/t2-9-4.png",
+          "image": "nt/figures/t2-9-4.jpg",
           "caption": "Hình 9.4 — Cơ cấu lái trục vít lõm – con lăn",
           "parts": [
             {
@@ -16507,11 +16507,11 @@
       "chapterTitle": "Hệ thống lái",
       "sourceGallery": [
         {
-          "image": "nt/figures/t2-9-4.png",
+          "image": "nt/figures/t2-9-4.jpg",
           "caption": "Hình 9.4 — Cơ cấu lái trục vít lõm – con lăn · trang PDF 16"
         },
         {
-          "image": "content/resources/C9_image5.png",
+          "image": "content/resources/C9_image5.jpg",
           "caption": "Hình gốc trong bài 9.2.2"
         }
       ],
@@ -16532,7 +16532,7 @@
         {
           "id": "rack",
           "source": "9.2.3",
-          "image": "nt/figures/t2-9-6.png",
+          "image": "nt/figures/t2-9-6.jpg",
           "caption": "Hình 9.6 — Cơ cấu lái bánh răng – thanh răng trên các mẫu xe thế hệ cũ",
           "parts": [
             {
@@ -16755,11 +16755,11 @@
       "chapterTitle": "Hệ thống lái",
       "sourceGallery": [
         {
-          "image": "nt/figures/t2-9-6.png",
+          "image": "nt/figures/t2-9-6.jpg",
           "caption": "Hình 9.6 — Cơ cấu lái bánh răng – thanh răng trên các mẫu xe thế hệ cũ · trang PDF 18"
         },
         {
-          "image": "content/resources/C9_image7.png",
+          "image": "content/resources/C9_image7.jpg",
           "caption": "Hình gốc trong bài 9.2.3"
         }
       ],
@@ -16781,7 +16781,7 @@
         {
           "id": "recirculating",
           "source": "9.2.4",
-          "image": "nt/figures/t2-9-8.png",
+          "image": "nt/figures/t2-9-8.jpg",
           "caption": "Hình 9.8 — Cơ cấu lái trục vít – đai ốc – thanh răng – cung răng",
           "parts": [
             {
@@ -17005,7 +17005,7 @@
       "chapterTitle": "Hệ thống lái",
       "sourceGallery": [
         {
-          "image": "nt/figures/t2-9-8.png",
+          "image": "nt/figures/t2-9-8.jpg",
           "caption": "Hình 9.8 — Cơ cấu lái trục vít – đai ốc – thanh răng – cung răng · trang PDF 19"
         }
       ],
@@ -17026,7 +17026,7 @@
         {
           "id": "steer",
           "source": "9.3.1",
-          "image": "nt/figures/t2-9-9.png",
+          "image": "nt/figures/t2-9-9.jpg",
           "caption": "Hình 9.9 — Bố trí chung của hệ thống lái",
           "parts": [
             {
@@ -17262,15 +17262,15 @@
       "chapterTitle": "Hệ thống lái",
       "sourceGallery": [
         {
-          "image": "nt/figures/t2-9-9.png",
+          "image": "nt/figures/t2-9-9.jpg",
           "caption": "Hình 9.9 — Bố trí chung của hệ thống lái · trang PDF 20"
         },
         {
-          "image": "content/resources/C9_image10.png",
+          "image": "content/resources/C9_image10.jpg",
           "caption": "Hình gốc trong bài 9.3.1"
         },
         {
-          "image": "content/resources/C9_image11.png",
+          "image": "content/resources/C9_image11.jpg",
           "caption": "Hình gốc trong bài 9.3.1"
         }
       ],
@@ -17514,27 +17514,27 @@
       "chapterTitle": "Hệ thống lái",
       "sourceGallery": [
         {
-          "image": "content/resources/C9_image12.png",
+          "image": "content/resources/C9_image12.jpg",
           "caption": "Hình gốc trong bài 9.3.2"
         },
         {
-          "image": "content/resources/C9_image13.png",
+          "image": "content/resources/C9_image13.jpg",
           "caption": "Hình gốc trong bài 9.3.2"
         },
         {
-          "image": "content/resources/C9_image14.png",
+          "image": "content/resources/C9_image14.jpg",
           "caption": "Hình gốc trong bài 9.3.2"
         },
         {
-          "image": "content/resources/C9_image15.png",
+          "image": "content/resources/C9_image15.jpg",
           "caption": "Hình gốc trong bài 9.3.2"
         },
         {
-          "image": "content/resources/C9_image16.png",
+          "image": "content/resources/C9_image16.jpg",
           "caption": "Hình gốc trong bài 9.3.2"
         },
         {
-          "image": "content/resources/C9_image17.png",
+          "image": "content/resources/C9_image17.jpg",
           "caption": "Hình gốc trong bài 9.3.2"
         }
       ],
@@ -17562,7 +17562,7 @@
         {
           "id": "angles",
           "source": "9.3.3",
-          "image": "nt/figures/t2-9-23.png",
+          "image": "nt/figures/t2-9-23.jpg",
           "caption": "Hình 9.23 — Các góc đặt bánh xe dẫn hướng",
           "parts": [
             {
@@ -17752,27 +17752,27 @@
       "chapterTitle": "Hệ thống lái",
       "sourceGallery": [
         {
-          "image": "nt/figures/t2-9-23.png",
+          "image": "nt/figures/t2-9-23.jpg",
           "caption": "Hình 9.23 — Các góc đặt bánh xe dẫn hướng · trang PDF 29"
         },
         {
-          "image": "content/resources/C9_image24.png",
+          "image": "content/resources/C9_image24.jpg",
           "caption": "Hình gốc trong bài 9.3.3"
         },
         {
-          "image": "content/resources/C9_image25.png",
+          "image": "content/resources/C9_image25.jpg",
           "caption": "Hình gốc trong bài 9.3.3"
         },
         {
-          "image": "content/resources/C9_image26.png",
+          "image": "content/resources/C9_image26.jpg",
           "caption": "Hình gốc trong bài 9.3.3"
         },
         {
-          "image": "content/resources/C9_image27.png",
+          "image": "content/resources/C9_image27.jpg",
           "caption": "Hình gốc trong bài 9.3.3"
         },
         {
-          "image": "content/resources/C9_image28.png",
+          "image": "content/resources/C9_image28.jpg",
           "caption": "Hình gốc trong bài 9.3.3"
         }
       ],
@@ -17802,7 +17802,7 @@
         {
           "id": "assiststeer",
           "source": "9.4.1",
-          "image": "nt/figures/t2-9-30.png",
+          "image": "nt/figures/t2-9-30.jpg",
           "caption": "Hình 9.30 — Các kiểu bố trí trợ lực lái trên ô tô",
           "parts": [
             {
@@ -18040,27 +18040,27 @@
       "chapterTitle": "Hệ thống lái",
       "sourceGallery": [
         {
-          "image": "nt/figures/t2-9-30.png",
+          "image": "nt/figures/t2-9-30.jpg",
           "caption": "Hình 9.30 — Các kiểu bố trí trợ lực lái trên ô tô · trang PDF 35"
         },
         {
-          "image": "content/resources/C9_image32.png",
+          "image": "content/resources/C9_image32.jpg",
           "caption": "Hình gốc trong bài 9.4.1"
         },
         {
-          "image": "content/resources/C9_image33.png",
+          "image": "content/resources/C9_image33.jpg",
           "caption": "Hình gốc trong bài 9.4.1"
         },
         {
-          "image": "content/resources/C9_image34.png",
+          "image": "content/resources/C9_image34.jpg",
           "caption": "Hình gốc trong bài 9.4.1"
         },
         {
-          "image": "content/resources/C9_image35.png",
+          "image": "content/resources/C9_image35.jpg",
           "caption": "Hình gốc trong bài 9.4.1"
         },
         {
-          "image": "content/resources/C9_image36.png",
+          "image": "content/resources/C9_image36.jpg",
           "caption": "Hình gốc trong bài 9.4.1"
         }
       ],
@@ -18088,7 +18088,7 @@
         {
           "id": "eps",
           "source": "9.4.2",
-          "image": "nt/figures/t2-9-37.png",
+          "image": "nt/figures/t2-9-37.jpg",
           "caption": "Hình 9.37 — Sơ đồ trợ lực lái điện",
           "parts": [
             {
@@ -18317,27 +18317,27 @@
       "chapterTitle": "Hệ thống lái",
       "sourceGallery": [
         {
-          "image": "nt/figures/t2-9-37.png",
+          "image": "nt/figures/t2-9-37.jpg",
           "caption": "Hình 9.37 — Sơ đồ trợ lực lái điện · trang PDF 42"
         },
         {
-          "image": "content/resources/C9_image39.png",
+          "image": "content/resources/C9_image39.jpg",
           "caption": "Hình gốc trong bài 9.4.2"
         },
         {
-          "image": "content/resources/C9_image40.png",
+          "image": "content/resources/C9_image40.jpg",
           "caption": "Hình gốc trong bài 9.4.2"
         },
         {
-          "image": "content/resources/C9_image41.png",
+          "image": "content/resources/C9_image41.jpg",
           "caption": "Hình gốc trong bài 9.4.2"
         },
         {
-          "image": "content/resources/C9_image42.png",
+          "image": "content/resources/C9_image42.jpg",
           "caption": "Hình gốc trong bài 9.4.2"
         },
         {
-          "image": "content/resources/C9_image43.png",
+          "image": "content/resources/C9_image43.jpg",
           "caption": "Hình gốc trong bài 9.4.2"
         }
       ],
@@ -18697,11 +18697,11 @@
       "chapterTitle": "Hệ thống lái",
       "sourceGallery": [
         {
-          "image": "content/resources/C9_image46.png",
+          "image": "content/resources/C9_image46.jpg",
           "caption": "Hình gốc trong bài 9.4.3"
         },
         {
-          "image": "content/resources/C9_image47.png",
+          "image": "content/resources/C9_image47.jpg",
           "caption": "Hình gốc trong bài 9.4.3"
         },
         {
@@ -18709,15 +18709,15 @@
           "caption": "Hình gốc trong bài 9.4.3"
         },
         {
-          "image": "content/resources/C9_image49.png",
+          "image": "content/resources/C9_image49.jpg",
           "caption": "Hình gốc trong bài 9.4.3"
         },
         {
-          "image": "nt/figures/t2-9-47.png",
+          "image": "nt/figures/t2-9-47.jpg",
           "caption": "Hình 9.47 — Hệ thống lái không trục lái · Tập 2/2026, trang PDF 50"
         },
         {
-          "image": "nt/figures/t2-9-44.png",
+          "image": "nt/figures/t2-9-44.jpg",
           "caption": "Hình 9.44 — Sơ đồ hệ thống lái trợ lực thủy lực điều khiển điện tử · Tập 2/2026, trang PDF 47"
         }
       ],
@@ -19149,7 +19149,7 @@
       "chapterTitle": "Hệ thống phanh",
       "sourceGallery": [
         {
-          "image": "content/resources/C10_image1.png",
+          "image": "content/resources/C10_image1.jpg",
           "caption": "Hình gốc trong bài 10.1.2"
         }
       ],
@@ -19171,7 +19171,7 @@
         {
           "id": "drum",
           "source": "10.2.1",
-          "image": "nt/figures/t2-10-2.png",
+          "image": "nt/figures/t2-10-2.jpg",
           "caption": "Hình 10.2 — Cơ cấu phanh tang trống",
           "parts": [
             {
@@ -19404,7 +19404,7 @@
       "chapterTitle": "Hệ thống phanh",
       "sourceGallery": [
         {
-          "image": "nt/figures/t2-10-2.png",
+          "image": "nt/figures/t2-10-2.jpg",
           "caption": "Hình 10.2 — Cơ cấu phanh tang trống · trang PDF 56"
         },
         {
@@ -19412,7 +19412,7 @@
           "caption": "Hình gốc trong bài 10.2.1"
         },
         {
-          "image": "content/resources/C10_image4.png",
+          "image": "content/resources/C10_image4.jpg",
           "caption": "Hình gốc trong bài 10.2.1"
         },
         {
@@ -19452,7 +19452,7 @@
         {
           "id": "disc",
           "source": "10.2.2",
-          "image": "nt/figures/t2-10-18.png",
+          "image": "nt/figures/t2-10-18.jpg",
           "caption": "Hình 10.18 — Cấu tạo phanh đĩa",
           "parts": [
             {
@@ -19672,11 +19672,11 @@
       "chapterTitle": "Hệ thống phanh",
       "sourceGallery": [
         {
-          "image": "nt/figures/t2-10-18.png",
+          "image": "nt/figures/t2-10-18.jpg",
           "caption": "Hình 10.18 — Cấu tạo phanh đĩa · trang PDF 64"
         },
         {
-          "image": "content/resources/C10_image20.png",
+          "image": "content/resources/C10_image20.jpg",
           "caption": "Hình gốc trong bài 10.2.2"
         },
         {
@@ -19684,11 +19684,11 @@
           "caption": "Hình gốc trong bài 10.2.2"
         },
         {
-          "image": "content/resources/C10_image22.png",
+          "image": "content/resources/C10_image22.jpg",
           "caption": "Hình gốc trong bài 10.2.2"
         },
         {
-          "image": "content/resources/C10_image23.png",
+          "image": "content/resources/C10_image23.jpg",
           "caption": "Hình gốc trong bài 10.2.2"
         },
         {
@@ -19722,7 +19722,7 @@
         {
           "id": "brakemechanical",
           "source": "10.3.1",
-          "image": "nt/figures/t2-10-28.png",
+          "image": "nt/figures/t2-10-28.jpg",
           "caption": "Hình 10.28 — Dẫn động phanh cơ khí",
           "parts": [
             {
@@ -19946,7 +19946,7 @@
       "chapterTitle": "Hệ thống phanh",
       "sourceGallery": [
         {
-          "image": "nt/figures/t2-10-28.png",
+          "image": "nt/figures/t2-10-28.jpg",
           "caption": "Hình 10.28 — Dẫn động phanh cơ khí · trang PDF 69"
         },
         {
@@ -19954,7 +19954,7 @@
           "caption": "Hình gốc trong bài 10.3.1"
         },
         {
-          "image": "content/resources/C10_image34.png",
+          "image": "content/resources/C10_image34.jpg",
           "caption": "Hình gốc trong bài 10.3.1"
         },
         {
@@ -19989,7 +19989,7 @@
         {
           "id": "brakehydraulic",
           "source": "10.3.2",
-          "image": "nt/figures/t2-10-34.png",
+          "image": "nt/figures/t2-10-34.jpg",
           "caption": "Hình 10.34 — Sơ đồ dẫn động điều khiển phanh bằng thủy lực",
           "parts": [
             {
@@ -20224,11 +20224,11 @@
       "chapterTitle": "Hệ thống phanh",
       "sourceGallery": [
         {
-          "image": "nt/figures/t2-10-34.png",
+          "image": "nt/figures/t2-10-34.jpg",
           "caption": "Hình 10.34 — Sơ đồ dẫn động điều khiển phanh bằng thủy lực · trang PDF 72"
         },
         {
-          "image": "content/resources/C10_image39.png",
+          "image": "content/resources/C10_image39.jpg",
           "caption": "Hình gốc trong bài 10.3.2"
         },
         {
@@ -20236,11 +20236,11 @@
           "caption": "Hình gốc trong bài 10.3.2"
         },
         {
-          "image": "content/resources/C10_image41.png",
+          "image": "content/resources/C10_image41.jpg",
           "caption": "Hình gốc trong bài 10.3.2"
         },
         {
-          "image": "content/resources/C10_image42.png",
+          "image": "content/resources/C10_image42.jpg",
           "caption": "Hình gốc trong bài 10.3.2"
         },
         {
@@ -20279,7 +20279,7 @@
         {
           "id": "brakeair",
           "source": "10.3.3",
-          "image": "nt/figures/t2-10-46.png",
+          "image": "nt/figures/t2-10-46.jpg",
           "caption": "Hình 10.46 — Sơ đồ nguyên lý hệ thống phanh khí nén",
           "parts": [
             {
@@ -20512,7 +20512,7 @@
       "chapterTitle": "Hệ thống phanh",
       "sourceGallery": [
         {
-          "image": "nt/figures/t2-10-46.png",
+          "image": "nt/figures/t2-10-46.jpg",
           "caption": "Hình 10.46 — Sơ đồ nguyên lý hệ thống phanh khí nén · trang PDF 82"
         },
         {
@@ -20520,7 +20520,7 @@
           "caption": "Hình gốc trong bài 10.3.3"
         },
         {
-          "image": "content/resources/C10_image54.png",
+          "image": "content/resources/C10_image54.jpg",
           "caption": "Hình gốc trong bài 10.3.3"
         },
         {
@@ -20528,11 +20528,11 @@
           "caption": "Hình gốc trong bài 10.3.3"
         },
         {
-          "image": "content/resources/C10_image56.png",
+          "image": "content/resources/C10_image56.jpg",
           "caption": "Hình gốc trong bài 10.3.3"
         },
         {
-          "image": "content/resources/C10_image57.png",
+          "image": "content/resources/C10_image57.jpg",
           "caption": "Hình gốc trong bài 10.3.3"
         }
       ],
@@ -20565,7 +20565,7 @@
         {
           "id": "brakecombined",
           "source": "10.3.4",
-          "image": "nt/figures/t2-10-55.png",
+          "image": "nt/figures/t2-10-55.jpg",
           "caption": "Hình 10.55 — Sơ đồ hệ thống phanh thủy lực – khí nén",
           "parts": [
             {
@@ -20810,11 +20810,11 @@
       "chapterTitle": "Hệ thống phanh",
       "sourceGallery": [
         {
-          "image": "nt/figures/t2-10-55.png",
+          "image": "nt/figures/t2-10-55.jpg",
           "caption": "Hình 10.55 — Sơ đồ hệ thống phanh thủy lực – khí nén · trang PDF 90"
         },
         {
-          "image": "content/resources/C10_image63.png",
+          "image": "content/resources/C10_image63.jpg",
           "caption": "Hình gốc trong bài 10.3.4"
         }
       ],
@@ -20836,7 +20836,7 @@
         {
           "id": "abs",
           "source": "10.3.5",
-          "image": "nt/figures/t2-10-58.png",
+          "image": "nt/figures/t2-10-58.jpg",
           "caption": "Hình 10.58 — Sơ đồ các cụm chức năng cơ cấu ABS thủy lực",
           "parts": [
             {
@@ -21099,11 +21099,11 @@
           "caption": "Hình gốc trong bài 10.3.5"
         },
         {
-          "image": "nt/figures/t2-10-58.png",
+          "image": "nt/figures/t2-10-58.jpg",
           "caption": "Hình 10.58 — Sơ đồ các cụm chức năng cơ cấu ABS thủy lực · trang PDF 92"
         },
         {
-          "image": "content/resources/C10_image66.png",
+          "image": "content/resources/C10_image66.jpg",
           "caption": "Hình gốc trong bài 10.3.5"
         },
         {
@@ -21111,23 +21111,23 @@
           "caption": "Hình gốc trong bài 10.3.5"
         },
         {
-          "image": "content/resources/C10_image68.png",
+          "image": "content/resources/C10_image68.jpg",
           "caption": "Hình gốc trong bài 10.3.5"
         },
         {
-          "image": "content/resources/C10_image69.png",
+          "image": "content/resources/C10_image69.jpg",
           "caption": "Hình gốc trong bài 10.3.5"
         },
         {
-          "image": "nt/figures/t2-10-61.png",
+          "image": "nt/figures/t2-10-61.jpg",
           "caption": "Hình 10.61 — Van điện từ 2-vị trí có van điều khiển lưu lượng · Tập 2/2026, trang PDF 94"
         },
         {
-          "image": "nt/figures/t2-10-72.png",
+          "image": "nt/figures/t2-10-72.jpg",
           "caption": "Hình 10.72 — ABS ở dẫn động phanh khí nén — chế độ tăng áp · Tập 2/2026, trang PDF 100"
         },
         {
-          "image": "nt/figures/t2-10-73.png",
+          "image": "nt/figures/t2-10-73.jpg",
           "caption": "Hình 10.73 — Chế độ giữ áp và giảm áp · Tập 2/2026, trang PDF 100"
         }
       ],
@@ -21169,7 +21169,7 @@
         {
           "id": "coilspring",
           "source": "11.3.1",
-          "image": "nt/figures/t2-11-21.png",
+          "image": "nt/figures/t2-11-21.jpg",
           "caption": "Hình 11.21 — Hệ thống treo có bộ phận đàn hồi là lò xo xoắn",
           "parts": [
             {
@@ -21603,7 +21603,7 @@
         {
           "id": "leaf",
           "source": "11.2.1",
-          "image": "nt/figures/t2-11-1.png",
+          "image": "nt/figures/t2-11-1.jpg",
           "caption": "Hình 11.1 — Lắp nhíp trên xe",
           "parts": [
             {
@@ -21827,11 +21827,11 @@
       "chapterTitle": "Hệ thống treo",
       "sourceGallery": [
         {
-          "image": "nt/figures/t2-11-1.png",
+          "image": "nt/figures/t2-11-1.jpg",
           "caption": "Hình 11.1 — Lắp nhíp trên xe · trang PDF 112"
         },
         {
-          "image": "content/resources/C11_image2.png",
+          "image": "content/resources/C11_image2.jpg",
           "caption": "Hình gốc trong bài 11.2.1"
         },
         {
@@ -21843,11 +21843,11 @@
           "caption": "Hình gốc trong bài 11.2.1"
         },
         {
-          "image": "content/resources/C11_image5.png",
+          "image": "content/resources/C11_image5.jpg",
           "caption": "Hình gốc trong bài 11.2.1"
         },
         {
-          "image": "content/resources/C11_image6.png",
+          "image": "content/resources/C11_image6.jpg",
           "caption": "Hình gốc trong bài 11.2.1"
         }
       ],
@@ -21873,7 +21873,7 @@
         {
           "id": "macpherson",
           "source": "11.2.2",
-          "image": "nt/figures/t2-11-16.png",
+          "image": "nt/figures/t2-11-16.jpg",
           "caption": "Hình 11.16 — Sơ đồ hệ thống treo MacPherson",
           "parts": [
             {
@@ -22091,27 +22091,27 @@
       "chapterTitle": "Hệ thống treo",
       "sourceGallery": [
         {
-          "image": "content/resources/C11_image12.png",
+          "image": "content/resources/C11_image12.jpg",
           "caption": "Hình gốc trong bài 11.2.2"
         },
         {
-          "image": "content/resources/C11_image16.png",
+          "image": "content/resources/C11_image16.jpg",
           "caption": "Hình gốc trong bài 11.2.2"
         },
         {
-          "image": "content/resources/C11_image17.png",
+          "image": "content/resources/C11_image17.jpg",
           "caption": "Hình gốc trong bài 11.2.2"
         },
         {
-          "image": "content/resources/C11_image18.png",
+          "image": "content/resources/C11_image18.jpg",
           "caption": "Hình gốc trong bài 11.2.2"
         },
         {
-          "image": "nt/figures/t2-11-16.png",
+          "image": "nt/figures/t2-11-16.jpg",
           "caption": "Hình 11.16 — Sơ đồ hệ thống treo MacPherson · trang PDF 120"
         },
         {
-          "image": "content/resources/C11_image21.png",
+          "image": "content/resources/C11_image21.jpg",
           "caption": "Hình gốc trong bài 11.2.2"
         }
       ],
@@ -22136,7 +22136,7 @@
         {
           "id": "coilspring",
           "source": "11.3.1",
-          "image": "nt/figures/t2-11-21.png",
+          "image": "nt/figures/t2-11-21.jpg",
           "caption": "Hình 11.21 — Hệ thống treo có bộ phận đàn hồi là lò xo xoắn",
           "parts": [
             {
@@ -22341,27 +22341,27 @@
       "chapterTitle": "Hệ thống treo",
       "sourceGallery": [
         {
-          "image": "nt/figures/t2-11-21.png",
+          "image": "nt/figures/t2-11-21.jpg",
           "caption": "Hình 11.21 — Hệ thống treo có bộ phận đàn hồi là lò xo xoắn · trang PDF 123"
         },
         {
-          "image": "content/resources/C11_image27.png",
+          "image": "content/resources/C11_image27.jpg",
           "caption": "Hình gốc trong bài 11.3.1"
         },
         {
-          "image": "content/resources/C11_image28.png",
+          "image": "content/resources/C11_image28.jpg",
           "caption": "Hình gốc trong bài 11.3.1"
         },
         {
-          "image": "content/resources/C11_image30.png",
+          "image": "content/resources/C11_image30.jpg",
           "caption": "Hình gốc trong bài 11.3.1"
         },
         {
-          "image": "content/resources/C11_image31.png",
+          "image": "content/resources/C11_image31.jpg",
           "caption": "Hình gốc trong bài 11.3.1"
         },
         {
-          "image": "content/resources/C11_image32.png",
+          "image": "content/resources/C11_image32.jpg",
           "caption": "Hình gốc trong bài 11.3.1"
         }
       ],
@@ -22388,7 +22388,7 @@
         {
           "id": "airspring",
           "source": "11.3.2",
-          "image": "nt/figures/t2-11-32.png",
+          "image": "nt/figures/t2-11-32.jpg",
           "caption": "Hình 11.32 — Bộ phận đàn hồi khí nén",
           "parts": [
             {
@@ -22608,27 +22608,27 @@
       "chapterTitle": "Hệ thống treo",
       "sourceGallery": [
         {
-          "image": "nt/figures/t2-11-32.png",
+          "image": "nt/figures/t2-11-32.jpg",
           "caption": "Hình 11.32 — Bộ phận đàn hồi khí nén · trang PDF 130"
         },
         {
-          "image": "content/resources/C11_image40.png",
+          "image": "content/resources/C11_image40.jpg",
           "caption": "Hình gốc trong bài 11.3.2"
         },
         {
-          "image": "content/resources/C11_image41.png",
+          "image": "content/resources/C11_image41.jpg",
           "caption": "Hình gốc trong bài 11.3.2"
         },
         {
-          "image": "content/resources/C11_image42.png",
+          "image": "content/resources/C11_image42.jpg",
           "caption": "Hình gốc trong bài 11.3.2"
         },
         {
-          "image": "content/resources/C11_image43.png",
+          "image": "content/resources/C11_image43.jpg",
           "caption": "Hình gốc trong bài 11.3.2"
         },
         {
-          "image": "content/resources/C11_image44.png",
+          "image": "content/resources/C11_image44.jpg",
           "caption": "Hình gốc trong bài 11.3.2"
         }
       ],
@@ -22658,7 +22658,7 @@
         {
           "id": "monodamper",
           "source": "11.4.1",
-          "image": "nt/figures/t2-11-39.png",
+          "image": "nt/figures/t2-11-39.jpg",
           "caption": "Hình 11.39 — Giảm chấn kiểu ống đơn",
           "parts": [
             {
@@ -22885,7 +22885,7 @@
       "chapterTitle": "Hệ thống treo",
       "sourceGallery": [
         {
-          "image": "nt/figures/t2-11-39.png",
+          "image": "nt/figures/t2-11-39.jpg",
           "caption": "Hình 11.39 — Giảm chấn kiểu ống đơn · trang PDF 135"
         }
       ],
@@ -22911,7 +22911,7 @@
         {
           "id": "twindamper",
           "source": "11.4.2",
-          "image": "nt/figures/t2-11-40.png",
+          "image": "nt/figures/t2-11-40.jpg",
           "caption": "Hình 11.40 — Giảm chấn kiểu ống kép",
           "parts": [
             {
@@ -23153,15 +23153,15 @@
       "chapterTitle": "Hệ thống treo",
       "sourceGallery": [
         {
-          "image": "nt/figures/t2-11-40.png",
+          "image": "nt/figures/t2-11-40.jpg",
           "caption": "Hình 11.40 — Giảm chấn kiểu ống kép · trang PDF 136"
         },
         {
-          "image": "content/resources/C11_image48.png",
+          "image": "content/resources/C11_image48.jpg",
           "caption": "Hình gốc trong bài 11.4.2"
         },
         {
-          "image": "content/resources/C11_image49.png",
+          "image": "content/resources/C11_image49.jpg",
           "caption": "Hình gốc trong bài 11.4.2"
         },
         {
@@ -23196,7 +23196,7 @@
         {
           "id": "hydractive",
           "source": "11.5.1",
-          "image": "nt/figures/t2-11-45.png",
+          "image": "nt/figures/t2-11-45.jpg",
           "caption": "Hình 11.45 — Các bộ phận và hệ thống của khung gầm Hydractive",
           "parts": [
             {
@@ -23430,15 +23430,15 @@
       "chapterTitle": "Hệ thống treo",
       "sourceGallery": [
         {
-          "image": "nt/figures/t2-11-45.png",
+          "image": "nt/figures/t2-11-45.jpg",
           "caption": "Hình 11.45 — Các bộ phận và hệ thống của khung gầm Hydractive · trang PDF 140"
         },
         {
-          "image": "content/resources/C11_image53.png",
+          "image": "content/resources/C11_image53.jpg",
           "caption": "Hình gốc trong bài 11.5.1"
         },
         {
-          "image": "content/resources/C11_image54.png",
+          "image": "content/resources/C11_image54.jpg",
           "caption": "Hình gốc trong bài 11.5.1"
         }
       ],
@@ -23468,7 +23468,7 @@
         {
           "id": "cdc",
           "source": "11.5.2",
-          "image": "nt/figures/t2-11-48.png",
+          "image": "nt/figures/t2-11-48.jpg",
           "caption": "Hình 11.48 — Sơ đồ nối mạch của bộ giảm chấn điện tử",
           "parts": [
             {
@@ -23686,15 +23686,15 @@
       "chapterTitle": "Hệ thống treo",
       "sourceGallery": [
         {
-          "image": "nt/figures/t2-11-48.png",
+          "image": "nt/figures/t2-11-48.jpg",
           "caption": "Hình 11.48 — Sơ đồ nối mạch của bộ giảm chấn điện tử · trang PDF 143"
         },
         {
-          "image": "content/resources/C11_image56.png",
+          "image": "content/resources/C11_image56.jpg",
           "caption": "Hình gốc trong bài 11.5.2"
         },
         {
-          "image": "content/resources/C11_image57.png",
+          "image": "content/resources/C11_image57.jpg",
           "caption": "Hình gốc trong bài 11.5.2"
         }
       ],
@@ -23956,7 +23956,7 @@
         {
           "id": "frame",
           "source": "12.1.2",
-          "image": "nt/figures/t2-12-6.png",
+          "image": "nt/figures/t2-12-6.jpg",
           "caption": "Hình 12.6 — Cấu tạo một số khung xe tải",
           "parts": [
             {
@@ -24159,7 +24159,7 @@
       "chapterTitle": "Khung vỏ và thiết bị phụ trên ô tô",
       "sourceGallery": [
         {
-          "image": "nt/figures/t2-12-6.png",
+          "image": "nt/figures/t2-12-6.jpg",
           "caption": "Hình 12.6 — Cấu tạo một số khung xe tải · trang PDF 150"
         },
         {
@@ -24167,7 +24167,7 @@
           "caption": "Hình gốc trong bài 12.1.2"
         },
         {
-          "image": "content/resources/C12_image6.png",
+          "image": "content/resources/C12_image6.jpg",
           "caption": "Hình gốc trong bài 12.1.2"
         },
         {
@@ -24175,7 +24175,7 @@
           "caption": "Hình gốc trong bài 12.1.2"
         },
         {
-          "image": "content/resources/C12_image8.png",
+          "image": "content/resources/C12_image8.jpg",
           "caption": "Hình gốc trong bài 12.1.2"
         },
         {
@@ -24394,19 +24394,19 @@
       "chapterTitle": "Khung vỏ và thiết bị phụ trên ô tô",
       "sourceGallery": [
         {
-          "image": "content/resources/C12_image15.png",
+          "image": "content/resources/C12_image15.jpg",
           "caption": "Hình gốc trong bài 12.1.3"
         },
         {
-          "image": "content/resources/C12_image16.png",
+          "image": "content/resources/C12_image16.jpg",
           "caption": "Hình gốc trong bài 12.1.3"
         },
         {
-          "image": "content/resources/C12_image17.png",
+          "image": "content/resources/C12_image17.jpg",
           "caption": "Hình gốc trong bài 12.1.3"
         },
         {
-          "image": "content/resources/C12_image18.png",
+          "image": "content/resources/C12_image18.jpg",
           "caption": "Hình gốc trong bài 12.1.3"
         },
         {
@@ -24651,7 +24651,7 @@
           "caption": "Hình gốc trong bài 12.2.1"
         },
         {
-          "image": "content/resources/C12_image22.png",
+          "image": "content/resources/C12_image22.jpg",
           "caption": "Hình gốc trong bài 12.2.1"
         },
         {
@@ -24667,7 +24667,7 @@
           "caption": "Hình gốc trong bài 12.2.1"
         },
         {
-          "image": "nt/figures/t2-12-28.png",
+          "image": "nt/figures/t2-12-28.jpg",
           "caption": "Hình 12.28 — Sơ đồ bố trí hệ thống điều chỉnh áp suất hơi lốp trên xe ZIL-131 · Tập 2/2026, trang PDF 163"
         }
       ],
@@ -24697,7 +24697,7 @@
         {
           "id": "tipper",
           "source": "12.2.2",
-          "image": "nt/figures/t2-12-41.png",
+          "image": "nt/figures/t2-12-41.jpg",
           "caption": "Hình 12.41 — Sơ đồ bố trí của hệ thống nâng hạ thùng xe KamAZ 65115",
           "parts": [
             {
@@ -24776,7 +24776,7 @@
         {
           "id": "winch",
           "source": "12.2.2",
-          "image": "nt/figures/t2-12-35.png",
+          "image": "nt/figures/t2-12-35.jpg",
           "caption": "Hình 12.35 — Sơ đồ bố trí chung hệ thống tời",
           "parts": [
             {
@@ -25142,15 +25142,15 @@
       "chapterTitle": "Khung vỏ và thiết bị phụ trên ô tô",
       "sourceGallery": [
         {
-          "image": "nt/figures/t2-12-35.png",
+          "image": "nt/figures/t2-12-35.jpg",
           "caption": "Hình 12.35 — Sơ đồ bố trí chung hệ thống tời · trang PDF 169"
         },
         {
-          "image": "content/resources/C12_image28.png",
+          "image": "content/resources/C12_image28.jpg",
           "caption": "Hình gốc trong bài 12.2.2"
         },
         {
-          "image": "content/resources/C12_image29.png",
+          "image": "content/resources/C12_image29.jpg",
           "caption": "Hình gốc trong bài 12.2.2"
         },
         {
@@ -25162,15 +25162,15 @@
           "caption": "Hình gốc trong bài 12.2.2"
         },
         {
-          "image": "content/resources/C12_image32.png",
+          "image": "content/resources/C12_image32.jpg",
           "caption": "Hình gốc trong bài 12.2.2"
         },
         {
-          "image": "nt/figures/t2-12-42.png",
+          "image": "nt/figures/t2-12-42.jpg",
           "caption": "Hình 12.42 — Cơ cấu điều chỉnh nâng hạ thùng xe KamAZ 65115 · Tập 2/2026, trang PDF 177"
         },
         {
-          "image": "nt/figures/t2-12-43.png",
+          "image": "nt/figures/t2-12-43.jpg",
           "caption": "Hình 12.43 — Sơ đồ nguyên lý của hệ thống nâng hạ thùng xe KamAZ 65115 · Tập 2/2026, trang PDF 178"
         }
       ],
@@ -25226,238 +25226,238 @@
       "number": "9.9",
       "caption": "Hình 9.9 — Bố trí chung của hệ thống lái",
       "page": 20,
-      "image": "nt/figures/t2-9-9.png",
+      "image": "nt/figures/t2-9-9.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "9.3",
       "caption": "Hình 9.3 — Cơ cấu lái trục vít – bánh vít",
       "page": 15,
-      "image": "nt/figures/t2-9-3.png",
+      "image": "nt/figures/t2-9-3.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "9.4",
       "caption": "Hình 9.4 — Cơ cấu lái trục vít lõm – con lăn",
       "page": 16,
-      "image": "nt/figures/t2-9-4.png",
+      "image": "nt/figures/t2-9-4.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "9.6",
       "caption": "Hình 9.6 — Cơ cấu lái bánh răng – thanh răng trên các mẫu xe thế hệ cũ",
       "page": 18,
-      "image": "nt/figures/t2-9-6.png",
+      "image": "nt/figures/t2-9-6.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "9.8",
       "caption": "Hình 9.8 — Cơ cấu lái trục vít – đai ốc – thanh răng – cung răng",
       "page": 19,
-      "image": "nt/figures/t2-9-8.png",
+      "image": "nt/figures/t2-9-8.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "9.23",
       "caption": "Hình 9.23 — Các góc đặt bánh xe dẫn hướng",
       "page": 29,
-      "image": "nt/figures/t2-9-23.png",
+      "image": "nt/figures/t2-9-23.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "9.30",
       "caption": "Hình 9.30 — Các kiểu bố trí trợ lực lái trên ô tô",
       "page": 35,
-      "image": "nt/figures/t2-9-30.png",
+      "image": "nt/figures/t2-9-30.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "9.37",
       "caption": "Hình 9.37 — Sơ đồ trợ lực lái điện",
       "page": 42,
-      "image": "nt/figures/t2-9-37.png",
+      "image": "nt/figures/t2-9-37.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "10.2",
       "caption": "Hình 10.2 — Cơ cấu phanh tang trống",
       "page": 56,
-      "image": "nt/figures/t2-10-2.png",
+      "image": "nt/figures/t2-10-2.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "10.18",
       "caption": "Hình 10.18 — Cấu tạo phanh đĩa",
       "page": 64,
-      "image": "nt/figures/t2-10-18.png",
+      "image": "nt/figures/t2-10-18.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "10.28",
       "caption": "Hình 10.28 — Dẫn động phanh cơ khí",
       "page": 69,
-      "image": "nt/figures/t2-10-28.png",
+      "image": "nt/figures/t2-10-28.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "10.34",
       "caption": "Hình 10.34 — Sơ đồ dẫn động điều khiển phanh bằng thủy lực",
       "page": 72,
-      "image": "nt/figures/t2-10-34.png",
+      "image": "nt/figures/t2-10-34.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "10.46",
       "caption": "Hình 10.46 — Sơ đồ nguyên lý hệ thống phanh khí nén",
       "page": 82,
-      "image": "nt/figures/t2-10-46.png",
+      "image": "nt/figures/t2-10-46.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "10.55",
       "caption": "Hình 10.55 — Sơ đồ hệ thống phanh thủy lực – khí nén",
       "page": 90,
-      "image": "nt/figures/t2-10-55.png",
+      "image": "nt/figures/t2-10-55.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "10.58",
       "caption": "Hình 10.58 — Sơ đồ các cụm chức năng cơ cấu ABS thủy lực",
       "page": 92,
-      "image": "nt/figures/t2-10-58.png",
+      "image": "nt/figures/t2-10-58.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "11.21",
       "caption": "Hình 11.21 — Hệ thống treo có bộ phận đàn hồi là lò xo xoắn",
       "page": 123,
-      "image": "nt/figures/t2-11-21.png",
+      "image": "nt/figures/t2-11-21.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "11.1",
       "caption": "Hình 11.1 — Lắp nhíp trên xe",
       "page": 112,
-      "image": "nt/figures/t2-11-1.png",
+      "image": "nt/figures/t2-11-1.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "11.16",
       "caption": "Hình 11.16 — Sơ đồ hệ thống treo MacPherson",
       "page": 120,
-      "image": "nt/figures/t2-11-16.png",
+      "image": "nt/figures/t2-11-16.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "11.32",
       "caption": "Hình 11.32 — Bộ phận đàn hồi khí nén",
       "page": 130,
-      "image": "nt/figures/t2-11-32.png",
+      "image": "nt/figures/t2-11-32.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "11.39",
       "caption": "Hình 11.39 — Giảm chấn kiểu ống đơn",
       "page": 135,
-      "image": "nt/figures/t2-11-39.png",
+      "image": "nt/figures/t2-11-39.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "11.40",
       "caption": "Hình 11.40 — Giảm chấn kiểu ống kép",
       "page": 136,
-      "image": "nt/figures/t2-11-40.png",
+      "image": "nt/figures/t2-11-40.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "11.45",
       "caption": "Hình 11.45 — Các bộ phận và hệ thống của khung gầm Hydractive",
       "page": 140,
-      "image": "nt/figures/t2-11-45.png",
+      "image": "nt/figures/t2-11-45.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "11.48",
       "caption": "Hình 11.48 — Sơ đồ nối mạch của bộ giảm chấn điện tử",
       "page": 143,
-      "image": "nt/figures/t2-11-48.png",
+      "image": "nt/figures/t2-11-48.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "12.6",
       "caption": "Hình 12.6 — Cấu tạo một số khung xe tải",
       "page": 150,
-      "image": "nt/figures/t2-12-6.png",
+      "image": "nt/figures/t2-12-6.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "12.41",
       "caption": "Hình 12.41 — Sơ đồ bố trí của hệ thống nâng hạ thùng xe KamAZ 65115",
       "page": 176,
-      "image": "nt/figures/t2-12-41.png",
+      "image": "nt/figures/t2-12-41.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "12.35",
       "caption": "Hình 12.35 — Sơ đồ bố trí chung hệ thống tời",
       "page": 169,
-      "image": "nt/figures/t2-12-35.png",
+      "image": "nt/figures/t2-12-35.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "9.47",
       "caption": "Hình 9.47 — Hệ thống lái không trục lái",
       "page": 50,
-      "image": "nt/figures/t2-9-47.png",
+      "image": "nt/figures/t2-9-47.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "9.44",
       "caption": "Hình 9.44 — Sơ đồ hệ thống lái trợ lực thủy lực điều khiển điện tử",
       "page": 47,
-      "image": "nt/figures/t2-9-44.png",
+      "image": "nt/figures/t2-9-44.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "10.61",
       "caption": "Hình 10.61 — Van điện từ 2-vị trí có van điều khiển lưu lượng",
       "page": 94,
-      "image": "nt/figures/t2-10-61.png",
+      "image": "nt/figures/t2-10-61.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "10.72",
       "caption": "Hình 10.72 — ABS ở dẫn động phanh khí nén — chế độ tăng áp",
       "page": 100,
-      "image": "nt/figures/t2-10-72.png",
+      "image": "nt/figures/t2-10-72.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "10.73",
       "caption": "Hình 10.73 — Chế độ giữ áp và giảm áp",
       "page": 100,
-      "image": "nt/figures/t2-10-73.png",
+      "image": "nt/figures/t2-10-73.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "12.28",
       "caption": "Hình 12.28 — Sơ đồ bố trí hệ thống điều chỉnh áp suất hơi lốp trên xe ZIL-131",
       "page": 163,
-      "image": "nt/figures/t2-12-28.png",
+      "image": "nt/figures/t2-12-28.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "12.42",
       "caption": "Hình 12.42 — Cơ cấu điều chỉnh nâng hạ thùng xe KamAZ 65115",
       "page": 177,
-      "image": "nt/figures/t2-12-42.png",
+      "image": "nt/figures/t2-12-42.jpg",
       "source": "Tập 2, bản 22/10/2026"
     },
     {
       "number": "12.43",
       "caption": "Hình 12.43 — Sơ đồ nguyên lý của hệ thống nâng hạ thùng xe KamAZ 65115",
       "page": 178,
-      "image": "nt/figures/t2-12-43.png",
+      "image": "nt/figures/t2-12-43.jpg",
       "source": "Tập 2, bản 22/10/2026"
     }
   ],

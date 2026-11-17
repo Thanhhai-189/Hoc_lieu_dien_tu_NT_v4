@@ -1,4 +1,4 @@
-.c2-lab,.c2-catalog {--c2-ink:#172b42;--c2-muted:#516477;--c2-blue:#14629d;--c2-soft:#eef6fc;--c2-line:#d7e3ed;--c2-green:#166546;--c2-wrong:#a53131;--c2-orange:#b95d00;color:var(--c2-ink);font-family:system-ui,-apple-system,"Segoe UI",sans-serif;line-height:1.6}
+.c2-lab,.c2-catalog {--c2-ink:#172b42;--c2-muted:#516477;--c2-blue:#14629d;--c2-soft:#eef6fc;--c2-line:#d7e3ed;--c2-green:#166546;--c2-wrong:#a53131;--c2-orange:#b95d00;color:var(--c2-ink);font-family: "Segoe UI",Arial,sans-serif;;line-height:1.6}
 .c2-lab {margin:30px 0;border:1px solid var(--c2-line);border-radius:18px;background:#fff;box-shadow:0 7px 24px #1636520b;overflow:hidden}
 .c2-lab *,.c2-catalog * {box-sizing:border-box}
 .c2-lab h2,.c2-lab h3,.c2-lab h4,.c2-catalog h1,.c2-catalog h2 {color:var(--c2-ink);line-height:1.35;margin:0 0 12px}
@@ -100,7 +100,7 @@
 .c2-banner {padding:14px 18px;margin:14px 0 22px;border:1px solid #c4dcec;border-left:4px solid #14629d;border-radius:9px;background:#f1f8fd;font:14px/1.6 system-ui,sans-serif;color:#203b52}
 .c2-banner a {font-weight:700;color:#10598d}
 .c2-upgraded-page .exe-text-template img {max-width:100%!important;height:auto!important}
-.c2-page {background:#eef3f8;margin:0;font-family:system-ui,-apple-system,"Segoe UI",sans-serif}
+.c2-page {background:#eef3f8;margin:0;font-family: "Segoe UI",Arial,sans-serif;}
 .c2-page-shell {max-width:1120px;margin:auto;padding:28px 24px 50px}
 .c2-page-nav {display:flex;gap:18px;flex-wrap:wrap;margin-bottom:24px;font-size:14px}
 .c2-page-nav a,.c2-catalog a {color:#105c93}
