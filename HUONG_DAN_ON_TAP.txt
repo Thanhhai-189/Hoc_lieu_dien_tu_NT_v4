@@ -1,8 +1,0 @@
-ÔN TẬP — HỌC LIỆU ĐIỆN TỬ TƯƠNG TÁC NT
-
-Mở BAT_DAU.html → chọn Ôn tập trên thanh chức năng phía trên.
-Chọn tổng hợp 411 câu hoặc một chương. Có thể chọn số câu trong lượt.
-Mỗi câu chọn đáp án hoặc ghép đôi tính một điểm; câu ghép phải đúng toàn bộ cặp.
-Kiểm tra từng câu để đọc giải thích; Kết thúc và chấm điểm để hoàn tất lượt.
-Có thể ôn lại câu sai. Kết quả ôn độc lập với 408 hoạt động trong bài.
-Sao lưu đầy đủ tại trang Tiến độ trước khi chuyển máy hoặc xóa dữ liệu trình duyệt.
